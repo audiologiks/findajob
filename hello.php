@@ -1,10 +1,10 @@
 <?php
 	// make an associative array of callers we know, indexed by phone number
 	$people = array(
-		"+819072840430"=>"Tom",
-		"+819024960935"=>"BT",
-                "+81355626009"=>"Work",
-                "0357206723"=>"Boss",
+		"+81-xxxx-xxxx"=>"Tom",
+		"+81-xxxx-xxxx"=>"BT",
+                "+81-xxxx-xxxx"=>"Work",
+                "xxxx-xxxx"=>"Boss",
 		
 	);
 	
