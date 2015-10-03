@@ -8,7 +8,7 @@ echo '<Response></Response>'; //Place the desired response (if any) here.
 /**
 * This section actually sends the email.
 */
-$to = "tom.jones@audiologiks.com"; // Your email address.
+$to = "xxxxx@xxxxxxx"; // Your email address.
 $subject = "Message from {$_REQUEST['From']}";
 $message = "You have received a message from {$_REQUEST['From']}.";
 $message .= "To listen to this message, please visit this URL: {$_REQUEST['RecordingUrl']}";
