@@ -1,4 +1,4 @@
-al2655 - converting this into a directory script for banks on Misawa AFB, Aomori prefecture in Japan
+al2655 - converting this into a directory script for Japanese and English language learners
 ======
 
-repository for my twilio scripts for directories of businesses on base and off base at Misawa AFB
+repository for my twilio scripts for vocabulary directories 
