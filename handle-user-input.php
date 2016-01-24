@@ -12,7 +12,7 @@
 	}
 	else if ($user_pushed == 1)
 	{
-        echo '<Gather action="http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-candidate.php" numDigits="8">';
+        echo '<Gather action="http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-student.php" numDigits="8">';
 		echo '<Say voice="alice" language="ja-JP">ありがとうございます。</Say>';
 		echo '<Say voice="alice" language="ja-JP">アクセスコードを入力してください。もしなかったら１０００を押してください</Say>';
 		echo '<Pause>';
@@ -20,16 +20,16 @@
 		echo '<Say voice="alice" language="ja-JP">サポート担当にをお話したいかた、3番を押してください</Say>';
         echo '</Gather>';
 		echo '<Say>Sorry, I did not get that. Please enter the number again. すみません、も一度押してください。</Say>';
-        echo '<Redirect method="GET">http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-candidate-input.php"</Redirect>';
+        echo '<Redirect method="GET">http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-student-input.php"</Redirect>';
 	}
 	# @end snippet
 	# @start snippet
 	else if ($user_pushed == 2291968)
    { 
-	echo '<Gather action="http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/02291968.php" numDigits="2">';
+	echo '<Gather action="http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/20160124.php" numDigits="2">';
 	echo "<Say>Press the code or the button for the office or company you want to connect to</Say>";
 	echo '</Gather>';
-	echo '<Redirect method="GET">http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/02291968.php</Redirect>';   
+	echo '<Redirect method="GET">http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/20160124.php</Redirect>';   
    } 
    # @end snippet
 	# @end snippet
