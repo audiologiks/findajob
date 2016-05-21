@@ -22,7 +22,7 @@ $token->allowClientIncoming("xxxxxxx");
 <title>ClearFigure</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<link href="http://fonts.googleapis.com/css?family=Chivo:400,900" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Chivo:400,900" rel="stylesheet" />
 <link href="default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 <!--[if IE 6]>
@@ -35,7 +35,7 @@ $token->allowClientIncoming("xxxxxxx");
 		</title>
 		<!-- @start snippet -->
 <script type="text/javascript" src="//static.twilio.com/libs/twiliojs/1.1/twilio.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 
 		<script type="text/javascript">
 	
@@ -146,18 +146,20 @@ $token->allowClientIncoming("xxxxxxx");
 	<tbody>
 		<font="4">
 <tr><th>Button</th><th>Company</th></tr>
-<tr><td>#3</td><td><a href="http://www.abbott.com">Abbott</a>update</td>
-<tr><td>#4 </td><td><a target="_blank" href="http://www.emc.com">EMC</a> update</td>
-<tr><td>#5</td><td> <a href="http://www.verizon.com">Verizon</a> update</td>
-<tr><td>#6 </td><td><a href="http://www.rackspace.com">Rackspace</a> update</td>
-<tr><td>#7 </td><td><a href="http://www.yahoo.com">Yahoo</a> update</td>
-<tr><td>#8 </td><td> <a href="http://www.Alcoa.com">Alcoa</a> update</td>
-<tr><td>#9 </td><td><a href="http://www.Salesforce.com">Salesforce</a> update</td>
-<tr><td>#10 </td><td><a href="http://www.Teradata.com"> Teradata</a> update</td>
-<tr><td>#11 </td><td> <a href="http://www.VMWare.com"> VMWare</a> update</td>
-<tr><td>#12 </td><td> <a href="http://www.aol.com">Aol</a> earnings update</td>
-<tr><td>#13</td><td><a href="http://www.trw.com">TRW </a> update</td>
-<tr><td>#14 </td><td><a href="http://www.bnymellon.com">BNY Mellon</a> earnings</a> update</td>
+<tr><td>#12 </td><td> <a href="http://www.VMWare.com"> VMWare</a> update</td>
+<tr><td>#13</td><td><a href="http://www.aol.com">AOL </a> update - An internet content company</td>
+<tr><td>#14 </td><td><a href="http://www.bnymellon.com">TRW</a> earnings</a> update - An Automotive Parts Company</td>
+<tr><td>#19 </td><td><a href="http://www.facebook.com">Facebook</a> update A social network company</td>
+<tr><td>#20 </td><td><a href="http://www.broadcom.com"> Broadcom</a> update - A semiconductor company (bought by Avago)</td>
+<tr><td>#21 </td><td><a href="http://www.emc.com">EMC</a> update - A storage networking company (bought by Dell)</td>
+<tr><td>#22 </td><td> <a href="http://www.cognizant.com">Cognizant</a> earnings update - An IT and Business Process Outsourcing company</td>
+<tr><td>#23 </td><td> <a href="http://www.cisco.com">Cisco</a> update - A networking equipment company</td>
+<tr><td>#24 </td><td><a target="_blank" href="http://www.intel.com">Intel</a> update - A semiconductor company</td>
+<tr><td>#25</td><td> <a href="http://www.microsoft.com">Microsoft</a> update - A software company</td>
+<tr><td>#26 </td><td><a href="http://www.salesforce.com">Salesforce</a> update - A Software as a Service company</td>
+<tr><td>#27</td><td><a href="http://www.tesla.com">Tesla</a>update - An electric car and battery company</td>
+
+
 <tr></tr>
 </font>
 </tbody>
@@ -187,9 +189,7 @@ $token->allowClientIncoming("xxxxxxx");
 		<font="4">
 <tr><th>Button</th><th>Company Webcast / Application</th></tr>
 <tr><td>#1</td><td><a href="http://www.audiologiks.com/m">Main Call Client (logiks app)</a></td>
-<tr><td>#2 </td><td><a target="_blank" href="http://www.audiologiks.com/m/browser-phone.php">Browser Phone (logiks app)</a> </td>
-<tr><td>#5</td><td> <a href="http://www.audiologiks.com/m/logiks.php">Logiks Phone</a></td>
-<tr><td>#6 </td><td><a href="http://www.audiologiks.com/m/hello-client.php">Jenny Client (logiks app)</a> update</td>
+
 <tr><td>#30</td><td><a href="http://www.yahoo.com">Yahoo</a> update</td>
 <tr><td>#8 </td><td> <a href="http://www.Alcoa.com">Alcoa</a> update</td>
 <tr><td>#9 </td><td><a href="http://www.Salesforce.com">Salesforce</a> update</td>
