@@ -1,4 +1,3 @@
-al2655 - converting this into a directory script for Japanese and English language learners
+Guide to web client templates for creating voice menus
 ======
-
-repository for my php and html code for a desktop client. Used for a meetup in Tokyo 
+Repository for code for a desktop client, written in php and html. Used for a meetup in Tokyo to encourage members to engage in exchange languages and to attend the Meetup.
