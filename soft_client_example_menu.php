@@ -2,7 +2,7 @@
 
 
 <?php
-// @start snippet
+// @start snippet.  Put in your Twilio token and password, as well as the app token
 include 'xxxxxxx/Services/Twilio/Capability.php';
 
 $accountSid = 'Axxxxxxxxx';
@@ -19,12 +19,15 @@ $token->allowClientIncoming("xxxxxxx");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>ClearFigure</title>
+
+<!--Title for the html page and metadata, style sheet-->
+<title>Example of a soft client for Twilio</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="https://fonts.googleapis.com/css?family=Chivo:400,900" rel="stylesheet" />
 <link href="default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
 <!--[if IE 6]>
 <link href="default_ie6.css" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -33,9 +36,9 @@ $token->allowClientIncoming("xxxxxxx");
 		<title>
 			Click to Call
 		</title>
-		<!-- @start snippet -->
-<script type="text/javascript" src="//static.twilio.com/libs/twiliojs/1.1/twilio.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<!-- updated the js from Twilio and Google-->
+<script type="text/javascript" src="//static.twilio.com/libs/twiliojs/1.4/twilio.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 		<script type="text/javascript">
 	
