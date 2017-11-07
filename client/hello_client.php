@@ -26,13 +26,14 @@ $token = $capability->generateToken();
 <html>
   <head>
     <title>jenny</title>
-    <script type="text/javascript"
-      src="//static.twilio.com/libs/twiliojs/1.2/twilio.min.js"></script>
-    <script type="text/javascript"
-      src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
-    </script>
+
+    <!-- updated the js from Twilio and Google-->
+<script type="text/javascript" src="//static.twilio.com/libs/twiliojs/1.4/twilio.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
     <link href="http://static0.twilio.com/packages/quickstart/client.css"
       type="text/css" rel="stylesheet" />
+      
     <script type="text/javascript">
  
       Twilio.Device.setup("<?php echo $token; ?>");

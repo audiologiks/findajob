@@ -75,9 +75,9 @@ Audiologiks: Misawa Directory</font></h1>
 			<title>
 			Click to Call
 		</title>
-		<!-- @start snippet -->
-<script type="text/javascript" src="//static.twilio.com/libs/twiliojs/1.1/twilio.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<!-- updated the js from Twilio and Google-->
+<script type="text/javascript" src="//static.twilio.com/libs/twiliojs/1.4/twilio.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 		<script type="text/javascript">
 	

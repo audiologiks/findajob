@@ -8,7 +8,7 @@
 
 	if ($user_pushed == 0)
 	{
-	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/hello-misawa.php</Redirect>';
+	echo '<Redirect>http://xxxxxxx/tk_server/clicktocall/misawa/hello-misawa.php</Redirect>';
 	}
 	else if ($user_pushed == 1)
 	{
@@ -23,12 +23,12 @@
 	echo '<Say voice="alice" language="ja-JP">３４番を入力すると、日本語と英語のヘードラインを聞きます。</Say>';
 	echo '</Gather>';
 	echo '<Say voice="alice" language="ja-JP">最初のメニューに戻ります。少々お待ちください。</Say>';
-        echo '<Redirect method="GET">http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-student-input.php"</Redirect>';
+        echo '<Redirect method="GET">http://xxxxxxx/tk_server/clicktocall/misawa/handle-student-input.php"</Redirect>';
 	}
 	# @end snippet
 	 else if ($user_pushed == 2)
 	{
-	echo '<Gather action="http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-student-e.php" numDigits="8">';
+	echo '<Gather action="http://xxxxxxx/tk_server/clicktocall/misawa/handle-student-e.php" numDigits="8">';
 	echo '<Say>Welcome to the English menu. </Say>';
 	echo '<Say>Please look at our website for our monthly practice Menu. If you know the option you want, please enter that.</Say>';
 	echo '<Say>If you are looking at our Monthly English Practice menu, please enter 1099. If you know the option you want, please enter that.</Say>';
@@ -41,7 +41,7 @@
 	echo "<Say>Sorry, I didn't get your response.</Say>";
 	echo "<Say>Going back to the beginning of the menu. If you are finished, please hang up.</Say>";
 	echo '<Say>Sorry, I did not get that. Please enter the number again. すみません、も一度押してください。</Say>';
-    	echo '<Redirect method="GET">http://safe-sea-5987.herokuapp.com/public/tk_server/clicktocall/misawa/handle-student-e.php"</Redirect>';
+    	echo '<Redirect method="GET">http://xxxxxxx/tk_server/clicktocall/misawa/handle-student-e.php"</Redirect>';
     }
 	# @start snippet
 	else if ($user_pushed == 3)
@@ -56,33 +56,33 @@
   	elseif ($user_pushed == 5)
 	{
 	echo "<Say>Connecting to Sales Force dot com.</Say>";
-     	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/kddiweb/sf/mail-e.php</Redirect>';
+     	echo '<Redirect>http://xxxxxxx/kddiweb/sf/mail-e.php</Redirect>';
     }
 # @start snippet
   	elseif ($user_pushed == 6)
 	{
 	echo "<Say>Connecting to the Recording System.  </Say>";
-     	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/kddiweb/inte/mail-e.php</Redirect>';
+     	echo '<Redirect>http://xxxxxxx/kddiweb/inte/mail-e.php</Redirect>';
     }
 	# @start snippet
   	elseif ($user_pushed == 7)
 	{
 	echo "<Say>Connecting to Zen Desk for Audio lojiks</Say>";
-     	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/kddiweb/inte/mail-zendesk-e.php</Redirect>';
+     	echo '<Redirect>http://xxxxxxx/kddiweb/inte/mail-zendesk-e.php</Redirect>';
     }
 	# @start snippet
   	elseif ($user_pushed == 8) 
   {
    	echo "<Say>Connecting to Tumbler </Say>";
-   	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/kddiweb/inte/mail-tumblr-e.php</Redirect>';
+   	echo '<Redirect>http://xxxxxxx/kddiweb/inte/mail-tumblr-e.php</Redirect>';
   } 
   	# @start snippet
 	else if ($user_pushed == 9)
 	{
 	echo "<Say>Connecting to outlook</Say>";
-	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/kddiweb/inte/mail-work-e.php</Redirect>';
+	echo '<Redirect>http://xxxxxxx/kddiweb/inte/mail-work-e.php</Redirect>';
 	}
    	elseif ($user_pushed == 1099) 
   {
-   	echo '<Redirect>http://safe-sea-5987.herokuapp.com/public/uk_server/prod01a/qt10/hello-101.php</Redirect>';
+   	echo '<Redirect>http://xxxxxxx/uk_server/prod01a/qt10/hello-101.php</Redirect>';
 ?>
