@@ -15,4 +15,12 @@ Folders
 
 **Twiml** - Examples from Twilio website that I download to work on as examples, or code for voice features that I have adapted.
 
+# How Does this Work with:
+
+* [Interactive Voice Menus](https://github.com/audiologiks/interactive-voice-menus) - The webclients connect to voice menus on different topics with different feature sets.
+
+* [Database Tables](https://github.com/audiologiks/database_tables) - I use database tables for links to content on the webpage on the webclient. Groups of content are organized by table.
+
+* [Dialpads](https://github.com/audiologiks/kb-Articles/blob/master/Images/dialpad/dialpad_icons_1.md) - Different dialpads can be created to allow users access to features of the interactive voice menus.
+
 
