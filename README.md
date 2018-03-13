@@ -1,5 +1,8 @@
 Guide to web client templates for accessing voice menus and other features
 ======
+### We have started an indiegogo fundraising campaign 
+[https://igg.me/at/audiologiks/x/17973408](https://igg.me/at/audiologiks/x/17973408). Check it out to see more of what we do.
+
 Repository for code for a desktop client, written in php and html. Example use cases areL
 * Used for a meetup in Tokyo to encourage members to engage in exchange languages and to attend the Meetup.
 * To access audio files with buttons
