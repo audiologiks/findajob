@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../images/style/favicon-al.png">
+
+    <title>Welcome to the Meetup</title>
+
+    <!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+<link rel="stylesheet" href="https://bootswatch.com/4/sandstone/bootstrap.min.css">
+<meta name="google-site-verification" content="" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://media.twiliocdn.com/sdk/js/client/v1.4/twilio.min.js"></script>
+
+    <!-- Custom styles for this template -->
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="blog-masthead">
+        <div class="container">
+          <nav class="nav">
+            <a class="nav-link active" href="/">Home</a>
+            <a class="nav-link" href="https://github.com/audiologiks">Github Code</a>
+            <a class="nav-link" href="https://audiologiks.zendesk.com/hc/ja">Knowledge Base</a>
+            <a class="nav-link" href="../../ja">Japanese (日本語)</a>
+          </nav>
+        </div>
+      </div>
+
+      <div class="blog-header">
+        <div class="container">
+          <h1 class="blog-title">Come to the Meetup today. Save a Seat.</h1>
+        </div>
+      </div>
+    </header>
+
+    <main role="main" class="container">
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <div class="blog-post">
+          	<img height="75" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/meetup.png">
+            <h2 class="blog-post-title">Save a Seat at the Meetup on Saturday, March 17th</h2>
+            <h3>Leave a Message with us or IM us on the Meetup</h3>
+
+        <p>This should be used with browsers on a desktop or laptop computer. To use from your mobile, call 050-3131-8611 and press 4.</p>
+        <p>Press the button below and leave a message if you can come on Saturday. We will save you a seat at Co-Edo Co-working space. Or IM me on the Meetup. So far Shoko, Steven, Sho and Larajuku have reached out. Thanks so much. I will send out information on working overseas later today.</p>
+
+<!-- @start snippet -->
+		
+
+		<script type="text/javascript">
+	
+
+		$(document).ready(function(){
+
+			Twilio.Device.setup("<?php echo $token->generateToken();?>");
+			var connection=null;
+			
+			$("#call").click(function() {  
+				params = { "tocall" : $('#tocall').val()};
+				connection = Twilio.Device.connect(params);
+			});
+			$("#hangup").click(function() {  
+				Twilio.Device.disconnectAll();
+			});
+
+			Twilio.Device.ready(function (device) {
+				$('#status').text('Ready to start call');
+			});
+
+			Twilio.Device.incoming(function (conn) {
+				if (confirm('Accept incoming call from ' + conn.parameters.From + '?')){
+					connection=conn;
+				    conn.accept();
+				}
+			});
+
+			Twilio.Device.offline(function (device) {
+				$('#status').text('Offline');
+			});
+			    
+			    function call() {
+        // get the phone number or client to connect the call to
+        params = {"PhoneNumber": $("#number").val()};
+        Twilio.Device.connect(params);
+      };
+
+			Twilio.Device.error(function (error) {
+				$('#status').text(error);
+			});
+
+			Twilio.Device.connect(function (conn) {
+				$('#status').text("Successfully established call");
+				toggleCallStatus();
+			});
+
+			Twilio.Device.disconnect(function (conn) {
+				$('#status').text("Call ended");
+				toggleCallStatus();
+			});
+			
+			function toggleCallStatus(){
+				$('#call').toggle();
+				$('#hangup').toggle();
+				$('#dialpad').toggle();
+			}
+
+			$.each(['0','1','2','3','4','5','6','7','8','9','star','pound'], function(index, value) { 
+		    	$('#button' + value).click(function(){ 
+					if(connection) {
+						if (value=='star')
+							connection.sendDigits('*')
+						else if (value=='pound')
+							connection.sendDigits('#')
+						else
+							connection.sendDigits(value)
+						return false;
+					} 
+					});
+			});
+
+
+		});
+
+		</script>
+<!-- @end snippet -->
+	<div align="center">
+			<!-- @start snippet -->
+			<h2>Yes, I will attend!</h2>
+			<input type="image"  id="call" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/dialpad/original/icons8-user-groups.png" name="Yes! I'm coming">
+			<input type="image" id="hangup" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/cancel.png" style="display:none;"/>
+			<div id="status">
+				Offline
+			</div>
+	<div id="dialpad" style="display:none;">
+		<table>
+			<tr>
+				<td><input type="image" class="imgClass" id="button4" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/dialpad/icons8-checkmark-filled-50.png" name="submit"></td>
+			</tr>
+		</table>
+	</div>
+	</ul>
+	</div>
+
+ <blockquote>
+ 		<p>Hello, welcome to the Meetup.　To save a seat, please press the check button and we'll save you a seat</p>
+		
+		<h1>We are raising money via Indiegogo</h1>
+   		<a href="https://www.indiegogo.com/projects/learning-japanese-for-a-job/x/17973408#/"> <img height="150" src="../../images/web/IGG_Heart.png"></a>
+		<p>We are offering different web clients for users and Meetup members to access our content, practice and help them learn. Check out our perks to add features to the basic web client, and please donate to our campaign.</p>
+
+    </blockquote>
+
+          </div><!-- /.blog-post -->
+
+        </div><!-- /.blog-main -->
+
+        <aside class="col-sm-3 ml-sm-auto blog-sidebar">
+          <div class="sidebar-module">
+            <ol class="list-unstyled">
+     <h4>Dial 050-3131-8611</h4>
+<p>You can dial the menu above from your mobile phone and access the menu. Just press 4 to say you are coming.</p>
+<p>ミートアップに出席する方、４番を押してください</p>
+<p>Also look at our other <a href="https://www.audiologiks.com/webclient/Japan/desk_app.php">Desktop App Demo</a></p>
+<h4>To learn about the Co-Working space, <a href="https://www.coworking.tokyo.jp/index.en.html">click here</a></h4>
+<h4>To look at past Meetup documents, <a href="https://audiologiks.zendesk.com/hc/ja/categories/201888646-Looking-for-a-Job-Outside-of-Japan-%E6%97%A5%E6%9C%AC%E3%81%AB%E4%BD%8F%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C-%E5%A4%96%E5%9B%BD%E3%81%AB%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84">click here</a></h4>
+	<p>We also have a SoundCloud page with audio information on getting jobs or preparing for different aspects of the job search process.</p>
+	<p><a href="https://soundcloud.com/tom-jones-110">Click here to see it</a> and listen to the audio.</p>
+
+          </div>
+          <div class="sidebar-module">
+          </div>
+        </aside><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </main><!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>Copyright 2018 <a href="https://www.audiologiks.com/">Audiologiks</a> <a href="#">Back to top</a></p>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+  </body>
+</html>
