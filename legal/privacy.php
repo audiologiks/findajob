@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <h3>Privacy</h3>
 <p>If you have questions about deleting or correcting your personal data please contact our support team.
 Audiologiks Inc. (“Audiologiks”) operates several websites including Audiologiks.com, and related sub-domains. It is Audiologiks’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
