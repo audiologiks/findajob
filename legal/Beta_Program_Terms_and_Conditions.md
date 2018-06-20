@@ -1,5 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
+<body>
 <h3>1.  Participation in the Audiologiks Beta Software Program. </h3><p> The purpose of the Audiologiks Beta Software Program (“Beta Program”) is to make alpha, beta, and other pre-release software, pre-release services, and related documentation, materials, and information (collectively, the “Pre-Release Software”) available to Beta Program participants from time to time for the purpose of providing Audiologiks with feedback on the quality and usability of the Pre-Release Software.  You understand and agree that participation in the Beta Program is voluntary and does not create a legal partnership, agency, or employment relationship between you and Audiologiks.  You understand that your participation in the Beta Program does not obligate Audiologiks to provide you with any Pre-Release Software.  Audiologiks reserves the right to modify the terms, conditions, and policies of this Beta Program from time to time, and to revoke your participation in this Beta Program at any time.  If Audiologiks makes changes to the terms and conditions of this Agreement, then Audiologiks will present such revised terms and conditions to you on the Beta Program web portal.</p>
  
 <p>By participating in the Beta Program, You certify that you are of the legal age of majority in the jurisdiction in which you reside (at least 18 years of age in many countries) and you represent that you are legally permitted to join the Beta Program.  This Agreement is void where prohibited by law and the right to become a Beta Program participant is not granted in such jurisdictions.  Unless otherwise agreed or permitted by Audiologiks in writing, you cannot share or transfer any software or other materials you receive from Audiologiks in connection with being a Beta Program participant.  The Audiologiks Access Code and password you use to login as a Beta Program participant cannot be shared in any way or with any one.  You are responsible for maintaining the confidentiality of your Audiologiks Access Code and password and for any activity in connection with your account.  Notwithstanding the foregoing restrictions in this Section 1, if you are the parent or legal guardian of individuals between the ages of 13 and the legal age of majority in the jurisdiction in which you reside, you may allow such individuals to share your Audiologiks Access Code and password for their use in connection with the Beta Program solely under your supervision and only in accordance with this Agreement.  You are responsible for such individuals’ compliance with and violations of this Agreement and any other Audiologiks agreements.</p>
@@ -56,66 +57,5 @@
 <h3>18. Government End Users.</h3><p>  The Audiologiks Software and related documentation are “Commercial Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.  Unpublished-rights reserved under the copyright laws of the United States.</p>
 
 <h3>19. Severability; Complete Understanding.</h3><p> If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.  This Agreement, including any appendices made effective pursuant to this Agreement and any additional licenses accompanying the Audiologiks Software, constitutes the entire agreement with respect to the Confidential Information disclosed herein and supersedes all prior or contemporaneous oral or written agreements concerning such Confidential Information.  Except to the extent provided under Section 2 above, any inconsistencies between this Agreement and any license agreement accompanying the Audiologiks Software will be governed by the license agreement accompanying the Audiologiks Software.  Except as expressly set forth herein, any waiver or amendment of any provision of this Agreement shall be effective only if in writing and signed by authorized representatives of both parties.  Any translation of this Agreement is done for local requirements and in the event of a dispute between the English and any non-English versions, the English version of this Agreement shall govern, to the extent not prohibited by local law in your jurisdiction.</p>
-
-</div>
-</div>
-<div class="container">
-<!-- Example row of columns -->
-<div class="row">
-<div class="col-md-4">
-	<h2><strong>Language Services</strong></h2>
-	<h3>Transcription</h3>
-		<p>Transcribing recordings of English into a written document.</p>
-	<h3>Translation</h3>
-		<p>Translating recordings of Japanese or another language into English.</p>
-	<h3>Narration</h3>
-		<p>Narrating English or another language with a written presentation.</p>
-	<h3>Correction</h3>
-		<p>Correcting English documentation or written materials.</p>
-	<h3>Editing</h3>
-		<p>Editing English documentation or written materials.</p>
-	<h3>Testing</h3>
-		<p>Designing tests for listening, speaking, reading and picture/scene description.</p>
-	<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-</div>
-<div class="col-md-4">
-	<h2><strong>Research</strong></h2>
-	<h3>Industries</h3>
-	<p>Accountancy Firms</p>
-	<p>Advertising, Media and PR</p>
-	<p>Agriculture, Fishing & Forestry</p>
-	<p>Automotive</p>
-	<p><a class="btn btn-secondary" href="https://audiologiks.zendesk.com/hc/ja/articles/115003500566-21-Industries-for-Jobs-on-Daijob-com" role="button">View details &raquo;</a></p>
-	<h3>Other Ways of Working in Japan</h3>
-	<p><a href="https://audiologiks.zendesk.com/hc/ja/articles/115003946352-Links-to-Information-on-Different-Visa-Types-in-Japan">Visas</a></p>
-	<p><a href="https://www.jetro.go.jp/en/invest/setting_up/">Start Your Own Business</a></p>
-	<h3>Job-related Events</h3>
-	<p><a href="https://www.meetup.com/">Meetups</a></p>
-	<p><a href="https://www.daijob.com/en/cfair/">Job Fairs</a></p>
-	<p><a href="https://www.iajapan.org/links.html">Industry Associations Example</a></p>
-	<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-</div>
-<div class="col-md-4">
-	<h2><strong>Links</strong></h2>
-	<p><a href="https://www.slideshare.net/thjonz/job-boards-and-visible-jobs-in-japan">Bilingual Job Boards</a></p>
-	<p><a href="https://audiologiks.zendesk.com/hc/ja/articles/115001611446-Shared-Documents-90-Recruiting-Companies">Recruiters in Tokyo</a></p>
-	<p><a href="https://www.meetup.com/Nihonno-Job-Market/events/245841493/">Our Meetups in Tokyo</a></p>
-	<p><a href="https://www.slideshare.net/thjonz/july-job-search-in-japan">Presentations on Getting a Job</a></p>
-	<h3>Social Media</h3>
-	<p><a href="https://www.facebook.com/audiologiks">Facebook</p>
-	<p><a href="https://www.twitter.com/audiologiks">Twitter</p>
-	<p><a href="https://www.pinterest.jp/audiologiks/tokyo-recruiting-hiring-meetup/">Pinterest</a></p>
-	<p><a href="https://www.linkedin.com/company/audiologiks-inc-/">Linkedin</a></p>
-	<h3>Skill Building</h3>
-	<p><a href="https://audiologiks.zendesk.com/hc/ja/articles/115003308086-Definitions-of-Different-Levels-in-the-JLPT-">Languages</a></p>
-	<p><a href="https://www.ipa.go.jp/english/humandev/reference.html">Information Technology</a></p>
-	<p><a href="https://www.tvac.or.jp/english/getinvolved.html">Volunteering</a></p>
-	<p><a href="https://audiologiks.zendesk.com/hc/ja/articles/115000134943-Interview-with-Verena-Hopp-Founder-of-Internship-Japan">Internships</a></p>
- </div>
-<hr>
-
-</div> <!-- /container -->
-</div>
-    </main>
   </body>
 </html>
