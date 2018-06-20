@@ -1,61 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Searching for Jobs</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-
-<!-- start header -->
-<head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-<link rel="stylesheet" href="https://bootswatch.com/4/sandstone/bootstrap.min.css">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <meta name="google-site-verification" content="F93N0Z3VogATWfhNpMtrQvJ0XKwtRKqgFZt6JZixpzE" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-	
-</head>
-<body>
-<!-- end header -->
-<!-- start page -->
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="/firstdemo/al-firstdemo">Audiologiks</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-           </li>
-         <li class="nav-item">
-            <a class="nav-link" href="https://audiologiks.zendesk.com">FAQ</a>
-         </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/ja">日本語</a>
-         </li>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
-<!-- Audiologiks -->	
-  <main role="main">					
-<!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
-<div class="container">
-
 <h3>1.  Participation in the Audiologiks Beta Software Program. </h3><p> The purpose of the Audiologiks Beta Software Program (“Beta Program”) is to make alpha, beta, and other pre-release software, pre-release services, and related documentation, materials, and information (collectively, the “Pre-Release Software”) available to Beta Program participants from time to time for the purpose of providing Audiologiks with feedback on the quality and usability of the Pre-Release Software.  You understand and agree that participation in the Beta Program is voluntary and does not create a legal partnership, agency, or employment relationship between you and Audiologiks.  You understand that your participation in the Beta Program does not obligate Audiologiks to provide you with any Pre-Release Software.  Audiologiks reserves the right to modify the terms, conditions, and policies of this Beta Program from time to time, and to revoke your participation in this Beta Program at any time.  If Audiologiks makes changes to the terms and conditions of this Agreement, then Audiologiks will present such revised terms and conditions to you on the Beta Program web portal.</p>
  
 <p>By participating in the Beta Program, You certify that you are of the legal age of majority in the jurisdiction in which you reside (at least 18 years of age in many countries) and you represent that you are legally permitted to join the Beta Program.  This Agreement is void where prohibited by law and the right to become a Beta Program participant is not granted in such jurisdictions.  Unless otherwise agreed or permitted by Audiologiks in writing, you cannot share or transfer any software or other materials you receive from Audiologiks in connection with being a Beta Program participant.  The Audiologiks Access Code and password you use to login as a Beta Program participant cannot be shared in any way or with any one.  You are responsible for maintaining the confidentiality of your Audiologiks Access Code and password and for any activity in connection with your account.  Notwithstanding the foregoing restrictions in this Section 1, if you are the parent or legal guardian of individuals between the ages of 13 and the legal age of majority in the jurisdiction in which you reside, you may allow such individuals to share your Audiologiks Access Code and password for their use in connection with the Beta Program solely under your supervision and only in accordance with this Agreement.  You are responsible for such individuals’ compliance with and violations of this Agreement and any other Audiologiks agreements.</p>
@@ -173,16 +117,5 @@
 </div> <!-- /container -->
 </div>
     </main>
-
-    <footer class="container">
-      <p>&copy; Audiologiks 2018</p>
-    </footer>
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
   </body>
 </html>
