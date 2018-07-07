@@ -44,34 +44,35 @@
         <div class="col-sm-8 blog-main">
 
           <div class="blog-post">
-            <h2 class="blog-post-title">Find a Job</h2>
+            <h2 class="blog-post-title">Find a Job in Germany</h2>
+            <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/countries/icons8-germany.png">
+            <iframe src="http://free.timeanddate.com/clock/i6bdy8x4/n37/tt0/tw0/tm1/ts1/tb4" frameborder="0" width="87" height="36"></iframe>
 
         <p>As you start to explore working in Europe, you will find that under EU law, there are a number of programs that govern working visas. One of the most popular programs <a href="http://www.mofa.go.jp/j_info/visit/w_holiday/index.html">is the Working Holiday visa </a>(link to Government of Japan website). Here is <a href="http://ec.europa.eu/immigration/">a link to the European Migration portal</a> with information on different countries. Here is <a href="https://www.schengenvisainfo.com/working-schengen-visa/">a link to a page explaining the Schengen Visa</a> in the EU, which lays out requirements for applicants.</p>
-
-
 
  <blockquote>
 <h2><span class="wysiwyg-underline"><strong>Links to Job Boards in Germany </strong></span></h2>
 <p><a href="https://www.kununu.com/">Kununu </a> (in German)</p>
 <p><a href="http://de.viadeo.com/de">Viadeo</a> </p>
 <p><a href="https://www.xing.com/">Xing</a> </p>
-<p><a href="https://www.monster.de">Monster </a> (in french)</p>
+<p><a href="https://www.monster.de">Monster </a> (in German)</p>
 <p><a href="https://www.stepstone.de">Stepstone</a> (in english)</p>
 
 <h3>Other Links</h3>
-<p><a href="http://www.ccifj.or.jp/">Chamber of Commerce in Tokyo </a></p>
-<p><a href="http://www.ccijf.asso.fr/ja/%20">Japan Chamber of Commerce in France</a></p>
+<p><a href="http://japan.ahk.de/en/">German Chamber of Commerce in Tokyo </a></p>
+<p><a href="https://www.hojinkai.de/">Japan Chamber of Commerce in Frankfurt</a></p>
+   <p><a href="https://www.jihk.de/ja">Japan Chamber of Commerce in Dusseldorf</a></p>
+   <p><a href="http://www.jihv-berlin.de/">Japan Chamber of Commerce in Berlin</a></p>
 <p><a href="http://www.eu-japan.eu/links">EU - Japan Links </a></p>
-<p><a href="https://www.hudson.fr/en-gb/">Recruiters in France  </a></p>
+<p><a href="https://www.morganphilips.com/en-de ">Recruiters in Germany </a></p>
 
 <h2><span class="wysiwyg-underline"><strong>日本語の情報</strong></span> 　　</h2>
-<p><a href="http://www.at-plan.eu/furansubiza-zhi-zai-xu-ke/parino-qiu-ren-qing-bao">http://www.at-plan.eu/furansubiza-zhi-zai-xu-ke/parino-qiu-ren-qing-bao</a></p>
-<p><a href="https://kaigai-bbs.com/fra/par/thread/job/">https://kaigai-bbs.com/fra/par/thread/job/</a></p>
+<p><a href="https://wakuwork.jp/archives/4398">Guanxi Times　－Finding a Job in Germany(日本語）</a></p>
+<p><a href="https://www.ryugaku-voice.com/shinro/ger_an_employment-in-germany.html">Learning German to get a Job</a></p>
 
+   <h2> Media</h2>
+          <p>Look for <a href="https://www.expatica.com/de/employment/Work-in-Germany-Jobs-in-Germany_102718.html">a job in Germany</a> who would be a good place to look for contacts and advice</p>
          
-
-          <p>Look for <a href="http://bit.ly/al-find-a-venture">small companies in Japan</a> who would be a good place to look for contacts and advice</p>
-          <p>If you want to get feedback on your interviewing in English, try our automated interview system and record your answers to certain interview questions. </p>
     
           </blockquote>
 
