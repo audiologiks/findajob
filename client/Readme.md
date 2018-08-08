@@ -2,6 +2,12 @@ About web clients
 ===
 This is to record and share web client templates I use with Twilio
 
+<a href="https://www.twilio.com/">Links to twilio.com</a>
+
+<a href="https://www.twilio.com/docs/quickstart">Quickstart</a>
+
+<a href="https://www.twilio.com/docs/tutorials?order_by=-popularity_rank">Tutorials</a>
+
 I use web clients to access the voice menus stored on the Audiologiks platform
 
 * To make calls domestically and internationally
