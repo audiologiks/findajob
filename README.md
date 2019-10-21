@@ -1,9 +1,9 @@
 Guide to web client templates 
 ======
-Update 7/4/19
-3.5 months since last update
+Update 10/21/19
+3.0 months since last update
 
-Repository for code for a desktop client for sharing knowldege, written in php and html. 
+Repository for code for a desktop client for sharing knowledge on recording and sharing audio using Twilio (www.twilio.com), written in php and html. 
 * Used for a meetup in Tokyo to encourage members to engage in exchange languages and to attend the Meetup.
 * To access audio files with buttons,to be used to showcase interactive audio content
 
