@@ -1,13 +1,13 @@
-Guide to web client templates 
+Guide to Web Client Templates in 2020
 ======
-Update 10/21/19
-3.0 months since last update
+Update 1/23/2020
 
 Repository for code for a desktop client enabling recording and sharing audio using Twilio (www.twilio.com), written in php and html. 
 * Used for a meetup in Tokyo to job seekers for bilingual jobs in Japan.
 * Used to share language skill checks and feedback.
+* Any use cases you can think of
 
-**Code** is based on Twilio platform, at the url https://www.twilio.com . All rights to their code examples below to them. The MIT license only covers sample code I post here if not already covered by another license. In general, all of it is based on sample code on the twilio website so it can be taken from there as well. I just build on it for specific uses for learning and sharing audio. 
+**Code** is php, and based on Twilio platform, at the url https://www.twilio.com . All rights to their code examples below to them. The MIT license only covers sample code I post here if not already covered by another license. In general, all of it is based on sample code on the twilio website so it can be taken from there as well. I just build on it for specific uses for learning and sharing audio. 
 
 Folders
 ===
