@@ -39,7 +39,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 18.	Global Talent Recruiting
 
-19.	H2-B Program (United States)
+19.	[H2-B Program (United States)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/h2bvisa.md)
 
 20.	Help, I have a question and I need an answer
 
