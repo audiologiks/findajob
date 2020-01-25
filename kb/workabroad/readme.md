@@ -5,9 +5,9 @@ There are articles organized by Country where a person wants to work, and topics
 
 1. 26 Careercross Job Categories, 218 Sub-categories (English)
 
-2. 72 Life Sciences Companies
+2.  72 Life Sciences Companies
 
-3. Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
+3.  Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
 
 4.	Audio on SoundCloud: Hiring Bilingual Candidates
 
@@ -180,3 +180,5 @@ There are articles organized by Country where a person wants to work, and topics
 88.	ヘーズジャパン HAYS Japan : Industry and Recruiting Teams
 
 89.	Looking for Startups: Companies from Angel List
+
+90. [Retail Payments in Japan for Gaming](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/retailpayments.md)
