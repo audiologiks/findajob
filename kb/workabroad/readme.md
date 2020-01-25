@@ -1,12 +1,12 @@
 #	Index of Articles on Working Abroad
 
-1.26 Careercross Job Categories, 218 Sub-categories (English)
+1. 26 Careercross Job Categories, 218 Sub-categories (English)
 
-2.72 Life Sciences Companies
+2. 72 Life Sciences Companies
 
-3.Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
+3. Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
 
-4	Audio on SoundCloud: Hiring Bilingual Candidates
+4.	Audio on SoundCloud: Hiring Bilingual Candidates
 
 5	Audio on Soundcloud: Researching Where You Might Want to Work
 
