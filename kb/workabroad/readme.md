@@ -1,42 +1,81 @@
-#	Article
-1	26 Careercross Job Categories, 218 Sub-categories (English)
+#	Index of Articles on Working Abroad
+
+* 1	26 Careercross Job Categories, 218 Sub-categories (English)
+
 2	72 Life Sciences Companies
+
 3	Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
+
 4	Audio on SoundCloud: Hiring Bilingual Candidates
+
 5	Audio on Soundcloud: Researching Where You Might Want to Work
+
 6	Background of Meetup Attendees
+
 7	Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment
+
 8	CareerCross Function / Job Categories
+
 9	daijob job portal in Japan
+
 10	Example of a Recruitment Position
+
 11	Example of a Resume and Key Points
+
 12	Examples of Reference Questions
+
 13	Fashion
+
 14	Files on Finding a Job Internationally
+
 15	Finding a Job in Japan
+
 16	Getting a Job in Australia
+
 17	Getting a Job in Canada
+
 18	Global Talent Recruiting
+
 19	H2-B Program (United States)
+
 20	Help, I have a question and I need an answer
+
 21	Hiring in Tokyo for Bilingual Roles
+
 22	Hiring Lifecycle Presentation
+
 23	How do I customize my Help Center?
+
 24	International and Japanese Job Boards
+
 25	internships and visas
+
 26	Interview with a Hiring Manager (Rob Pauling)
+
 27	Interview with a Recruiter
+
 28	Interview with a Recruiter - Arnaldo (Hong Kong)
+
 29	Interview with a Recruiter (Mark Stoneman)
+
 30	Interview with Verena Hopp. Founder of Internship Japan
+
 31	Introduction to a Fashion Industry Recruiter
+
 32	IT Financial Position (3) - Financial Support Developer
+
 33	IT Position Example (2) - Financial Developer
+
 34	IT Position Examples - Financial Software
+
 35	J-1 Visa in the United States
+
 36	Job Boards : Bilingual
+
 37	job categories on careercross
+
 38	Job Categories/Roles in English and Japanese
+
 39	Job Search Diary
 40	Job Search Presentation Slides - Screenshots
 41	Job Search 仕事探し
