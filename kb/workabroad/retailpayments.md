@@ -5,9 +5,7 @@ This section grew out of a talk at a Meetup where a participant worked for Googl
 * [Nikkei Events](https://messe.nikkei.co.jp/en/rt/)
 
 ## Links to Helpful Sites
-<h3>&nbsp;</h3>
-<h3>
-  <span style="font-weight:400">Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry:</span>
+<span style="font-weight:400">Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry:</span>
 </h3>
 <p>
   <strong>Video Game Industry marketing</strong>
