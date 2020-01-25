@@ -94,46 +94,89 @@ There are articles organized by Country where a person wants to work, and topics
 45.	Linkedin Profiles and Using your Languages
 
 46.	Links on English resume preparation
+
 47.	Links to English Articles on Labor Regulations
+
 48.	Links to IT Support Jobs in Tokyo
+
 49.	Links to Materials and FIles
-50	Meetup Notes 5/6/2018 - Nihon no Job Market Meetup
-51	Meetup Notes April 2017 - Nihon no Job Market
-52	Meetup Notes August 2017 - Global Careers Information
-53	Meetup Notes December 2016 - Global Careers Information
-54	Meetup Notes February 2017 - Global Careers Information
-55	Meetup Notes January 2017 - Global Careers Information
-56	Meetup Notes June 2017 - Global Careers Information
-57	Meetup Notes June 2017 - Nihon no Job Market
-58	Meetup Notes March 2018 - Global Career Information
-59	Meetup Notes May 2016 - Nihon no Job Market
-60	Meetup Notes May 2017 - Global Careers Information
-61	Meetup Notes May 2017 - IT Support Jobs
-62	Meetup Notes May 2017 - Nihon no Job Market
-63	Meetup Notes November 2017 - Global Careers Information
-64	Meetup Notes September 2017 - Global Careers Information
-65	Mock Interviews and Practice
-66	Points to Consider When Looking for a Job
-67	Practice Job Interviews
-68	Practice Listening Comprehension
-69	Practice Questions for an Interview
-70	Preparing a Resume
-71	Presentation on "Invisible Jobs" and Audio Example
-72	Presentation on Staffing Market in Japan and Audio
-73	Recruiters with Life Sciences Teams in Japan
-74	reference questions as part of interview process
-75	Salary Determination and Research
-76	Searching for a Job on Daijob.com
-77	Shared Documents : 90 Recruiting Companies
-78	Staffing in Japan: Spotlight on Adecco
-79	Welcome to the Audiologiks Help Center!
-80	What Recruiters are Looking for
-81	Working in Asia - Links for Finding a Job (English & Japanese)
-82	Working in the US - Links
-83	Working Outside of Japan
-84	Youtube: Job Search in Japan Presentation
-85	人材紹介コンサルタントのインタービユー
-86	学生のビサーとインターンシップ Study in Japan and Internships
-87	日本の上場会社東京取引所　(グーグルファイナンスへのリンク)
-88	ヘーズジャパン HAYS Japan : Industry and Recruiting Teams
-89	Looking for Startups: Companies from Angel List
+
+50.	Meetup Notes 5/6/2018 - Nihon no Job Market Meetup
+
+51.	Meetup Notes April 2017 - Nihon no Job Market
+
+52.	Meetup Notes August 2017 - Global Careers Information
+
+53.	Meetup Notes December 2016 - Global Careers Information
+
+54.	Meetup Notes February 2017 - Global Careers Information
+
+55.	Meetup Notes January 2017 - Global Careers Information
+
+56.	Meetup Notes June 2017 - Global Careers Information
+
+57.	Meetup Notes June 2017 - Nihon no Job Market
+
+58.	Meetup Notes March 2018 - Global Career Information
+
+59.	Meetup Notes May 2016 - Nihon no Job Market
+
+60.	Meetup Notes May 2017 - Global Careers Information
+
+61.	Meetup Notes May 2017 - IT Support Jobs
+
+62.	Meetup Notes May 2017 - Nihon no Job Market
+
+63.	Meetup Notes November 2017 - Global Careers Information
+
+64.	Meetup Notes September 2017 - Global Careers Information
+
+65.	Mock Interviews and Practice
+
+66.	Points to Consider When Looking for a Job
+
+67.	Practice Job Interviews
+
+68.	Practice Listening Comprehension
+
+69.	Practice Questions for an Interview
+
+70.	Preparing a Resume
+
+71.	Presentation on "Invisible Jobs" and Audio Example
+
+72.	Presentation on Staffing Market in Japan and Audio
+
+73.	Recruiters with Life Sciences Teams in Japan
+
+74.	reference questions as part of interview process
+
+75.	Salary Determination and Research
+
+76.	Searching for a Job on Daijob.com
+
+77.	Shared Documents : 90 Recruiting Companies
+
+78.	Staffing in Japan: Spotlight on Adecco
+
+79.	Welcome to the Audiologiks Help Center!
+
+80.	What Recruiters are Looking for
+
+81.	Working in Asia - Links for Finding a Job (English & Japanese)
+
+82.	Working in the US - Links
+
+83.	Working Outside of Japan
+
+84.	Youtube: Job Search in Japan Presentation
+
+85.	人材紹介コンサルタントのインタービユー
+
+86.	学生のビサーとインターンシップ Study in Japan and Internships
+
+87.	日本の上場会社東京取引所　(グーグルファイナンスへのリンク)
+
+88.	ヘーズジャパン HAYS Japan : Industry and Recruiting Teams
+
+89.	Looking for Startups: Companies from Angel List
