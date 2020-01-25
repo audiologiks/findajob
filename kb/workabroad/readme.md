@@ -1,4 +1,4 @@
-There are articles organized by Country where a person wants to work, and topics on working overseas
+There are articles organized by Country where a person wants to work, and topics on working overseas. These are being migrated from audiologiks.com using Zendesk. Migration to be done by 2/10/2020.
 
 
 #	Index of Articles on Working Abroad
