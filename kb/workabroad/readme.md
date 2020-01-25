@@ -71,7 +71,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 34.	IT Position Examples - Financial Software
 
-35.	J-1 Visa in the United States
+35.	[J-1 Visa in the United States](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/j1visa.md)
 
 36.	Job Boards : Bilingual
 
