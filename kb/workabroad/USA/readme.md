@@ -1,56 +1,27 @@
 ## Links on Working in the United States, in Japanese and English
   Different types of available visas and job sites to look at
 
-# Links on Visas
-</p>
-<p>
-  <span class="wysiwyg-underline">US Green Card Diversity Visa</span>
-</p>
-<p>
-  15 million Applications, with 50,000 + applicants from Japan
-</p>
-<p>636 winners in 2013 for a level of 1.2% success</p>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-underline">Japanese recruiter in US – visa news</span>
-</p>
-<p>
+### Links on Visas
+US Green Card Diversity Visa
+
+15 million Applications, with 50,000 + applicants from Japan
+
+* 636 winners in 2013 for a level of 1.2% success
+
+Japanese recruiter in US – visa news
+
   <a href="https://top-us.com/category/visa">https://top-us.com/category/visa</a>
-</p>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-underline">Pasona USA</span>
-</p>
-<p>
-  <a href="http://www.pasona.com/en/">http://www.pasona.com/en/</a>
-</p>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-underline">Indeed</span>
-</p>
-<p>
-  <a href="http://www.indeed.com/q-Bilingual-Japanese-jobs.html">http://www.indeed.com/q-Bilingual-Japanese-jobs.html</a>
-</p>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-underline">Linkedin</span>
-</p>
-<p>
-  <a href="https://www.linkedin.com/jobs/search?keywords=Japanese%20Bilingual&amp;location=New%20York&amp;locationId=STATES.us.ny&amp;trk=jobs_jserp_search_button_execute&amp;searchOrigin=JSERP">https://www.linkedin.com/jobs/search?keywords=Japanese%20Bilingual&amp;location=New%20York&amp;locationId=STATES.us.ny&amp;trk=jobs_jserp_search_button_execute&amp;searchOrigin=JSERP</a>
-</p>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-underline">APA International</span>
-</p>
-<p>
-  <a href="http://www.apaintl.com/">http://www.apaintl.com/</a>
-</p>
-<p>&nbsp;</p>
-<p>
-  (from Goo Internet 2005,
-  <a href="http://oshiete.goo.ne.jp/qa/1610635.html">http://oshiete.goo.ne.jp/qa/1610635.html</a>
-  )
-</p>
+
+[Pasona USA](http://www.pasona.com/en/)
+
+[Indeed](http://www.indeed.com/q-Bilingual-Japanese-jobs.html)
+
+[Linkedin](https://www.linkedin.com/jobs/search?keywords=Japanese%20Bilingual&amp;location=New%20York&amp;locationId=STATES.us.ny&amp;trk=jobs_jserp_search_button_execute&amp;searchOrigin=JSERP)
+
+[APA International](http://www.apaintl.com/)
+
+ [Link to Article in Japanese](http://oshiete.goo.ne.jp/qa/1610635.html">http://oshiete.goo.ne.jp/qa/1610635.html)
+
 <ul>
   <li>アメリカで投資額5000万円以上のビジネスを起業すれば、Eビザが取得できます。</li>
   <li>
