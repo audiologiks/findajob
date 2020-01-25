@@ -1,11 +1,3 @@
-<div>
-  <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-    <img src="/hc/article_attachments/360031666452/image-0.png" alt="">
-  </p>
-  <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-    <img src="/hc/article_attachments/360031642171/image-1.png" alt="">
-  </p>
-</div>
 <h1 id="h.imtsnskgxc37" class="wysiwyg-color-black wysiwyg-font-size-large wysiwyg-text-align-left">
   <span class="wysiwyg-color-black wysiwyg-font-size-large">Immigrating to Australia</span>
 </h1>
