@@ -33,7 +33,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 15.	Finding a Job in Japan
 
-16.	Getting a Job in Australia
+16.	[Getting a Job in Australia](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Australia/gettingajob.md)
 
 17.	Getting a Job in Canada
 
