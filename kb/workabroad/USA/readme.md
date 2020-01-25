@@ -10,7 +10,7 @@ US Green Card Diversity Visa
 
 Japanese recruiter in US – visa news
 
-  <a href="https://top-us.com/category/visa">https://top-us.com/category/visa</a>
+[Top US](https://top-us.com/category/visa">https://top-us.com/category/visa)
 
 [Pasona USA](http://www.pasona.com/en/)
 
@@ -20,32 +20,18 @@ Japanese recruiter in US – visa news
 
 [APA International](http://www.apaintl.com/)
 
- [Link to Article in Japanese](http://oshiete.goo.ne.jp/qa/1610635.html">http://oshiete.goo.ne.jp/qa/1610635.html)
+## Articles in Japanese
 
-<ul>
-  <li>アメリカで投資額5000万円以上のビジネスを起業すれば、Eビザが取得できます。</li>
-  <li>
-    <a href="https://www.uscis.gov/working-united-states/temporary-workers/e-1-treaty-traders">https://www.uscis.gov/working-united-states/temporary-workers/e-1-treaty-traders</a>
-  </li>
-</ul>
-<ul>
-  <li>
-    ・世界的に有名なアーティストや運動選手、僧侶や牧師、および茶道などの先生、宮大工、柔道や剣道の高有段者など特殊技能者には別のビザがあります。
-  </li>
-  <li>
-    <a href="https://www.uscis.gov/eir/visa-guide/entrepreneur-visa-guide">https://www.uscis.gov/eir/visa-guide/entrepreneur-visa-guide</a><br>
-    ・「J-1ビザでインターンして海外就職」と宣伝する業者がありますが、移民局の締め付けが厳しくなって、Jビザ取得はかなり困難です。
-  </li>
-  <li>・たとえば、アメリカに支店を持つ日本の寿司屋で５年くらい修行し、L-1ビザで派遣して貰うという方法があります。</li>
-  <li></li>
-</ul>
-<p>
-  <a href="https://www.uscis.gov/eir/visa-guide/l-1-intracompany-transferee/understanding-l-1-requirements">https://www.uscis.gov/eir/visa-guide/l-1-intracompany-transferee/understanding-l-1-requirements</a>
-</p>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-underline">US Green Card Lottery</span>
-</p>
-<p>
-  <a href="http://www.wsj.com/articles/SB10001424052748704804504575606580971555998">http://www.wsj.com/articles/SB10001424052748704804504575606580971555998</a>
-</p>
+[Link to Article in Japanese](http://oshiete.goo.ne.jp/qa/1610635.html">http://oshiete.goo.ne.jp/qa/1610635.html)
+
+* アメリカで投資額5000万円以上のビジネスを起業すれば、Eビザが取得できます。
+ * [Treaty Traders (english)](https://www.uscis.gov/working-united-states/temporary-workers/e-1-treaty-traders)
+* 世界的に有名なアーティストや運動選手、僧侶や牧師、および茶道などの先生、宮大工、柔道や剣道の高有段者など特殊技能者には別のビザがあります。
+ * [Entrepreneur Visa (english)](https://www.uscis.gov/eir/visa-guide/entrepreneur-visa-guide)
+* 「J-1ビザでインターンして海外就職」と宣伝する業者がありますが、移民局の締め付けが厳しくなって、Jビザ取得はかなり困難です。
+* たとえば、アメリカに支店を持つ日本の寿司屋で５年くらい修行し、L-1ビザで派遣して貰うという方法があります。
+ * [Inra-company Transferee](https://www.uscis.gov/eir/visa-guide/l-1-intracompany-transferee/understanding-l-1-requirements)
+
+### US Green Card Lottery
+[Wall Street Journal article (english)](http://www.wsj.com/articles/SB10001424052748704804504575606580971555998">http://www.wsj.com/articles/SB10001424052748704804504575606580971555998)
+
