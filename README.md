@@ -2,6 +2,8 @@ Guide to Web Client Templates in 2020
 ======
 Update 1/23/2020
 
+Moving Country specific information over to this repo for a Meetup. I will add voice code to the entries and use them as examples.
+
 Repository for code for a desktop client enabling recording and sharing audio using Twilio (www.twilio.com), written in php and html. 
 * Used for a meetup in Tokyo to job seekers for bilingual jobs in Japan.
 * Used to share language skill checks and feedback.
