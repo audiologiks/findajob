@@ -1,10 +1,7 @@
-<p>
-  <span class="wysiwyg-font-size-large"><strong>Here are some links on working in the United States,</strong></span>
-  different types of visas available and different job sites to look at.
-</p>
-<p>&nbsp;</p>
-<p>
-  <strong>Links on Visas</strong>
+## Links on Working in the United States, in Japanese and English
+  Different types of available visas and job sites to look at
+
+# Links on Visas
 </p>
 <p>
   <span class="wysiwyg-underline">US Green Card Diversity Visa</span>
