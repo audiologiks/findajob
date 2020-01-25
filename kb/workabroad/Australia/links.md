@@ -109,11 +109,6 @@
   </li>
 </ol>
 <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">&nbsp;</p>
-<h2 id="h.vgzfqygjl5oj">Using Social Media</h2>
-<p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-  <img src="/hc/article_attachments/360031642211/image-2.png" alt="" width="58" height="58"><img src="/hc/article_attachments/360031642231/image-3.png" alt="" width="56" height="56"><img src="/hc/article_attachments/360031666512/image-4.png" alt="" width="74" height="56"><img src="/hc/article_attachments/360031642311/image-5.jpeg" alt="" width="115" height="65">
-</p>
-<p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">&nbsp;</p>
 <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
   <span class="wysiwyg-font-size-large">Look at Social media to get information in English or your native language for tips and other people’s stories on getting jobs and visas to work in other countries.</span>
 </p>
@@ -141,14 +136,11 @@
 </p>
 <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">&nbsp;</p>
 <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-  <img src="/hc/article_attachments/360031642291/image-7.png" alt="" width="160" height="63"><span class="wysiwyg-font-size-medium wysiwyg-indent1">&nbsp;&nbsp;</span><span class="wysiwyg-color-blue90 wysiwyg-underline wysiwyg-font-size-medium"><a href="https://www.seek.com.au/">https://www.seek.com.au/</a></span>
+<span class="wysiwyg-color-blue90 wysiwyg-underline wysiwyg-font-size-medium"><a href="https://www.seek.com.au/">https://www.seek.com.au/</a></span>
 </p>
-<p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">&nbsp;</p>
-<p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-  <img src="/hc/article_attachments/360031666592/image-8.png" alt="" width="182" height="64"><span class="wysiwyg-font-size-medium wysiwyg-indent1">&nbsp;&nbsp;</span><span class="wysiwyg-color-blue90 wysiwyg-underline wysiwyg-font-size-medium"><a href="https://www.glassdoor.com.au/index.htm">https://www.glassdoor.com.au/index.htm</a></span><span class="wysiwyg-color-black wysiwyg-font-size-medium">&nbsp;</span>
+<a href="https://www.glassdoor.com.au/index.htm">https://www.glassdoor.com.au/index.htm</a></span><span class="wysiwyg-color-black wysiwyg-font-size-medium">&nbsp;</span>
 </p>
-<p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-  <img src="/hc/article_attachments/360031642391/image-9.png" alt="" width="187" height="56"><span class="wysiwyg-font-size-medium wysiwyg-indent1">&nbsp;&nbsp;</span><span class="wysiwyg-color-blue90 wysiwyg-underline wysiwyg-font-size-medium"><a href="https://www.careerbuilder.com/jobs-australia">https://www.careerbuilder.com/jobs-australia</a></span>
+<span class="wysiwyg-color-blue90 wysiwyg-underline wysiwyg-font-size-medium"><a href="https://www.careerbuilder.com/jobs-australia">https://www.careerbuilder.com/jobs-australia</a></span>
 </p>
 <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
   <img src="/hc/article_attachments/360031642371/image-10.png" alt="" width="177" height="68"><span class="wysiwyg-font-size-medium wysiwyg-indent1">&nbsp;&nbsp;</span><span class="wysiwyg-color-blue90 wysiwyg-underline wysiwyg-font-size-medium"><a href="http://www.linkedin.com">www.linkedin.com</a></span><span class="wysiwyg-font-size-medium">&nbsp;</span>
