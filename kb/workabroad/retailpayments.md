@@ -2,19 +2,13 @@ This section grew out of a talk at a Meetup where a participant worked for Googl
 
 ## Retail Events in Japan
 *
- [Makuhari Messe]("https://messe.nikkei.co.jp/en/rt/")
+ [Makuhari Messe](https://messe.nikkei.co.jp/en/rt/)
  
- [Nikkei Events]("https://messe.nikkei.co.jp/en/rt/")
+ [Nikkei Events](https://messe.nikkei.co.jp/en/rt/)
 
-<p>&nbsp;</p>
-<p>
   <span style="font-weight:400"><strong>Retail Marketing</strong> - </span><a href="https://www.marketingcareeredu.org/retail-marketing/"><span style="font-weight:400">https://www.marketingcareeredu.org/retail-marketing/</span></a>
-</p>
-<p>&nbsp;</p>
-<p>
+
   <span style="font-weight:400"><strong>Card Payments</strong> - </span><a href="http://www.cardandpaymentjobs.com/"><span style="font-weight:400">http://www.cardandpaymentjobs.com/</span></a>
-</p>
-<p>
-  <br>
+
   <span style="font-weight:400"><strong>Looking for Startups</strong> - </span><a href="https://angel.co/mobile-payments/jobs"><span style="font-weight:400">https://angel.co/mobile-payments/jobs</span></a>
-</p>
+
