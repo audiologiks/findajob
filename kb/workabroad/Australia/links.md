@@ -1,8 +1,3 @@
-<div>
-  <p class="wysiwyg-color-black wysiwyg-font-size-medium wysiwyg-text-align-left">
-    <img src="/hc/article_attachments/360031642191/image-0.png" alt="" width="120" height="101">
-  </p>
-</div>
 <h1 id="h.qmnrj2kxsdr5" class="wysiwyg-color-black wysiwyg-font-size-large wysiwyg-text-align-left">
   <strong><span class="wysiwyg-underline">Country Perspective: Australia</span></strong>
 </h1>
