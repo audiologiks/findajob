@@ -4,13 +4,7 @@ This section grew out of a talk at a Meetup where a participant worked for Googl
 * [Makuhari Messe](https://messe.nikkei.co.jp/en/rt/)
 * [Nikkei Events](https://messe.nikkei.co.jp/en/rt/)
 
-
-<span style="font-weight:400"><strong>Retail Marketing Description</strong> - </span><a href="https://www.marketingcareeredu.org/retail-marketing/"><span style="font-weight:400">https://www.marketingcareeredu.org/retail-marketing/</span></a>
-
-<span style="font-weight:400"><strong>Card Payments Jobs - Global Industry website</strong> - </span><a href="http://www.cardandpaymentjobs.com/"><span style="font-weight:400">http://www.cardandpaymentjobs.com/</span></a>
-
-<span style="font-weight:400"><strong>Looking for Startups</strong> - </span><a href="https://angel.co/mobile-payments/jobs"><span style="font-weight:400">https://angel.co/mobile-payments/jobs</span></a>
-
+## Links to Helpful Sites
 <h3>&nbsp;</h3>
 <h3>
   <span style="font-weight:400">Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry:</span>
