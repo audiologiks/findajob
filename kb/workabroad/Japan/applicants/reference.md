@@ -1,13 +1,11 @@
-<h3>
-  Management &nbsp;<span style="font-weight:400">&nbsp;</span>
-</h3>
-<p>&nbsp;&nbsp;&nbsp;</p>
-<h3>Coworkers &nbsp;&nbsp;&nbsp;</h3>
-<p>&nbsp;&nbsp;&nbsp;</p>
-<h3>
-  Clients/Customers<span style="font-weight:400"> &nbsp;&nbsp;&nbsp;&nbsp;</span>
-</h3>
-<p>&nbsp;&nbsp;&nbsp;</p>
+# Reference Questions
+Reference questions are done at the end of the interview process where companies would like to hear from a former manager or co-worker at to the applicant's qualities, experience and skills.
+
+* Management 
+* Coworkers
+* Clients/Customers
+
+## Examples of Questions to Referees
 <ul>
   <li>
     <span style="font-weight:400"> Describe his/her written and oral communication skills?</span>
@@ -28,5 +26,4 @@
     <span style="font-weight:400"> What kind of work environment and position would this person thrive in?</span>
   </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
