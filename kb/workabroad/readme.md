@@ -13,7 +13,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 5.	[Audio on Soundcloud: Researching Where You Might Want to Work](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/audio/soundcloud.md)
 
-6.	Background of Meetup Attendees
+6.	[Background of Meetup Attendees](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/attendees_background.md)
 
 7.	Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment
 
