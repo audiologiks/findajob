@@ -1,9 +1,9 @@
 ## Foreign Chambers of Commerce in Japan
 
 Example of the Swiss Chamber of Commerce
-[The SCCJ  (Swiss Chamber of Commerce)](http://www.sccij.jp/news/overview/detail/article/2016/09/23/sccij-sponsors-renowned-scholarship-fund-for-interns/)
-[The Swiss Chamber and Startups](http://www.sccij.jp/news/overview/detail/article/2017/12/18/connecting-swiss-startups-with-japan/)
-[Event Calendar SCCIJ](http://www.sccij.jp/events/event-calendar/)
+* [The SCCJ  (Swiss Chamber of Commerce)](http://www.sccij.jp/news/overview/detail/article/2016/09/23/sccij-sponsors-renowned-scholarship-fund-for-interns/)
+* [The Swiss Chamber and Startups](http://www.sccij.jp/news/overview/detail/article/2017/12/18/connecting-swiss-startups-with-japan/)
+* [Event Calendar SCCIJ](http://www.sccij.jp/events/event-calendar/)
 
 ### Other Chambers of Commerce (look at members and Jobs)
 1.	[American Chamber of Commerce in Japan](www.accj.or.jp)
