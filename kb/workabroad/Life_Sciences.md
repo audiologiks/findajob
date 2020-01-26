@@ -227,7 +227,9 @@
     </tr>
   </tbody>
 </table>
+
 ## Direct Employers in the Life Sciences and Healthcare Industries
+
 <p>
   Check out our google spreadsheets on recruiters with
   <a href="https://docs.google.com/spreadsheets/d/15FqzeqeuO0hRJTKrc_AprB7rzFHEk9p-_TM8QfZkYVU/edit?usp=sharing" target="_blank" rel="noopener">healthcare teams focused on hiring for the industry&nbsp;</a>and
