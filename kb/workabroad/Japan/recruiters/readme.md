@@ -1,6 +1,6 @@
-<p>
-  <strong><span class="wysiwyg-font-size-large">Global Headhunters</span></strong>
-</p>
+
+ ## Global Headhunters
+
 <p>
   <a href="https://www.roberthalf.jp/en" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/rh_logo.gif"></a>
 </p>
@@ -10,18 +10,18 @@
 <p>
   <a href="http://www.michaelpage.co.jp/en" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-mp.png"></a>
 </p>
-<p>
-  <span class="wysiwyg-font-size-large"><strong>Senior Positions, Headhunters</strong></span>
-</p>
+
+ ## Senior Positions, Headhunters
+
 <p>
   <a href="http://www.heidrickstruggles.com" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/H%26S.jpg"></a>
 </p>
 <p>
   <a href="http://www.kornferry.com" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-kf.png"></a>
 </p>
-<p>
-  <span class="wysiwyg-font-size-large"><strong>IT Specialist Recruiter</strong></span>
-</p>
+
+ ## IT Specialist Recruiter
+
 <p>
   <a href="http://www.computerfutures.com" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo.png"></a>
 </p>
@@ -37,23 +37,23 @@
 <p>
   <a href="http://www.ambitiongroup.co.jp/en" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-ambition.png"></a>
 </p>
-<p>
-  <span class="wysiwyg-font-size-large"><strong>Global Staffing &amp; Temp Companies</strong></span>
-</p>
+
+## Global Staffing & Temp Companies
+
 <p>
   <a href="http://www.hays.co.jp/en/" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/img_logo_hays.gif"></a><a href="http://www.adecco.co.jp/english/"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/share_corplogo_01_addeco.gif"></a><a href="http://www.manpowergroup.jp/english/"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo_manpower.png"></a><a href="http://www.randstad.co.jp/" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-randstad-holding.png"></a>
 </p>
-<p>
-  <span class="wysiwyg-font-size-large"><strong>Japanese Staffing &amp; Recruitment Co.</strong></span>
-</p>
+
+## Japanese Staffing & Recruitment Co.
+
 <p>
   <a href="http://www.athuman.com/en/talent.php" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/header_logo_athuman.png"></a>
   <a href="https://www.tempstaff.co.jp/english/" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-engci_temp.png"></a>
   <a href="http://www.pasonagroup.co.jp/english/" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo_pasona.gif"></a><a href="http://www.recruit-rgf.com/company/group/japan" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/Picture8.png"></a>
 </p>
-<p>
-  <span class="wysiwyg-font-size-large"><strong>Japanese Recruitment Cos.</strong></span>
-</p>
+
+ ## Japanese Recruitment Cos.
+
 <p>
   <a href="http://www.jac-recruitment.jp/" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo_01_JAC.png"></a>
 </p>
