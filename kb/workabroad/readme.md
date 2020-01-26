@@ -163,7 +163,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 80.	What Recruiters are Looking for
 
-81.	Working in Asia - Links for Finding a Job (English & Japanese)
+81.	[Working in Asia - Links for Finding a Job (English & Japanese)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/readme.md)
 
 82.	[Working in the US - Links](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/readme.md)
 
