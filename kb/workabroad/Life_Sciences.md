@@ -230,10 +230,8 @@
 
 ## Direct Employers in the Life Sciences and Healthcare Industries
 
-<p>
-  Check out our google spreadsheets on recruiters with
-  <a href="https://drive.google.com/file/d/1BkZ38cPnne8uiMWAAX4XMdzumccnDieE/view?usp=sharing" target="_blank" rel="noopener">healthcare teams focused on hiring for the industry&nbsp;</a>
-</p>
+  [Check out our google spreadsheets on recruiters](https://drive.google.com/file/d/1BkZ38cPnne8uiMWAAX4XMdzumccnDieE/view?usp=sharing) 
+
 <p>
   Doing research on the healthcare and life sciences industry. Look up companies,
   and see what kind of jobs they offer that match your skills and interests.
