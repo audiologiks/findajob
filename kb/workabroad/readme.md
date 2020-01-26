@@ -3,9 +3,9 @@ There are articles organized by Country where a person wants to work, and topics
 
 #	Index of Articles on Working Abroad
 
-1. [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
+1.  [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
-2.  72 Life Sciences Companies
+2.  [72 Life Sciences Companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
 
 3.  Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
 
