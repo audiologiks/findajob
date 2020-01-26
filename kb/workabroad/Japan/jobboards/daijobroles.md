@@ -1,9 +1,13 @@
+# Job ROles on www.Daijob.com
+
 <p>
   <a href="https://d3loylgx84jw3f.cloudfront.net/audio/8611/kb-article/rc_kb_article_job_cat_1002.mp3" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/all/banner/menu_info_banner.png"></a>
 </p>
 <p>
   <a href="https://www.daijob.com/en/index.html" target="_blank" rel="noopener noreferrer">Here is the link</a>
 </p>
+
+## Japanese-language Titles
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=200&amp;pg=0">エグゼクティブ/経営</a>&nbsp;379&nbsp;&nbsp;<a href="https://www.daijob.com/en/jobs/search?jt%5B%5D=200&amp;in_japan=true&amp;pg=0&amp;fl=1">Executive</a>&nbsp;333
 </p>
@@ -30,96 +34,77 @@
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=3200&amp;pg=0">機械（自動車/プラント/精密機器）</a>&nbsp;872<a href="https://www.daijob.com/en/jobs/search?jt%5B%5D=3200&amp;in_japan=true&amp;pg=0&amp;fl=1">Manufacturing (Automobile/Plant Engineering/Precision Equipment)</a>&nbsp;740
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1900&amp;pg=0">メディカル/医薬/バイオ/素材/食品</a>&nbsp;640
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=900&amp;pg=0">建築/土木/設備/不動産</a>&nbsp;330
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1700&amp;pg=0">コンサルティング</a>&nbsp;684
 </p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1100&amp;pg=0">総務/人事</a>&nbsp;549
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4100&amp;pg=0">法務</a>&nbsp;296
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1000&amp;pg=0">財務/会計</a>&nbsp;853
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1200&amp;pg=0">事務系</a>&nbsp;769
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4200&amp;pg=0">カスタマーサービス</a>&nbsp;113
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4300&amp;pg=0">金融/銀行/証券</a>&nbsp;328
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4400&amp;pg=0">保険</a>&nbsp;42
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4500&amp;pg=0">資産/不動産資産/不動産</a>&nbsp;65
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4600&amp;pg=0">その他金融関連職種</a>&nbsp;9
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=2100&amp;pg=0">営業</a>&nbsp;1,747
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1800&amp;pg=0">マーケティング/PR</a>&nbsp;1,435
 </p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=2200&amp;pg=0">流通・小売/消費財/ファッション</a>&nbsp;245
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=2300&amp;pg=0">ホテル/レジャー/外食系/旅行</a>&nbsp;92
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1300&amp;pg=0">教育/トレーニング/語学系</a>&nbsp;193
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=2400&amp;pg=0">クリエイティブ(インターネット関連)</a>&nbsp;252
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4700&amp;pg=0">クリエイティブ(広告/出版/放送/映像関連)</a>140
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=4800&amp;pg=0">クリエイティブ（その他)</a>&nbsp;62
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=2000&amp;pg=0">医療/福祉/介護</a>&nbsp;16
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=3000&amp;pg=0">官公庁/団体</a>&nbsp;1
 </p>
-<p>&nbsp;</p>
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=2900&amp;pg=0">その他の職種</a>&nbsp;84
 </p>
+
+## English Job Titles for Roles
 <p>
   <a href="https://www.daijob.com/en/jobs/search?jt%5B%5D=1900&amp;in_japan=true&amp;pg=0&amp;fl=1">Medical/Pharmaceutical/Bio/Fabric/Food</a>&nbsp;606
 </p>
