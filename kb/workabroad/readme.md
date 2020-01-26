@@ -21,17 +21,17 @@ There are articles organized by Country where a person wants to work, and topics
 
 9.	[Daijob Job Portal in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/daijobroles.md)
 
-10.	Example of a Recruitment Position
+10.	[Example of a Recruitment Position](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/recruiterexample.md)
 
-11.	Example of a Resume and Key Points
+11.	[Example of a Resume and Key Points](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/Japan/applicants)
 
-12.	Examples of Reference Questions
+12.	[Examples of Reference Questions](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md)
 
-13.	Fashion
+13.	[Fashion](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/fashion)
 
-14.	Files on Finding a Job Internationally
+14.	[Finding a Job Internationally](https://github.com/audiologiks/webclient/tree/master/kb/workabroad)
 
-15.	Finding a Job in Japan
+15.	[Finding a Job in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/thingstothinkabout.md)
 
 16.	[Getting a Job in Australia](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Australia/gettingajob.md)
 
@@ -51,7 +51,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 24.	International and Japanese Job Boards
 
-25.	internships and visas
+25.	Internships and Visas
 
 26.	Interview with a Hiring Manager (Rob Pauling)
 
@@ -75,7 +75,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 36.	Job Boards : Bilingual
 
-37.	job categories on careercross
+37.	[Job Categories on Careercross.com](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
 38.	Job Categories/Roles in English and Japanese
 
@@ -93,7 +93,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 45.	Linkedin Profiles and Using your Languages
 
-46.	Links on English resume preparation
+46.	[Links on English resume preparation](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/readme.md)
 
 47.	Links to English Articles on Labor Regulations
 
@@ -141,15 +141,15 @@ There are articles organized by Country where a person wants to work, and topics
 
 69.	Practice Questions for an Interview
 
-70.	Preparing a Resume
+70.	[Preparing a Resume](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/latestcv.md)
 
 71.	Presentation on "Invisible Jobs" and Audio Example
 
 72.	Presentation on Staffing Market in Japan and Audio
 
-73.	Recruiters with Life Sciences Teams in Japan
+73.	[Recruiters with Life Sciences Teams in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
 
-74.	reference questions as part of interview process
+74.	[Reference Questions as part of Interview Process](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md)
 
 75.	Salary Determination and Research
 
