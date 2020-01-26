@@ -1,3 +1,4 @@
+## Life Sciences Recruitment Teams at Headhunters
 <table dir="ltr" border="1" cellspacing="0" cellpadding="0">
   <colgroup>
     <col width="134">
@@ -226,7 +227,13 @@
     </tr>
   </tbody>
 </table>
-
+## Direct Employers in the Life Sciences and Healthcare Industries
+<p>
+  Check out our google spreadsheets on recruiters with
+  <a href="https://docs.google.com/spreadsheets/d/15FqzeqeuO0hRJTKrc_AprB7rzFHEk9p-_TM8QfZkYVU/edit?usp=sharing" target="_blank" rel="noopener">healthcare teams focused on hiring for the industry&nbsp;</a>and
+  on
+  <a href="https://docs.google.com/spreadsheets/d/1i6QfnW3qyf7DZ9IM0mieGIqlLxvSMFy96XORYQDBUZE/edit?usp=sharing" target="_blank" rel="noopener">companies and events.</a>
+</p>
 <p>
   Doing research on the healthcare and life sciences industry. Look up companies,
   and see what kind of jobs they offer that match your skills and interests.
@@ -235,12 +242,6 @@
   Foreign-affiliated Life sciences companies (subsidiaries of global companies,
   joint ventures between domestic and Japanese firms) offer a range of jobs, often
   that require bilingual skills.&nbsp;
-</p>
-<p>
-  Check out our google spreadsheets on recruiters with
-  <a href="https://docs.google.com/spreadsheets/d/15FqzeqeuO0hRJTKrc_AprB7rzFHEk9p-_TM8QfZkYVU/edit?usp=sharing" target="_blank" rel="noopener">healthcare teams focused on hiring for the industry&nbsp;</a>and
-  on
-  <a href="https://docs.google.com/spreadsheets/d/1i6QfnW3qyf7DZ9IM0mieGIqlLxvSMFy96XORYQDBUZE/edit?usp=sharing" target="_blank" rel="noopener">companies and events.</a>
 </p>
 <table dir="ltr" style="width:838px" border="1" cellspacing="0" cellpadding="0">
   <colgroup>
