@@ -1,5 +1,5 @@
 
-# A Job Spec 
+# A Recruiter Role Job Spec 
 ## From a Recruitment company looking for new recruiters (from Daijob Agents)
 
 <p>
