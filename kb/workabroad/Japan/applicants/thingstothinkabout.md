@@ -42,50 +42,31 @@ If you know keigo great, but not necessary to worry about it during the intervie
 
 ### Using your Japanese
 I believe it is good to include Japanese in the interview, even if you are N3 or N4 (JLPT levels).
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Go Aisatsu</span>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Jiko Shokai</span>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Thank you</span>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Keigo</span>
-      </li>
- 
+* Go Aisatsu
+* Jiko Shokai
+* Thank you
+* Keigo
+   
 ### Other languages
 If you know other languages it is a plus if they have a use within the hiring company</span>
 
-        <li style="font-weight:400">
-          <span style="font-weight:400">Language of the home country - English, a European or Asian language, and/or any language in which the company conducts business in its home area.</span>
-        </li>
-        <li style="font-weight:400">
-          <span style="font-weight:400">Asian language - If the Asia headquarters is outside of Japan, it can be useful or beneficial to have command of Chinese (Mandarin or Cantonese). Just a nice to have element on the resume unless you are specifically involved in supporting Chinese customers. </span>
-        </li>
-        <li style="font-weight:400">
-          <span style="font-weight:400">On the other hand, if it isn’t related to the company’s business, there is no need to include a language unless there is fluency unless it’s an ongoing hobby or interest you want to mention in the interview.</span>
-        </li>
+Language of the home country - English, a European or Asian language, and/or any language in which the company conducts business in its home area.
+
+Asian language - If the Asia headquarters is outside of Japan, it can be useful or beneficial to have command of Chinese (Mandarin or Cantonese). Just a nice to have element on the resume unless you are specifically involved in supporting Chinese customers. </span>
+
+On the other hand, if it isn’t related to the company’s business, there is no need to include a language unless there is fluency unless it’s an ongoing hobby or interest you want to mention in the interview.
    
 ### Determining Salary
 Recruiters can be a big help in determining salaries, range for the position and whether your desired salary is reachable. Job portals and online websites also have good benchmarks.
 
 Check out Daijob’s [salary database of candidates](https://www.daijob.com/en/ecompany/index.html). It can be a good view of the competition out there on the market 
         
-        <li style="font-weight:400">
-          <span style="font-weight:400">Look at the type of jobs available by salary level &nbsp;</span><a href="https://www.daijob.com/en/jobs/?pg=0"><span style="font-weight:400">https://www.daijob.com/en/jobs/?pg=0</span></a>
-        </li>
-        <li style="font-weight:400">
-          <span style="font-weight:400">Careercross has a good salary guide &nbsp;</span><a href="https://www.careercross.com/en/salary-survey"><span style="font-weight:400">https://www.careercross.com/en/salary-survey</span></a>
-        </li>
-        <li style="font-weight:400">
-          <span style="font-weight:400">Robert Walters Japan salary guide &nbsp;</span><a href="https://www.robertwalters.co.jp/content/dam/robert-walters/country/japan/files/salary-survey/E-Book2017.pdf"><span style="font-weight:400">https://www.robertwalters.co.jp/content/dam/robert-walters/country/japan/files/salary-survey/E-Book2017.pdf</span></a>
-        </li>
-        <li style="font-weight:400">
-          <span style="font-weight:400">Hays Salary check &nbsp;</span><a href="https://www.hays.co.jp/en/salary-check/index.htm"><span style="font-weight:400">https://www.hays.co.jp/en/salary-check/index.htm</span></a>
-        </li>
+Look at the type of [jobs available by salary level](https://www.daijob.com/en/jobs/?pg=0) at Daijob or on www.indeed.jp
+Careercross has a [good salary guide](https://www.careercross.com/en/salary-survey)
+
+[Robert Walters Japan salary guide 2017](https://www.robertwalters.co.jp/content/dam/robert-walters/country/japan/files/salary-survey/E-Book2017.pdf)">
+
+[Hays Salary check](https://www.hays.co.jp/en/salary-check/index.htm)
 
  ## Resume/CV Style
 Check your resume or ask someone you trust to review your English resume. It should be in active voice, tying your actions to the results of your employer to show your value to the company.
