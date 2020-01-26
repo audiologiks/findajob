@@ -35,7 +35,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 16.	[Getting a Job in Australia](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Australia/gettingajob.md)
 
-17.	Getting a Job in Canada
+17.	[Getting a Job in Canada](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Canada/readme.md)
 
 18.	Global Talent Recruiting
 
