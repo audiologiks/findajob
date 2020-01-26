@@ -17,7 +17,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 7.	Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment
 
-8.	CareerCross Function / Job Categories
+8.	[CareerCross Function / Job Categories](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
 9.	daijob job portal in Japan
 
