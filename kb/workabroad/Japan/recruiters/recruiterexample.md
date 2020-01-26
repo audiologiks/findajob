@@ -1,6 +1,7 @@
-<p>
-  <strong>A job spec from a recruitment company looking for new recruiters (from Daijob Agents0</strong>
-</p>
+
+# A Job Spec 
+## From a Recruitment company looking for new recruiters (from Daijob Agents)
+
 <p>
   <strong>【Requirements】</strong>&nbsp;
 </p>
