@@ -1,4 +1,4 @@
-# Job ROles on www.Daijob.com
+# Job Roles on www.Daijob.com
 
 <p>
   <a href="https://d3loylgx84jw3f.cloudfront.net/audio/8611/kb-article/rc_kb_article_job_cat_1002.mp3" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/all/banner/menu_info_banner.png"></a>
