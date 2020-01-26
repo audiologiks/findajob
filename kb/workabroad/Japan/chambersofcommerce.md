@@ -1,0 +1,27 @@
+## Foreign Chambers of Commerce in Japan
+
+[The SCCJ  (Swiss Chamber of Commerce)](http://www.sccij.jp/news/overview/detail/article/2016/09/23/sccij-sponsors-renowned-scholarship-fund-for-interns/)
+[The Swiss Chamber and Startups](http://www.sccij.jp/news/overview/detail/article/2017/12/18/connecting-swiss-startups-with-japan/)
+
+### Other Chambers of Commerce (look at members and Jobs)
+[Event Calendar SCCIJ](http://www.sccij.jp/events/event-calendar/)
+
+### chamber	Website
+1.	[American Chamber of Commerce in Japan](www.accj.or.jp)
+2.	[Australian & New Zealand Chamber of Commerce in Japan](www.anzccj.org)
+3.	[Belgian-Luxembourg Chamber of Commerce in Japan](http://blccj.or.jp/)
+4.	[British Chamber of Commerce in Japan](www.bccjapan.com)
+5.	[Canadian Chamber of Commerce in Japan](www.cccj.or.jp/)
+6.	[French Chamber of Commerce and Industry in Japan](www.ccifj.or.jp/)
+7.	[German Chamber of Commerce & Industry in Japan](http://japan.ahk.de/en/)
+8.	[Italian Chamber of Commerce](www.iccj.or.jp/)
+9.	[Korean Chamber of Commerce & Industry](http://www.kccj.org/)
+10.	[Netherlands Chamber of Commerce](http://www.nccj.jp/)
+11.	[Philippine Chamber of Commerce & Industry](www.pccij.jp/)
+12.	[Swedish Chamber of Commerce & Industry in Japan](www.sccj.org/)
+13.	[Swiss Chamber of Commerce and Industry in Japan](www.sccij.org)
+14.	[Finnish Chamber of Commerce](http://www.fcc.or.jp/)
+15.	[Norwegian Chamber of Commerce](http://www.nccj.or.jp/)
+16.	[Danish Chamber of Commerce](https://www.dccj.org/)
+17.	[Ireland Chamber of Commerce](http://www.ijcc.jp/)
+18.	[Brazil Chamber of Commerce in Japan](http://www.ccbj.jp/)
