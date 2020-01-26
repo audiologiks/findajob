@@ -26,6 +26,10 @@ I might start using the Slim php framework for webclients, rather than just the 
 
 **Twiml** - Examples from Twilio website that I download to work on as examples, or code for voice features that I have adapted.
 
+**kb**  - Migration of Help and How To content on finding a job overseas in Japan and other countries.
+
+**karaoke** - Lyrics to practice Japanese or English songs using a web voice client
+
 # How Does this Work with:
 Job Placement counselors helping foreign students to find jobs in the Japanese job market.
 
