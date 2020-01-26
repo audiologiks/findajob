@@ -1,6 +1,5 @@
-<p>
-  <span class="wysiwyg-font-size-large">Practice Your English in the Life Sciences with a Teacher</span>
-</p>
+## Life Sciences Companies in Japan (Foreign and Domestic)
+
 <table class="table">
   <tbody>
     <tr>
