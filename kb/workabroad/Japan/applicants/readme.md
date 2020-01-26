@@ -1,9 +1,19 @@
 <p>
   <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/office/icons8-submit-resume-filled-50.png">
 </p>
-<h1>
-  <strong>Resume/CV Style</strong>
-</h1>
+
+## Resume/CV Style
+Check your resume or ask someone you trust to review your English resume. It should be in active voice, tying your actions to the results of your employer to show your value to the company.
+
+Japanese and English versions of a resume are good to submit, hiring managers might prefer to use the Japanese version during the interview. It can be in the same format as your English resume, unless specifically requested to submit in “rirekisho” format.
+
+Look at [different formats](http://www.americasjobexchange.com/career-advice/types-of-resume-formats)
+   
+Further [explanation of formats](https://www.thebalancecareers.com/resume-formats-with-examples-and-formatting-tips-2063591)
+[Visual representation](https://www.cpresumes.com/resume-samples)
+
+[View a Video on writing a resume](https://youtu.be/6efrR7Ds3Cs)
+
 <ol>
   <ol>
     <li style="font-weight:400">
