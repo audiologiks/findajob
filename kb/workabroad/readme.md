@@ -7,7 +7,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 2.  [72 Life Sciences Companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
 
-3.  Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan
+3.  [Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/chambersofcommerce.md)
 
 4.	Audio on SoundCloud: Hiring Bilingual Candidates
 
