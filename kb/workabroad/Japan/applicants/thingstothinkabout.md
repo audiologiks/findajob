@@ -90,8 +90,3 @@ Another view [from a visa process assistance company](https://www.juridique.jp/v
 I use Youtube quite a lot, to view topics related to work that I am interested in. So for me, IT and Operations topics have a lot of resources on Youtube that give good overviews or summaries of topics. Topics I enjoy are Kanban and Devops.I have also used [Linkedin’s Lynda platform](https://www.lynda.com) for online courses.
 
 Since I am interested in coding for the web, I have used [Coursera](href="https://www.coursera.org/) and [Codeacademy](https://www.codecademy.com)
-
-## Job boards
-
-
-
