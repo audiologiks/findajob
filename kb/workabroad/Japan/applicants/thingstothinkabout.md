@@ -1,5 +1,4 @@
 # Key Points When Looking for a Job
-
 <p>
   <strong><span class="wysiwyg-font-size-large">Looking for a new job</span></strong><br>
   I'll post information on looking for jobs as I get it or find anything on the
@@ -17,13 +16,14 @@
   but for the information they are willing to share. You can learn a lot about
   the Tokyo job market by talking to a recruiter in your industry.
 </p>
-<p>
-  <strong><span class="wysiwyg-font-size-large">Job boards</span></strong>
-</p>
-<p>
-  Bilingual or international job boards are another helpful way of learning about
-  types of jobs open and the salaries they are likely to pay.
-</p>
+
+## Job boards
+
+Bilingual or international job boards are another helpful way of learning about
+types of jobs open and the salaries they are likely to pay.
+  
+Find out the job portals for that industry or that country and look online for jobs. If you work in a large global company, check out global opportunities in your company. At a recent meetup, we had one member who had progressed to interviews but hadn’t managed to get an offer yet. We talked about competing with local candidates and how to show different attributes that give a candidate an edge over others.
+
 <p>
   <strong><span class="wysiwyg-font-size-large">Writing a Resume</span></strong><br>
   <a href="https://youtu.be/6efrR7Ds3Cs">View a Video on writing a resume</a>
