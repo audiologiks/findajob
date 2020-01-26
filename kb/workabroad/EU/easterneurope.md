@@ -1,8 +1,4 @@
-<p>
-  <img src="/hc/article_attachments/115012566943/__________2017-07-26_21.02.01.png" alt="__________2017-07-26_21.02.01.png">
-</p>
-<p>
-  <span style="font-size:large"><strong>Eastern European Time</strong>&nbsp;(<strong>EET</strong>) is one of the names of UTC+02:00&nbsp;<strong>time</strong>&nbsp;zone, <a href="https://en.wikipedia.org/wiki/Eastern_European_Time" target="_blank" rel="noopener noreferrer">2 hours ahead of Coordinated Universal&nbsp;<strong>Time</strong>.</a></span>
+<span style="font-size:large"><strong>Eastern European Time</strong>&nbsp;(<strong>EET</strong>) is one of the names of UTC+02:00&nbsp;<strong>time</strong>&nbsp;zone, <a href="https://en.wikipedia.org/wiki/Eastern_European_Time" target="_blank" rel="noopener noreferrer">2 hours ahead of Coordinated Universal&nbsp;<strong>Time</strong>.</a></span>
 </p>
 <p>
   <span style="font-size:large">Bulgaria</span>
