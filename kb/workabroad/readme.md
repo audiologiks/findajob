@@ -19,7 +19,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 8.	[CareerCross Function / Job Categories](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
-9.	daijob job portal in Japan
+9.	[Daijob Job Portal in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/daijobroles.md)
 
 10.	Example of a Recruitment Position
 
