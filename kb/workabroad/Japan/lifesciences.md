@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td>
-        <a href="http://localhost/ja/">ASTELLAS PHARMA INC,</a>
+        <a href="https://www.linkedin.com/search/results/index/?keywords=ASTELLAS">ASTELLAS PHARMA INC,</a>
       </td>
       <td>アステラス製薬株式会社</td>
       <td>&nbsp;</td>
