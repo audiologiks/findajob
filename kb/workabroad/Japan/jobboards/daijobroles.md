@@ -1,4 +1,4 @@
-# Job Roles on www.Daijob.com
+# Job Roles on www.daijob.com
 
 <p>
   <a href="https://d3loylgx84jw3f.cloudfront.net/audio/8611/kb-article/rc_kb_article_job_cat_1002.mp3" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/all/banner/menu_info_banner.png"></a>
@@ -7,7 +7,7 @@
   <a href="https://www.daijob.com/en/index.html" target="_blank" rel="noopener noreferrer">Here is the link</a>
 </p>
 
-## Japanese-language Titles
+## Japanese and English Titles
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=200&amp;pg=0">エグゼクティブ/経営</a>&nbsp;379&nbsp;&nbsp;<a href="https://www.daijob.com/en/jobs/search?jt%5B%5D=200&amp;in_japan=true&amp;pg=0&amp;fl=1">Executive</a>&nbsp;333
 </p>
@@ -34,6 +34,8 @@
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=3200&amp;pg=0">機械（自動車/プラント/精密機器）</a>&nbsp;872<a href="https://www.daijob.com/en/jobs/search?jt%5B%5D=3200&amp;in_japan=true&amp;pg=0&amp;fl=1">Manufacturing (Automobile/Plant Engineering/Precision Equipment)</a>&nbsp;740
 </p>
+
+## Japanese Titles (not yet translated as of 1/26/20)
 <p>
   <a href="https://www.daijob.com/jobs/search?in_japan=true&amp;fl=1&amp;jt%5B%5D=1900&amp;pg=0">メディカル/医薬/バイオ/素材/食品</a>&nbsp;640
 </p>
