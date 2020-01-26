@@ -1,3 +1,5 @@
+I have created audio programs and posted them on Soundcloud to share.
+
 ## Index of Recording Audio
 
 1. [Working in Germany](https://soundcloud.com/tom-jones-110/working-in-germany)
