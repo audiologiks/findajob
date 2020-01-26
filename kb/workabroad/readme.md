@@ -11,7 +11,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 4.	Audio on SoundCloud: Hiring Bilingual Candidates
 
-5.	Audio on Soundcloud: Researching Where You Might Want to Work
+5.	[Audio on Soundcloud: Researching Where You Might Want to Work](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/audio/soundcloud.md)
 
 6.	Background of Meetup Attendees
 
