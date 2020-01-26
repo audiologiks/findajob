@@ -1,8 +1,7 @@
 <p>
   &nbsp;Look at our
   <a style="background-color:#ffffff" href="https://www.audiologiks.com/JpJobs/" target="_blank" rel="noopener">Working in Japan page</a>&nbsp;for
-  links to Job Boards, Companies and Recruiters. Here is a link
-  <a href="https://docs.google.com/spreadsheets/d/1L6_HI6DgzuxG4pq2evTddQRCBCempAt6qRXBbZ4FOGs/edit?usp=sharing">to the spreadsheet on Google Sheets.</a>
+  links to Job Boards, Companies and Recruiters.
 </p>
 <table dir="ltr" border="1" cellspacing="0" cellpadding="0">
   <tbody>
