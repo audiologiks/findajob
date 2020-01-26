@@ -15,7 +15,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 6.	[Background of Meetup Attendees](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/attendees_background.md)
 
-7.	Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment
+7.	[Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/36recruiters.md)
 
 8.	[CareerCross Function / Job Categories](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
