@@ -23,7 +23,7 @@
  ## IT Specialist Recruiter
 
 <p>
-  <a href="http://www.computerfutures.com" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo.png"></a>
+<a href="http://www.computerfutures.com" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo.png"></a>
 </p>
 <p>
   <span class="wysiwyg-font-size-large"><strong>UK Recruiter</strong></span>
