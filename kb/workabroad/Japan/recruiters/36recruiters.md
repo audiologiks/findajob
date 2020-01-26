@@ -5,15 +5,6 @@
   <a href="https://docs.google.com/spreadsheets/d/1L6_HI6DgzuxG4pq2evTddQRCBCempAt6qRXBbZ4FOGs/edit?usp=sharing">to the spreadsheet on Google Sheets.</a>
 </p>
 <table dir="ltr" border="1" cellspacing="0" cellpadding="0">
-  <colgroup>
-
-    <col width="38">
-
-    <col width="291">
-
-    <col width="353">
-
-  </colgroup>
   <tbody>
     <tr>
       <td>&nbsp;</td>
