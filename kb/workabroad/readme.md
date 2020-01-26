@@ -85,7 +85,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 41.	Job Search 仕事探し
 
-42.	Jobs in Eastern Europe
+42.	[Jobs in Eastern Europe](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/EU/easterneurope.md)
 
 43.	Joining Meetup Events - Just look for the Event Announcements
 
