@@ -45,9 +45,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 21.	[Hiring in Tokyo for Bilingual Roles](https://www.slideshare.net/thjonz/hiring-in-tokyo-for-bilingual-roles-60048969)
 
-22.	Hiring Lifecycle Presentation
-
-23.	How do I customize my Help Center?
+22.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx)
 
 24.	International and Japanese Job Boards
 
