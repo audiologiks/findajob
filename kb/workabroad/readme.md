@@ -43,7 +43,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 20.	Help, I have a question and I need an answer
 
-21.	Hiring in Tokyo for Bilingual Roles
+21.	[Hiring in Tokyo for Bilingual Roles](https://www.slideshare.net/thjonz/hiring-in-tokyo-for-bilingual-roles-60048969)
 
 22.	Hiring Lifecycle Presentation
 
