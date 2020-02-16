@@ -47,7 +47,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 22.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx)
 
-24.	International and Japanese Job Boards
+24.	[International and Japanese Job Boards](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/global.md)
 
 25.	Internships and Visas
 
