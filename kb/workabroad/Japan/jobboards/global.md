@@ -11,7 +11,7 @@
 
 ### English-language
  * [Monster](http://www.monster.com)
- * [Dice](href="http://www.dice.com)
+ * [Dice](http://www.dice.com)
  * [Upwork](http://www.upwork.com)
  * [eFinancialCareers](http://www.efinancialcareers.com)
  * [Linkedin](http://www.linkedin.com)
