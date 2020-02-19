@@ -51,7 +51,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 25.	[Internships and Visas](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md)
 
-26.	Interview with a Hiring Manager (Rob Pauling)
+26.	[Interview with a Hiring Manager (Rob Pauling)]()
 
 27.	Interview with a Recruiter
 
