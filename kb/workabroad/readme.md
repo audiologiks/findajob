@@ -5,7 +5,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 1.  [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md) Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work.
 
-2.  [72 Life Sciences Companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
+2.  [72 Life Sciences Companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md) Just as an example, looking at industries including the Life Sciences or Healthcare industry, you will find clusters of companies in different fields that you can apply to. Recruiters will specialize or have teams of consultants that specialize in hiring for roles in that industry.
 
 3.  [Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/chambersofcommerce.md)
 
