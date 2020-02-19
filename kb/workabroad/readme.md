@@ -7,11 +7,11 @@ There are articles organized by Country where a person wants to work, and topics
 
 2.  [72 Life Sciences Companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md) Just as an example, looking at industries including the Life Sciences or Healthcare industry, you will find clusters of companies in different fields that you can apply to. Recruiters will specialize or have teams of consultants that specialize in hiring for roles in that industry.
 
-3.  [Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/chambersofcommerce.md)
+3.  [Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/chambersofcommerce.md) One intern with the Swiss chamber came to a Meetup and talked about his experience working in Japan. All the major economic powers will have a business association, called a Chamber of Commerce, to which most of their major companies will belong. These associations can be a great place to meet people and ask questions about jobs and employers that are hiring.
 
-4.	Audio on SoundCloud: Hiring Bilingual Candidates
+4.	[Audio on SoundCloud: Hiring Bilingual Candidates](https://soundcloud.com/tom-jones-110) Posting audio files on Soundcloud should be an easy way to share content on jobs, finding them and learning about new topics.
 
-5.	[Audio on Soundcloud: Researching Where You Might Want to Work](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/audio/soundcloud.md)
+5.	[Audio on Soundcloud: Researching Where You Might Want to Work](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/audio/soundcloud.md) I'll post links to audio files in the content that I post here on jobs and working overseas.
 
 6.	[Background of Meetup Attendees](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/attendees_background.md)
 
