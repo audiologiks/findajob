@@ -11,9 +11,6 @@
   <strong>Is a distinction drawn between local and foreign workers?</strong>
 </p>
 <p>
-  <span class="wysiwyg-color-red"><strong>My comments in red</strong></span>
-</p>
-<p>
   Foreign workers must satisfy immigration requirements in order to work in Japan.
   Visa requirements do not apply to nationals of countries with which Japan has
   reciprocal exemption arrangements. Foreign nationals who wish to work in Japan
