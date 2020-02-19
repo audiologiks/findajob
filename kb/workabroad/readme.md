@@ -51,55 +51,41 @@ There are articles organized by Country where a person wants to work, and topics
 
 25.	[Internships and Visas](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md)
 
-26.	[Interview with a Hiring Manager (Rob Pauling)]()
+26.	[Interview with a Hiring Manager (Rob Pauling)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/interview_hiring_mgr.md)
 
-27.	Interview with a Recruiter
+27.	[Interview with a Recruiter](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/interview_recruiter.md)
 
-28.	Interview with a Recruiter - Arnaldo (Hong Kong)
+28.	[Interview with a Recruiter - Arnaldo (Hong Kong)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/interview_recruiter.md)
 
-29.	Interview with a Recruiter (Mark Stoneman)
+30.	[Interview with Verena Hopp. Founder of Internship Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/interview_founder.md)
 
-30.	Interview with Verena Hopp. Founder of Internship Japan
-
-31.	Introduction to a Fashion Industry Recruiter
-
-32.	IT Financial Position (3) - Financial Support Developer
-
-33.	IT Position Example (2) - Financial Developer
-
-34.	IT Position Examples - Financial Software
+31.	[Introduction to a Fashion Industry Recruiter](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/fashion_recruiter.md)
 
 35.	[J-1 Visa in the United States](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/j1visa.md)
 
-36.	Job Boards : Bilingual
+36.	[Job Boards : Bilingual](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/bilingual_boards.md)
 
 37.	[Job Categories on Careercross.com](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
-38.	Job Categories/Roles in English and Japanese
+38.	[Job Categories/Roles in English and Japanese](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
-39.	Job Search Diary
+39.	[Job Search Diary](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/job_search.md)
 
-40.	Job Search Presentation Slides - Screenshots
-
-41.	Job Search 仕事探し
+41.	[Job Search 仕事探し](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/shigoto.md)
 
 42.	[Jobs in Eastern Europe](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/EU/easterneurope.md)
 
-43.	Joining Meetup Events - Just look for the Event Announcements
+43.	[Joining Meetup Events - Just look for the Event Announcements for various groups](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/meetups.md)
 
-44.	July Job Search (Presentation)
-
-45.	Linkedin Profiles and Using your Languages
+45.	[Linkedin Profiles and Using your Languages](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/linkedin_profiles.md)
 
 46.	[Links on English resume preparation](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/readme.md)
 
-47.	Links to English Articles on Labor Regulations
+47.	[Links to English Articles on Labor Regulations](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/labor_regulations.md)
 
-48.	Links to IT Support Jobs in Tokyo
+48.	[Links to IT Support Jobs in Tokyo](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/IT_Support/finding_jobs.md)
 
-49.	Links to Materials and FIles
-
-50.	Meetup Notes 5/6/2018 - Nihon no Job Market Meetup
+50.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_5_2016.md)
 
 51.	Meetup Notes April 2017 - Nihon no Job Market
 
