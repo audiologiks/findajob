@@ -91,7 +91,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 52.	[Meetup Notes August 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/aug_18_2018.md)
 
-53.	Meetup Notes December 2016 - Global Careers Information
+53.	[Meetup Notes December 2016 - Global Careers Information](https://github.com/audiologiks/webclient/edit/master/kb/workabroad/applicants/meetupnotes/dec_8_2018.md)
 
 54.	Meetup Notes February 2017 - Global Careers Information
 
