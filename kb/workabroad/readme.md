@@ -87,9 +87,9 @@ There are articles organized by Country where a person wants to work, and topics
 
 50.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_5_2016.md)
 
-51.	Meetup Notes April 2017 - Nihon no Job Market
+51.	[Meetup Notes April 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/april_6_2016.md)
 
-52.	Meetup Notes August 2017 - Global Careers Information
+52.	[Meetup Notes August 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/aug_18_2018.md)
 
 53.	Meetup Notes December 2016 - Global Careers Information
 
