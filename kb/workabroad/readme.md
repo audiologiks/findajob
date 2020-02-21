@@ -1,4 +1,4 @@
-There are articles organized by Country where a person wants to work, and topics on working overseas. These are being migrated from audiologiks.com using Zendesk. Migration to be done by 2/10/2020.
+There are articles organized by Country where a person wants to work, and topics on working overseas. These are being migrated from audiologiks.com using Zendesk. Migration to be done by 3/10/2020.
 
 
 #	Index of Articles on Working Abroad
@@ -13,9 +13,9 @@ There are articles organized by Country where a person wants to work, and topics
 
 5.	[Audio on Soundcloud: Researching Where You Might Want to Work](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/audio/soundcloud.md) I'll post links to audio files in the content that I post here on jobs and working overseas.
 
-6.	[Background of Meetup Attendees](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/attendees_background.md)
+6.	[Background of Meetup Attendees](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/attendees_background.md) Meetup attendees for the events in Tokyo were evenly divided between Japanese and foreigners, with almost 50-50 balance between men and women. The makeup of of attendees sometimes depended on when the event was held, either weekday night or weekend daytime, and if there was a fee for the meetup and where it was held.
 
-7.	[Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/36recruiters.md)
+7.	[Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/36recruiters.md) There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
 
 8.	[CareerCross Function / Job Categories](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
