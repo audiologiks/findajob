@@ -1,7 +1,7 @@
 ## Job Boards
 
 - Language teaching
-  - Gaijinpot.com
+  - [Gaijinpot.com](www.gaijinpot.com)
 
 [Hello Work](https://www.hellowork.go.jp/)
 
