@@ -1,7 +1,6 @@
 There are articles organized by Country where a person wants to work, and topics on working overseas. These are being migrated from audiologiks.com using Zendesk. Migration to be done by 3/10/2020.
 
-
-#	Index of Articles on Working Abroad
+#	Index of Articles on Working Abroad (last updated on 2/22)
 
 1.  [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md) Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work.
 
@@ -17,15 +16,15 @@ There are articles organized by Country where a person wants to work, and topics
 
 7.	[Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/36recruiters.md) There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
 
-8.	[CareerCross Function / Job Categories](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
+8.	[CareerCross Function / Job Categories](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md) All or most job sites will categorize the types of jobs by industry and function, and this shows how one bilingual job board does that. In general, the categories are the same as any global job board, but you will see where foreign companies focus their hiring by the number of jobs posted.
 
-9.	[Daijob Job Portal in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/daijobroles.md)
+9.	[Daijob Job Portal in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/daijobroles.md) Historically, the no.1 or no.2 bilingual job board in Japan for jobs posted by foreign companies, this shows the categories of jobs posted and the numbers of jobs available per job category.
 
-10.	[Example of a Recruitment Position](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/recruiterexample.md)
+10.	[Example of a Recruitment Position](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/recruiterexample.md) Recruitment is a good industry to learn skills in working in Japan, and is an important focus for foreign companies to get the best talent for their operations. There are a variety of roles in recruitment, as in-house positions working for companies directly or working for recruitment companies.
 
-11.	[Example of a Resume and Key Points](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/Japan/applicants)
+11.	[Example of a Resume and Key Points](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/Japan/applicants) Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
 
-12.	[Examples of Reference Questions](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md)
+12.	[Examples of Reference Questions](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md) References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
 
 13.	[Fashion](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/fashion)
 
