@@ -17,7 +17,7 @@
 ### Information in French
 [Link 1](https://www.kanpai.fr/societe-japonaise/travailler-japon-trouver-emploi-ou-stage)
 
-{Link 2](https://www.gaijinjapan.org/travail-japon/)
+[Link 2](https://www.gaijinjapan.org/travail-japon/)
 
 ### Information in Japanese
 [Comparing Japanese-language sites introducing Foreigners for work](https://hrnote.jp/contents/a-contents-saiyou-kaigaimerito-180124/)
