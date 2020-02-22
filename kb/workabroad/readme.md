@@ -104,25 +104,25 @@ There are articles organized by Country where a person wants to work, and topics
 
 59.	[Meetup Notes May 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_6_2017.md)
 
-60.	Meetup Notes May 2017 - Global Careers Information
+60.	[Meetup Notes May 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_7_2017.md)
 
-61.	Meetup Notes May 2017 - IT Support Jobs
+61.	[Meetup Notes May 2017 - IT Support Jobs](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/it_support.md)
 
-62.	Meetup Notes May 2017 - Nihon no Job Market
+62.	[Meetup Notes May 2017 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/resume.md)
 
-63.	Meetup Notes November 2017 - Global Careers Information
+63.	[Meetup Notes November 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/recruiter_asia.md)
 
 64.	[Meetup Notes September 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_16_2017.md)
 
-65.	Mock Interviews and Practice
+65.	[Mock Interviews and Practice](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/practice_interviews.md)
 
-66.	Points to Consider When Looking for a Job
+66.	[Points to Consider When Looking for a Job](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/points_looking_job.md)
 
-67.	Practice Job Interviews
+67.	[Practice Job Interviews](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_system.md)
 
 68.	Practice Listening Comprehension
 
-69.	Practice Questions for an Interview
+69.	[Practice Questions for an Interview](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_questions.md)
 
 70.	[Preparing a Resume](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/latestcv.md)
 
