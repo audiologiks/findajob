@@ -42,16 +42,16 @@ Looking for Companies specifically in your field
 ### Things to think about for the Job
 - How might it compare to working in a foreign company?
 - How long is your resume?
- - Should you have more than one resume?
+  - Should you have more than one resume?
 - Languages - Using your Japanese
- - Other languages
+  - Other languages
 - Self-education, Training resources
 - Startups - Looking for startups
 - Hiring Cycle - The lead time for a job
- - Interviews
- - Determining Salary
- - Which is better, getting a permanent position or a temp position?
- - What are the obstacles to getting an interview?
+  - Interviews
+  - Determining Salary
+  - Which is better, getting a permanent position or a temp position?
+  - What are the obstacles to getting an interview?
 
 ### Country - What Country are you looking for a Job in?
 [Japan](https://www.audiologiks.com/JpJobs/Recruiters/)
