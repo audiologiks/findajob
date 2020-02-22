@@ -93,17 +93,17 @@ There are articles organized by Country where a person wants to work, and topics
 
 53.	[Meetup Notes December 2018 - Global Careers Information](https://github.com/audiologiks/webclient/edit/master/kb/workabroad/applicants/meetupnotes/dec_8_2018.md)
 
-54.	Meetup Notes February 2017 - Global Careers Information
+54.	[Meetup Notes February 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/2017_intro.md)
 
-55.	Meetup Notes January 2017 - Global Careers Information
+55.	[Meetup Notes November 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/nov_18_2017.md)
 
-56.	Meetup Notes June 2017 - Global Careers Information
+56.	[Meetup Notes June 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/jun_2_2017.md)
 
-57.	Meetup Notes June 2017 - Nihon no Job Market
+57.	[Meetup Notes Sept 2017 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_2017.md)
 
-58.	Meetup Notes March 2018 - Global Career Information
+58.	[Meetup Notes July 2018 - Global Career Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/jul_22_2018.md)
 
-59.	Meetup Notes May 2016 - Nihon no Job Market
+59.	[Meetup Notes May 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_6_2017.md)
 
 60.	Meetup Notes May 2017 - Global Careers Information
 
@@ -113,7 +113,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 63.	Meetup Notes November 2017 - Global Careers Information
 
-64.	Meetup Notes September 2017 - Global Careers Information
+64.	[Meetup Notes September 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_16_2017.md)
 
 65.	Mock Interviews and Practice
 
