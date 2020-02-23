@@ -1,6 +1,6 @@
 There are articles organized by Country where a person wants to work, and topics on working overseas. These are being migrated from audiologiks.com using Zendesk. Migration to be done by 3/10/2020.
 
-#	Index of Articles on Working Abroad (last updated on 2/22)
+#	Index of Articles on Working Abroad (last updated on 2/23)
 
 1.  [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md) Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work.
 
