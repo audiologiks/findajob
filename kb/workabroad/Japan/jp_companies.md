@@ -1,18 +1,6 @@
 <p>
-  This is a list of companies on a csv from the
-  <a href="https://www.jpx.co.jp/english/" target="_blank" rel="noopener">Tokyo Stock Exchange</a>
-  which can be a resource to look for information on hiring companies in industries
-  where you would like to work.
-</p>
-<p>
-  Link to Google Finance also put to see details on the companies and funds.
-</p>
-<p>
   Other
   <a href="https://github.com/audiologiks/RecruitCall/tree/master/public/kddiweb/meetup/docs/csv" target="_blank" rel="noopener">lists are posted here</a>
-</p>
-<p>
-  <img src="/hc/article_attachments/360008279112/tokyo_stock.png" alt="tokyo_stock.png" width="111" height="87">
 </p>
 <table style="width:990px">
   <tbody>
