@@ -120,39 +120,33 @@ There are articles organized by Country where a person wants to work, and topics
 
 67.	[Practice Job Interviews](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_system.md)
 
-68.	Practice Listening Comprehension
+68.	[Practice Questions for an Interview](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_questions.md)
 
-69.	[Practice Questions for an Interview](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_questions.md)
+69.	[Preparing a Resume](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/latestcv.md)
 
-70.	[Preparing a Resume](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/latestcv.md)
+71.	[Presentation on "Invisible Jobs"](https://www.slideshare.net/thjonz/job-boards-and-visible-jobs-in-japan)
 
-71.	Presentation on "Invisible Jobs" and Audio Example
-
-72.	Presentation on Staffing Market in Japan and Audio
+72.	[Presentation on Staffing Market in Japan](https://www.slideshare.net/thjonz/staffing-amp-recruitment-market-10-in-japan)
 
 73.	[Recruiters with Life Sciences Teams in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
 
 74.	[Reference Questions as part of Interview Process](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md)
 
-75.	Salary Determination and Research
+75.	[Salary Determination and Research](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/salary_check.md)
 
-76.	Searching for a Job on Daijob.com
+76.	[Shared Documents : 90 Recruiting Companies](https://docs.google.com/spreadsheets/d/144eZKMgR9tL1xLIikd1z3kDEpJH07zczpeoQX9_r_ok/edit?usp=sharing)
 
-77.	Shared Documents : 90 Recruiting Companies
+77.	[Staffing in Japan: Spotlight on Adecco](https://www.slideshare.net/thjonz/al-presentation-adecco-showing-some-slides-from-adecco-and-other-sources)
 
-78.	Staffing in Japan: Spotlight on Adecco
+79.	[What Recruiters are Looking for](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/what_looking_for.md)
 
-79.	Welcome to the Audiologiks Help Center!
+80.	[Working in Asia - Links for Finding a Job (English & Japanese)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/readme.md)
 
-80.	What Recruiters are Looking for
+81.	[Working in the US - Links](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/readme.md)
 
-81.	[Working in Asia - Links for Finding a Job (English & Japanese)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/readme.md)
+83.	[Working Outside of Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/working_outside.md)
 
-82.	[Working in the US - Links](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/readme.md)
-
-83.	Working Outside of Japan
-
-84.	Youtube: Job Search in Japan Presentation
+84.	[Youtube: Job Search in Japan Presentation](https://youtu.be/krdu9js7sas)
 
 85.	人材紹介コンサルタントのインタービユー
 
