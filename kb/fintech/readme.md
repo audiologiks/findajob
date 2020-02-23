@@ -1,4 +1,4 @@
-Documentation on Company Research
+Documentation on Japanese Company Research
 ==
 This is for researching public companies, and using different documentation tools, like Slideshare, Scribd, Google Docs and Github to manage information about companies.
 
