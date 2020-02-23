@@ -36,11 +36,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 17.	[Getting a Job in Canada](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Canada/readme.md)
 
-18.	Global Talent Recruiting
-
 19.	[H2-B Program (United States)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/h2bvisa.md)
-
-20.	Help, I have a question and I need an answer
 
 21.	[Hiring in Tokyo for Bilingual Roles](https://www.slideshare.net/thjonz/hiring-in-tokyo-for-bilingual-roles-60048969)
 
