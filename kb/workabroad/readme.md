@@ -148,14 +148,14 @@ There are articles organized by Country where a person wants to work, and topics
 
 84.	[Youtube: Job Search in Japan Presentation](https://youtu.be/krdu9js7sas)
 
-85.	人材紹介コンサルタントのインタービユー
+85.	[人材紹介コンサルタントのインタービユー](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/jp_recruiter_interview.md)
 
-86.	学生のビサーとインターンシップ Study in Japan and Internships
+86.	[学生のビサーとインターンシップ Study in Japan and Internships](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md)
 
-87.	日本の上場会社東京取引所　(グーグルファイナンスへのリンク)
+87.	[List of 1,000 + Public Japanese companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jp_companies.md)
 
-88.	ヘーズジャパン HAYS Japan : Industry and Recruiting Teams
+88.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/hays_japan.md)
 
-89.	Looking for Startups: Companies from Angel List
+89.	[Looking for Startups: Companies from Angel List](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/startups.md)
 
 90. [Retail Payments in Japan for Gaming](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/retailpayments.md)
