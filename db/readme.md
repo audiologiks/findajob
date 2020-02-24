@@ -1,3 +1,3 @@
-using tables in a db
+Putting data into a table
 ===
-I am going to be using tables with companies to search for jobs. One example I will post here.
+Lists of companies and company data are often in .csv format, which is uploadable into a lot of 3rd party websites to better analyze them.
