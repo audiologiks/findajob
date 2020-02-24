@@ -26,9 +26,9 @@ There are articles organized by Country where a person wants to work, and topics
 
 12.	[Examples of Reference Questions](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md) References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
 
-13.	[Fashion](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/fashion)
+13.	[Fashion](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/fashion) Do you work in fashion or want to work in fashion? Look for recruiters who specialize in the fashion industry, and company websites to see some of the job roles they offer. Even if you don't have the experience now, you can aim at getting experience to grow and apply for your career path in the future.
 
-14.	[Finding a Job Internationally](https://github.com/audiologiks/webclient/tree/master/kb/workabroad)
+14.	[Finding a Job Internationally](https://github.com/audiologiks/webclient/tree/master/kb/workabroad) Finding a job internationally isn't the same as getting a job at home
 
 15.	[Finding a Job in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/thingstothinkabout.md)
 
