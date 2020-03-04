@@ -17,12 +17,9 @@ In general, all of it is based on sample code on the twilio website so it can be
 
 Folders
 ===
-**Client** - In this folder are examples of soft, desktop client html code that I post to share. Using tables from the database_table repo and dialpads in the kb-Articles repo.
+**Client** - In this folder are examples of soft, desktop client html code that I post to share. 
 
 Using bootstrap for the [client](https://getbootstrap.com/) and [bootswatch](https://bootswatch.com/) for the skin/outer look theme.
-
-I might start using the Slim php framework for webclients, rather than just the static pages i have now. 
-7/4/19 Update - not using it yet. 
 
 **Twiml** - Examples from Twilio website that I download to work on as examples, or code for voice features that I have adapted.
 
