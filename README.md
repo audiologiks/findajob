@@ -1,6 +1,6 @@
-Guide to Web Client Templates in 2020
+Guide to Repo on Careers Content in 2020
 ======
-Update 1/23/2020
+Update 3/3/2020
 
 Moving Country and job seach information over to this repo under the /kb/workabroad link for a Meetup. I will add voice code to the entries and use them as examples.
 
@@ -11,12 +11,10 @@ Repository for code for a desktop client enabling recording and sharing audio us
 
 **Code** is php, and based on Twilio platform, at the url https://www.twilio.com . All rights to their code examples below to them. The MIT license only covers sample code I post here if not already covered by another license. In general, all of it is based on sample code on the twilio website so it can be taken from there as well. I just build on it for specific uses for learning and sharing audio. 
 
+**Text** is in html and markdown.
+
 Folders
 ===
-**Logiks** -  In this folder are examples of voice menu scripts and code to initiate different features.
-
-So to build menus, login pages, voice recording examples, I just put the twilio script in php and html static pages usually. The voice menu is what the web client accesses and runs on the twilio infrastructure.
-
 **Client** - In this folder are examples of soft, desktop client html code that I post to share. Using tables from the database_table repo and dialpads in the kb-Articles repo.
 
 Using bootstrap for the [client](https://getbootstrap.com/) and [bootswatch](https://bootswatch.com/) for the skin/outer look theme.
@@ -27,8 +25,6 @@ I might start using the Slim php framework for webclients, rather than just the 
 **Twiml** - Examples from Twilio website that I download to work on as examples, or code for voice features that I have adapted.
 
 **kb**  - Migration of Help and How To content on finding a job overseas in Japan and other countries.
-
-**karaoke** - Lyrics to practice Japanese or English songs using a web voice client
 
 # How Does this Work with:
 Job Placement counselors helping foreign students to find jobs in the Japanese job market.
