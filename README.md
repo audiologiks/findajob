@@ -9,9 +9,11 @@ Repository for code for a desktop client enabling recording and sharing audio us
 * Used to share language skill checks and feedback.
 * Any use cases you can think of
 
-**Code** is php, and based on Twilio platform, at the url https://www.twilio.com . All rights to their code examples below to them. The MIT license only covers sample code I post here if not already covered by another license. In general, all of it is based on sample code on the twilio website so it can be taken from there as well. I just build on it for specific uses for learning and sharing audio. 
+**Code** is php, and based on Twilio platform, at the url https://www.twilio.com . All rights to their code examples below to them. The MIT license only covers sample code I post here if not already covered by another license. 
 
-**Text** is in html and markdown.
+In general, all of it is based on sample code on the twilio website so it can be taken from there as well. I just build on it for specific uses for learning and sharing audio. 
+
+**Text** is in html and markdown. The MIT license covers the text, unless there are parts quoted from other sites.
 
 Folders
 ===
