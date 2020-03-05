@@ -1,7 +1,4 @@
-<h2>&nbsp;</h2>
-<p>
-  <img src="/hc/article_attachments/360013037152/icons8-singapore.png" alt="icons8-singapore.png">
-</p>
+# Working in Singapore : Useful Links
 <p>
   <a href="http://www.worldbank.org/en/country%20/singapore/overview"><span style="font-weight:400">Singapore is a high-income economy</span></a><span style="font-weight:400"> with a gross national income of $55,150 per capita (Atlas Method), as of 2014. The country provides the world’s most business-friendly regulatory environment for local entrepreneurs and is ranked among the world’s most competitive economies.</span>
 </p>
