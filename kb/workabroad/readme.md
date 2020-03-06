@@ -28,37 +28,37 @@ There are articles organized by Country where a person wants to work, and topics
 
 13.	[Fashion](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/fashion) Do you work in fashion or want to work in fashion? Look for recruiters who specialize in the fashion industry, and company websites to see some of the job roles they offer. Even if you don't have the experience now, you can aim at getting experience to grow and apply for your career path in the future.
 
-14.	[Finding a Job Internationally](https://github.com/audiologiks/webclient/tree/master/kb/workabroad) Finding a job internationally isn't the same as getting a job at home
+14.	[Finding a Job Internationally](https://github.com/audiologiks/webclient/tree/master/kb/workabroad) Finding a job internationally isn't the same as getting a job at home, with questions about how to interview, and if an applicant's experience is easily understood by hiring managers in other countries.
 
-15.	[Finding a Job in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/thingstothinkabout.md)
+15.	[Finding a Job in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/thingstothinkabout.md) Links and information on resources on visas, language requirements and ways to find a job in Japan.
 
-16.	[Getting a Job in Australia](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Australia/gettingajob.md)
+16.	[Getting a Job in Australia](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Australia/gettingajob.md) Links and information on working in Australia.
 
-17.	[Getting a Job in Canada](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Canada/readme.md)
+17.	[Getting a Job in Canada](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Canada/readme.md) Links and information on working in Canada.
 
-19.	[H2-B Program (United States)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/h2bvisa.md)
+18.	[H2-B Program (United States)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/h2bvisa.md) Information on a visa for spouses of highly-skilled visa program participants in the USA.
 
-21.	[Hiring in Tokyo for Bilingual Roles](https://www.slideshare.net/thjonz/hiring-in-tokyo-for-bilingual-roles-60048969)
+19.	[Hiring in Tokyo for Bilingual Roles](https://www.slideshare.net/thjonz/hiring-in-tokyo-for-bilingual-roles-60048969) A presentation on bilingual jobs in Tokyo.
 
-22.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx)
+20.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx) A presentation on hiring examples for large companies for applicants to better understand the different phases of the hiring process.
 
-24.	[International and Japanese Job Boards](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/global.md)
+21.	[International and Japanese Job Boards](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/global.md) Bilingual job boards have jobs available at foreign companies and global Japanese companies, with Japanese-language jobs the majority of jobs available.
 
-25.	[Internships and Visas](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md)
+22.	[Internships and Visas](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md) Can a student or graduate get an internship in Japan? What visas are available or what is accepted among companies in Japan?
 
-26.	[Interview with a Hiring Manager (Rob Pauling)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/interview_hiring_mgr.md)
+23.	[Interview with a Hiring Manager (Rob Pauling)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/interview_hiring_mgr.md) An interview with a hiring manager at an IT Company in Japan discussing their approach to hiring and onboarding new employees.
 
-27.	[Interview with a Recruiter](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/interview_recruiter.md)
+24.	[Interview with a Recruiter](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/interview_recruiter.md) An interview with an experienced recruiter for foreign companies in Japan gives his impressions on the job market.
 
-28.	[Interview with a Recruiter - Arnaldo (Hong Kong)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/interview_recruiter.md)
+25.	[Interview with a Recruiter - Arnaldo (Hong Kong)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/interview_recruiter.md) An interview with a recruiter based in Hong Kong that handles jobs across Asia, with a focus on sales and IT roles.
 
-30.	[Interview with Verena Hopp. Founder of Internship Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/interview_founder.md)
+26.	[Interview with Verena Hopp. Founder of Internship Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/interview_founder.md) A founder of an internship company that arranges internships at companies for foreign and Japanese applicants.
 
-31.	[Introduction to a Fashion Industry Recruiter](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/fashion_recruiter.md)
+27.	[Introduction to a Fashion Industry Recruiter](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/fashion_recruiter.md) A fashion industry recruiter in Japan with experience in both Japan and the USA.
 
-35.	[J-1 Visa in the United States](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/j1visa.md)
+28.	[J-1 Visa in the United States](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/j1visa.md) Another category of visa for temporary workers in the USA, with a term of 1-3 years available for qualifying positions.
 
-36.	[Job Boards : Bilingual](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/bilingual_boards.md)
+29.	[Job Boards : Bilingual](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/bilingual_boards.md) The main bilingual job boards in Japan, with the largest concentration of jobs using English.
 
 37.	[Job Categories on Careercross.com](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
