@@ -1,28 +1,14 @@
-<ul>
-  <li>
-    <h3>
-      <strong>What is your background and what kind of job do you want to do?</strong>
-    </h3>
-  </li>
-</ul>
-<ol>
-  <ol>
-    <ol>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Thinking about roles like Product Manager in IT, or experience with specific platforms. Example is opentext </span><a href="https://www.opentext.com/what-we-do/products/enterprise-content-management/content-management/opentext-content-suite-platform"><span style="font-weight:400">https://www.opentext.com/what-we-do/products/enterprise-content-management/content-management/opentext-content-suite-platform</span></a>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Think about common points with your future job</span>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Same industry as you worked in? You understand the business background.</span>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Same role or working with the same stakeholders? (marketing, etc)</span>
-      </li>
-      <li style="font-weight:400">
-        <span style="font-weight:400">Understanding of connection between IT and the business goals and being able to explain it in interviews, and the results that it contributes to. This can be applied to the next job, whatever the underlying platform or technology is.</span>
-      </li>
-    </ol>
-  </ol>
-</ol>
+
+# What is your background
+
+## What kind of job do you want to do?
+
+Thinking about roles like Product Manager in IT, or experience with specific platforms. One example is [a job at opentext](https://www.opentext.com/what-we-do/products/enterprise-content-management/content-management/opentext-content-suite-platform)
+
+Think about common points you have had in your past jobs, and how they can apply to your future job.
+
+ - Is it the same industry as you worked in? One adavantage is you would understand the business background.
+
+Is the new job the same role or it involves working with the same stakeholders? (marketing, etc)
+
+One example of leveraging experience with technology is that your understanding of the connection between IT and the company business goals can be an advantage. Being able to explain that in interviews, and the actual business results that IT contributes can be applied to the next job, whatever the industry.
