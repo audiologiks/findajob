@@ -1,4 +1,5 @@
-<h1>First look at the Job Boards</h1>
+
+<h1>Japanese Recruiters in the USA</h1>
 <p>
   The general visa program for mid-career professionals in the US is the H1-B program.
   You can see a list of

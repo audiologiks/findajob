@@ -1,6 +1,9 @@
 ## Links on Working in the United States, in Japanese and English
   Different types of available visas and job sites to look at
 
+- Working in the US, being able to be hired and fired more easily
+- Different culture than Europe and Japan, with more short-term focus on jobs rather than long-term stability or regulation.
+
 ### Links on Visas
 US Green Card Diversity Visa
 
@@ -34,4 +37,3 @@ Japanese recruiter in US – visa news
 
 ### US Green Card Lottery
 [Wall Street Journal article (english)](http://www.wsj.com/articles/SB10001424052748704804504575606580971555998">http://www.wsj.com/articles/SB10001424052748704804504575606580971555998)
-
