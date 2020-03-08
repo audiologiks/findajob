@@ -1,8 +1,11 @@
-<p>
-  <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/office/icons8-calendar-with-ok-sign.png">Latest
-  update:&lt;
-  <a title="Click to go to Japanese article" href="https://www.asahi.com/articles/ASL8061J4L80UTIL054.html?iref=comtop_8_06" target="_blank" rel="noopener"><img src="https://s3-eu-west-1.amazonaws.com/al-west-1/img/daily/asahi-news.jpg" height="45"></a><a title="Click to listen to a brief summary" href="https://d2e1strl386jtm.cloudfront.net/audio/daily/article-nikkei-083118.mp3" target="_target"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/listen.png"></a>
-</p>
+<p>Latest update:</p>
+
+<img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/office/icons8-calendar-with-ok-sign.png">
+
+<a href="https://www.asahi.com/articles/ASL8061J4L80UTIL054.html?iref=comtop_8_06" target="_blank" rel="noopener"><img src="https://s3-eu-west-1.amazonaws.com/al-west-1/img/daily/asahi-news.jpg" height="45"></a>
+
+<a href="https://d2e1strl386jtm.cloudfront.net/audio/daily/article-nikkei-083118.mp3" target="_target"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/listen.png"></a>
+
 <h4>
   <a href="https://translate.google.com/?sl#ja/en/">Using Google Translate</a>
 </h4>
