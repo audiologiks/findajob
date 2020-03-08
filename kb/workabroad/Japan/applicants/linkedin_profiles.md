@@ -4,7 +4,7 @@
 <ul>
   <li>
     <h3>
-      <strong>Having a linkedin profile and applying directly to companie</strong>&nbsp;
+      <strong>Having a linkedin profile and applying directly to companies</strong>&nbsp;
     </h3>
   </li>
 </ul>
