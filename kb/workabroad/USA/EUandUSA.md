@@ -13,7 +13,3 @@
 <p>
   <span style="font-weight:400">Working in the Gaming Industry - </span><span style="font-weight:400"><a href="https://careers.5ca.com/blog/5-types-of-video-game-jobs/">https://careers.5ca.com/blog/5-types-of-video-game-jobs/</a></span>
 </p>
-<p>
-  <span style="font-weight:400"><img src="/hc/article_attachments/360009417912/users.png" alt="users.png" width="588" height="171"></span>
-</p>
-<p>&nbsp;</p>
