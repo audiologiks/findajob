@@ -1,7 +1,7 @@
 
 # What is your background
 
-## What kind of job do you want to do?
+**The key question is...** what kind of job do you want to do?
 
 Thinking about roles like Product Manager in IT, or experience with specific platforms. One example is [a job at opentext](https://www.opentext.com/what-we-do/products/enterprise-content-management/content-management/opentext-content-suite-platform)
 
