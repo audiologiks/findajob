@@ -1,11 +1,16 @@
 # Game-related Industry Websites and Information
 
 We had a member of the meetup who is interested in computer graphics, and specifcally works in 3D gaming graphics. 
+
 **Careers**
 
 [Game Media Website](http://jobs.gamasutra.com/)
 
+A games media site in the US, with a jobs boards for the industry. 
+
 [Gaming Recruiter in Japan](https://www.siliconstudio.co.jp/en/)
+
+A Japanese gaming company with a line of business in game industry recruiting and staffing. 
 
 Industry website
 * [GamesIndustry.biz](https://www.gamesindustry.biz/)
