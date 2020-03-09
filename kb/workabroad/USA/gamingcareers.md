@@ -1,6 +1,6 @@
 # Game-related websites
 
-**Gaming Jobs Board **
+**Gaming Jobs Board**
 [Game Media Website](http://jobs.gamasutra.com/)
 
 **Gaming Events**
