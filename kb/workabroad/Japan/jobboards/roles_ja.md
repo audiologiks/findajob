@@ -19,11 +19,20 @@ These could be engineering roles for systems within other products like navigati
 - **IT関連（その他） / IT (Other**
 Roles that require a technical background and experience but don't fit naturally in the main categories.
 
-- 電機（電気/電子/半導体） /Electronics (Appliance/Semiconductor)
-- 機械（自動車/プラント/精密機器）/ Manufacturing (Automobile/Plant Engineering/Precision Equipment)
-- メディカル/医薬/バイオ/素材/食品 / Medical/Pharmaceutical/Bio/Fabric/Food
-- 建築/土木/設備/不動産 / Building/Construction/Equipment/Real Estate
-- コンサルティング / Consulting
+- **電機（電気/電子/半導体） / Electronics (Appliance/Semiconductor)**
+Roles that are in electrical manufacturers and semiconductor manufacturers, which could be technical roles in that industry.
+
+- **機械（自動車/プラント/精密機器）/ Manufacturing (Automobile/Plant Engineering/Precision Equipment)**
+Machinery company roles, which would involve factory, automation and manufacturing companies.
+
+- **メディカル/医薬/バイオ/素材/食品 / Medical/Pharmaceutical/Bio/Fabric/Food**
+Roles in the healthcare industry, including medical device manufacturers, pharmaceutical companies, and nutritional companies.
+
+- **建築/土木/設備/不動産 / Building/Construction/Equipment/Real Estate**
+Roles in the architecture, construction and real estate industries. These could require specialized degrees for certain roles and relevant experience, and there could be entry-level roles as well.
+
+- **コンサルティング / Consulting**
+
 - 総務/人事 / General Affairs/HR/Legal
 - 法務 / Legal
 - 財務/会計 / Finance/Accounting
