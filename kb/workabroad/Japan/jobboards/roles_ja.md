@@ -10,8 +10,12 @@ This refers to the traditional open or web architecture for PCs, Servers and net
 - **IT関連（汎用系）/ IT (Mainframe)**
 This is the traditional "big iron" of computing symbolized by IBM and other legacy traditional IT Equipment suppliers, who have diversified into software and consulting. However, there is still an army of roles for programmers, maintenance engineers and account managers in these types of system vendors.
 
-- IT関連（インフラ系）/ IT (Hardware/Network)
-- IT関連（組込み/制御系）/ IT (Embedded Software, Control Systems)
+- **IT関連（インフラ系）/ IT (Hardware/Network)**
+Roles managing the hardware of IT systems or the network connections linking IT Hardware. This could be software engineers or hardware engineers, with responsibilities in managing network, servers, storage or other devices.
+
+- **IT関連（組込み/制御系）/ IT (Embedded Software, Control Systems)**
+These could be engineering roles for systems within other products like navigations systems for autos or machinery.
+
 - IT関連（その他） / IT (Other)
 - 電機（電気/電子/半導体） /Electronics (Appliance/Semiconductor)
 - 機械（自動車/プラント/精密機器）/ Manufacturing (Automobile/Plant Engineering/Precision Equipment)
