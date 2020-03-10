@@ -16,7 +16,9 @@ Roles managing the hardware of IT systems or the network connections linking IT 
 - **IT関連（組込み/制御系）/ IT (Embedded Software, Control Systems)**
 These could be engineering roles for systems within other products like navigations systems for autos or machinery.
 
-- IT関連（その他） / IT (Other)
+- **IT関連（その他） / IT (Other**
+Roles that require a technical background and experience but don't fit naturally in the main categories.
+
 - 電機（電気/電子/半導体） /Electronics (Appliance/Semiconductor)
 - 機械（自動車/プラント/精密機器）/ Manufacturing (Automobile/Plant Engineering/Precision Equipment)
 - メディカル/医薬/バイオ/素材/食品 / Medical/Pharmaceutical/Bio/Fabric/Food
