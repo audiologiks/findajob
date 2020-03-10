@@ -2,10 +2,11 @@
 
 Roles within different Industries
 - エグゼクティブ/経営 Executive
-
 Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
 
 - IT関連（オープン・WEB系）/ IT (PC, Web, Unix)
+This refers to the traditional open or web architecture for PCs, Servers and networks. This is moving to a hybrid or cloud environment for engineers to manage a company's IT assets, or to program the software that runs on IT devices in the cloud.
+
 - IT関連（汎用系）/ IT (Mainframe)
 - IT関連（インフラ系）/ IT (Hardware/Network)
 - IT関連（組込み/制御系）/ IT (Embedded Software, Control Systems)
