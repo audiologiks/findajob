@@ -32,24 +32,46 @@ Roles in the healthcare industry, including medical device manufacturers, pharma
 Roles in the architecture, construction and real estate industries. These could require specialized degrees for certain roles and relevant experience, and there could be entry-level roles as well.
 
 - **コンサルティング / Consulting**
+Roles in consulting companies, both management, IT and other specialized professional services companies.
 
-- 総務/人事 / General Affairs/HR/Legal
-- 法務 / Legal
-- 財務/会計 / Finance/Accounting
-- 事務系 / Administrative
-- カスタマーサービス / Customer Service
-- 金融/銀行/証券 / Finance/Bank/Securities
-- 保険 / Insurance
-- 資産/不動産資産/不動産 / Property/Real Estate
-- その他金融関連職種 / Other Financial Specialist
-- 営業 / Sales/AE
-- マーケティング/PR / Marketing/PR
-- 流通・小売/消費財/ファッション / Logistics/Retail/Consumer/Fashion
-- ホテル/レジャー/外食系/旅行 / Hospitality Business Specialists
-- 教育/トレーニング/語学系 / Education/Training/Language Specialist
-- クリエイティブ(インターネット関連) / Creative(Internet Related)
-- クリエイティブ(広告/出版/放送/映像関連) / Creative (Media Related)
-- クリエイティブ（その他) / Creative (Other)
-- 医療/福祉/介護 / Health/Nursing
-- 官公庁/団体 / Government/Public Sector
-- その他の職種 / Other Job Type
+- **総務/人事 / General Affairs/HR/Legal**
+General administrative roles in companies, commonly called back-office jobs, and including HR roles.
+
+- **法務 / Legal**
+Legal roles in companies, including lawyers and other roles that don't require a Japanese legal degree.
+
+- **財務/会計 / Finance/Accounting**
+
+- **事務系 / Administrative**
+
+- **カスタマーサービス / Customer Service**
+
+- **金融/銀行/証券 / Finance/Bank/Securities**
+
+- **保険 / Insurance**
+
+- **資産/不動産資産/不動産 / Property/Real Estate**
+
+- **その他金融関連職種 / Other Financial Specialist**
+
+- **営業 / Sales/AE**
+
+- **マーケティング/PR / Marketing/PR**
+
+- **流通・小売/消費財/ファッション / Logistics/Retail/Consumer/Fashion**
+
+- **ホテル/レジャー/外食系/旅行 / Hospitality Business Specialists**
+
+- **教育/トレーニング/語学系 / Education/Training/Language Specialist**
+
+- **クリエイティブ(インターネット関連) / Creative(Internet Related)**
+
+- **クリエイティブ(広告/出版/放送/映像関連) / Creative (Media Related)**
+
+- **クリエイティブ（その他) / Creative (Other)**
+
+- **医療/福祉/介護 / Health/Nursing**
+
+- **官公庁/団体 / Government/Public Sector**
+
+- **その他の職種 / Other Job Type**
