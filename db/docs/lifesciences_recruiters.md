@@ -9,22 +9,17 @@
 |#|Company Name|Comment|
 |--|--|--|
 | 4	|[Adecco](http://www.adecco.co.jp/worker/medical/)|Jobs in Japanese only |
-
 | 5	|[Hays](https://www.hays.co.jp/en/jobs/life-sciences-jobs/)|Jobs Listed |
-
 | 6	|[Manpower Group](https://tenshoku.manpowergroup.jp/job/jt_medical_welfare)|Jobs in Japanese only |
-
 | 7	|[Randstad](https://www.randstad.co.jp/tenshoku/sb080/)|Jobs in Japanese only |
 
 **Japanese Staffing & Recruitment Co.**
-
-8	Athuman	http://recruit.human-lifecare.jp/	English site is Daijob.com
-
-9	Tempstaff	https://www.tempstaff.co.jp/personal/know/medical/	Jobs in Japanese only
-
-10	Recruit GF	http://www.r-agent.com/medical/	Jobs in Japanese only
-
-11	Pasona Group	https://pasonaglobal.job-haku.com/jobs	Jobs in Japanese only
+|#|Company Name|Comment|
+|--|--|--|
+| 8	| [Athuman](http://recruit.human-lifecare.jp/)|	English site is Daijob.com|
+|9|	[Tempstaff](https://www.tempstaff.co.jp/personal/know/medical/)	| Jobs in Japanese only |
+|10|	[Recruit GF](http://www.r-agent.com/medical/)	| Jobs in Japanese only |
+|11|[Pasona Group](https://pasonaglobal.job-haku.com/jobs) |	Jobs in Japanese only|
 
 **Japanese Recruitment Cos.**
 
