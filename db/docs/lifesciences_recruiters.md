@@ -22,31 +22,28 @@
 |11|[Pasona Group](https://pasonaglobal.job-haku.com/jobs) |	Jobs in Japanese only|
 
 **Japanese Recruitment Cos.**
-
-12	JAC Recruitment	http://www.jac-recruitment.jp/market/medical/	English site is careercross
-
-13	CDS Consulting	http://www.cds-consulting.com/e/?this_page=1335382070	Contact the Healthcare team
-
-14	Intelligence Global Services	http://igs.inte.co.jp/en/jobs/?specialization=11&number=10&page=1	Jobs Listed
+|#|Company Name|Comment|
+|--|--|--|
+| 12|	[JAC Recruitment](http://www.jac-recruitment.jp/market/medical/)|	English site is careercross|
+| 13|	[CDS Consulting](http://www.cds-consulting.com/e/?this_page=1335382070)|	Contact the Healthcare team|
+| 14|	[Intelligence Global Services](http://igs.inte.co.jp/en/jobs/?specialization=11&number=10&page=1)	|Jobs Listed|
 
 **Smaller Cos.**
-
-15	Boyd & Moore 	http://www.bmes.com
-
-16	Life Science Consult	www.lifescienceconsult.com
-
-17	Enworld Japan	https://enworld.net/en/?jobType=&category%5B%5D=29&minSalary=&maxSalary=&s=
+|#|Company Name|Comment|
+|--|--|--|
+|15|[Boyd & Moore] (http://www.bmes.com) | |
+|16	|[Life Science Consult](http://www.lifescienceconsult.com) | |
+|17|	[Enworld Japan](https://enworld.net/en/?jobType=&category%5B%5D=29&minSalary=&maxSalary=&s=) | |
 
 **Not yet viewed for Medical Jobs**
-
-1	Optia Partners Japan	https://www.optiapartners.com/advancedsearch.aspx?search=1&professionid=818	Medical Devices
-
-2	Morgan McKinley 	https://www.morganmckinley.com.sg/article/medical-and-life-science-2017-updates-and-expectations
+|#|Company Name|Comment|
+|--|--|--|
+|1|	[Optia Partners Japan](https://www.optiapartners.com/advancedsearch.aspx?search=1&professionid=818)	| Medical Devices|
+|2|	[Morgan McKinley](https://www.morganmckinley.com.sg/article/medical-and-life-science-2017-updates-and-expectations)||
 
 **Accounting in Life Sciences**
-
-3	Slate Consulting 	http://www.slate.co.jp/expertise/?show=life_sciences	Contact the team
-
-4	Specialized Group 	http://www.specialized-group.com/en/Results.aspx?indcid=13	Contact the team
-
-5	East West Consulting	http://www.ewcd.co.jp/	1-3 Jobs, Japanese only
+|#|Company Name|Comment|
+|--|--|--|
+|3|	[Slate Consulting](http://www.slate.co.jp/expertise/?show=life_sciences)|	Contact the team|
+|4|	[Specialized Group](http://www.specialized-group.com/en/Results.aspx?indcid=13)|	Contact the team|
+|5|	[East West Consulting](http://www.ewcd.co.jp/)|	1-3 Jobs, Japanese only|
