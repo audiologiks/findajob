@@ -4,11 +4,11 @@
 <p>
   <img src="https://s3-eu-west-1.amazonaws.com/al-west-1/img/Al-Jun-17/blue_header_line.png" width="704" height="11">
 </p>
+|Title | | Japanese |
+|--|--|--|
+|First Name | Last Name | 名前 |
 <p>
-  <strong>First name_Last name 名前　</strong>
-</p>
-<p>
-  <span style="font-weight:400">Location　住所</span>
+**Location　住所**
 </p>
 <p>
   <span style="font-weight:400">email:</span><span style="font-weight:400"> メール &nbsp;&nbsp;&nbsp;</span><span style="font-weight:400">&nbsp;phone: 電話</span>
