@@ -8,13 +8,13 @@
 **Global Staffing & Temp Companies**
 |#|Company Name|Comment|
 |--|--|--|
-| 4	| [Adecco](http://www.adecco.co.jp/worker/medical/)	| Jobs in Japanese only |
+| 4	|[Adecco](http://www.adecco.co.jp/worker/medical/)|Jobs in Japanese only |
 
-| 5	| [Hays](https://www.hays.co.jp/en/jobs/life-sciences-jobs/) |	Jobs Listed |
+| 5	|[Hays](https://www.hays.co.jp/en/jobs/life-sciences-jobs/)|Jobs Listed |
 
-| 6	| [Manpower Group](https://tenshoku.manpowergroup.jp/job/jt_medical_welfare) |	Jobs in Japanese only |
+| 6	|[Manpower Group](https://tenshoku.manpowergroup.jp/job/jt_medical_welfare)|Jobs in Japanese only |
 
-| 7	| [Randstad](https://www.randstad.co.jp/tenshoku/sb080/) |	Jobs in Japanese only |
+| 7	|[Randstad](https://www.randstad.co.jp/tenshoku/sb080/)|Jobs in Japanese only |
 
 **Japanese Staffing & Recruitment Co.**
 
