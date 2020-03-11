@@ -40,12 +40,12 @@
 **Not yet viewed for Medical Jobs**
 |#|Company Name|Comment|
 |--|--|--|
-|1|	[Optia Partners Japan](https://www.optiapartners.com/advancedsearch.aspx?search=1&professionid=818)	| Medical Devices|
-|2|	[Morgan McKinley](https://www.morganmckinley.com.sg/article/medical-and-life-science-2017-updates-and-expectations)||
+|18|	[Optia Partners Japan](https://www.optiapartners.com/advancedsearch.aspx?search=1&professionid=818)	| Medical Devices|
+|19|	[Morgan McKinley](https://www.morganmckinley.com.sg/article/medical-and-life-science-2017-updates-and-expectations)||
 
 **Accounting in Life Sciences**
 |#|Company Name|Comment|
 |--|--|--|
-|3|	[Slate Consulting](http://www.slate.co.jp/expertise/?show=life_sciences)|	Contact the team|
-|4|	[Specialized Group](http://www.specialized-group.com/en/Results.aspx?indcid=13)|	Contact the team|
-|5|	[East West Consulting](http://www.ewcd.co.jp/)|	1-3 Jobs, Japanese only|
+|20|	[Slate Consulting](http://www.slate.co.jp/expertise/?show=life_sciences)|	Contact the team|
+|21|	[Specialized Group](http://www.specialized-group.com/en/Results.aspx?indcid=13)|	Contact the team|
+|22|	[East West Consulting](http://www.ewcd.co.jp/)|	1-3 Jobs, Japanese only|
