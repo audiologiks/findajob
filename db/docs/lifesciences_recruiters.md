@@ -1,21 +1,22 @@
 ## Global Headhunters  グローバル人材紹介会社 |Web URL	| Healthcare & Life Sciences
 |#|Company Name|Comment|
 |--|--|--|
-|1	|[Robert Half](https://www.roberthalf.jp/en/)	| Not a specialty field |
+| 1	|[Robert Half](https://www.roberthalf.jp/en/)	| Not a specialty field |
 | 2	| [Robert Walters](https://www.robertwalters.co.jp/en/healthcare.html)| Jobs Listed |
 | 3	| [Michael Page](http://www.michaelpage.co.jp/en/browse/jobs/life-sciences/all/all)	| Jobs Listed |
 
 **Global Staffing & Temp Companies**
+|#|Company Name|Comment|
+|--|--|--|
+| 4	| [Adecco](http://www.adecco.co.jp/worker/medical/)	| Jobs in Japanese only |
 
-4	Adecco	http://www.adecco.co.jp/worker/medical/	Jobs in Japanese only
+| 5	| [Hays](https://www.hays.co.jp/en/jobs/life-sciences-jobs/) |	Jobs Listed |
 
-5	Hays	https://www.hays.co.jp/en/jobs/life-sciences-jobs/	Jobs Listed
+| 6	| [Manpower Group](https://tenshoku.manpowergroup.jp/job/jt_medical_welfare) |	Jobs in Japanese only |
 
-6	Manpower Group	https://tenshoku.manpowergroup.jp/job/jt_medical_welfare	Jobs in Japanese only
+| 7	| [Randstad](https://www.randstad.co.jp/tenshoku/sb080/) |	Jobs in Japanese only |
 
-7	Randstad	https://www.randstad.co.jp/tenshoku/sb080/	Jobs in Japanese only
-
-Japanese Staffing & Recruitment Co.		
+**Japanese Staffing & Recruitment Co.**
 
 8	Athuman	http://recruit.human-lifecare.jp/	English site is Daijob.com
 
