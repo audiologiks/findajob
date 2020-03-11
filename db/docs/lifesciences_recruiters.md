@@ -1,6 +1,6 @@
 ## Global Headhunters  グローバル人材紹介会社 |Web URL	| Healthcare & Life Sciences
-
-1	Robert Half	https://www.roberthalf.jp/en/	Not a specialty field
+|**|**|**|
+|1	|[Robert Half](https://www.roberthalf.jp/en/)	| Not a specialty field |
 
 2	Robert Walters	https://www.robertwalters.co.jp/en/healthcare.html	Jobs Listed
 
