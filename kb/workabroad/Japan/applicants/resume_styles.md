@@ -4,10 +4,11 @@
 <p>
   <img src="https://s3-eu-west-1.amazonaws.com/al-west-1/img/Al-Jun-17/blue_header_line.png" width="704" height="11">
 </p>
-|Title | | Japanese |
+
 |--|--|--|
+|Title | | Japanese |
 |First Name | Last Name | 名前 |
-| Location　||住所 |
+|Location　||住所 |
 | | | メール |
 | | | 電話 |
 </p>
