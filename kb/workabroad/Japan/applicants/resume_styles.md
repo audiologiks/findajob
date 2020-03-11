@@ -5,6 +5,7 @@
   <img src="https://s3-eu-west-1.amazonaws.com/al-west-1/img/Al-Jun-17/blue_header_line.png" width="704" height="11">
 </p>
 
+## Headings for Resume Styles
 
 |Title| |Japanese|
 |--|:--:|:--:|
