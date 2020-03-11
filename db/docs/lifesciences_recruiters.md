@@ -1,9 +1,10 @@
 ## Global Headhunters  グローバル人材紹介会社 |Web URL	| Healthcare & Life Sciences
-|**|**|**|
+|#|Company Name|Comment|
+|--|--|--|
 |1	|[Robert Half](https://www.roberthalf.jp/en/)	| Not a specialty field |
 | 2	| [Robert Walters](https://www.robertwalters.co.jp/en/healthcare.html)| Jobs Listed |
 | 3	| [Michael Page](http://www.michaelpage.co.jp/en/browse/jobs/life-sciences/all/all)	| Jobs Listed |
-| ** | ** | ** |
+
 **Global Staffing & Temp Companies**
 
 4	Adecco	http://www.adecco.co.jp/worker/medical/	Jobs in Japanese only
