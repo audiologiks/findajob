@@ -7,11 +7,9 @@
 |Title | | Japanese |
 |--|--|--|
 |First Name | Last Name | 名前 |
-<p>
-**Location　住所**
-</p>
-<p>
-  <span style="font-weight:400">email:</span><span style="font-weight:400"> メール &nbsp;&nbsp;&nbsp;</span><span style="font-weight:400">&nbsp;phone: 電話</span>
+| Location　||住所 |
+| | | メール |
+| | | 電話 |
 </p>
 <p>&nbsp;</p>
 <h2>
