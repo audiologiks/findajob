@@ -1,4 +1,6 @@
-## Global Headhunters  グローバル人材紹介会社 |Web URL	| Healthcare & Life Sciences
+## Global Headhunters  
+グローバル人材紹介会社
+
 |#|Company Name|Comment|
 |--|--|--|
 | 1	|[Robert Half](https://www.roberthalf.jp/en/)	| Not a specialty field |
@@ -31,7 +33,7 @@
 **Smaller Cos.**
 |#|Company Name|Comment|
 |--|--|--|
-|15|[Boyd & Moore] (http://www.bmes.com) | |
+|15|[Boyd & Moore](http://www.bmes.com) | |
 |16	|[Life Science Consult](http://www.lifescienceconsult.com) | |
 |17|	[Enworld Japan](https://enworld.net/en/?jobType=&category%5B%5D=29&minSalary=&maxSalary=&s=) | |
 
