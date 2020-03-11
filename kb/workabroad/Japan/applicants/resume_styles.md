@@ -10,53 +10,16 @@
 |--|:--:|:--:|
 |First Name|Last Name|名前|
 |Location　||住所 |
-| | | メール |
-| | | 電話 |
-
-<p>&nbsp;</p>
-<h2>
-  <strong>Objective 目標</strong>
-</h2>
-<h2>
-  <strong>Work Experience　職務経歴</strong>
-</h2>
-<h3>
-  <strong>Job Title / Company / Period of Employment 仕事タイトル／会社 </strong><strong>／期間</strong>
-</h3>
-<h4>
-  <strong>Responsibilities / Achievements 仕事の内容／成果</strong>
-</h4>
-<p>
-  <span style="font-weight:400">Current projects</span>
-</p>
-<h3>
-  <strong>Job Title / Company / Period of Employment &nbsp;仕事タイトル／会社 </strong><strong>／期間　（年月日から年月日まで）</strong>
-</h3>
-<h4>
-  <strong>Responsibilities / Achievements 仕事の内容／成果</strong>
-</h4>
-<h3>
-  <strong>仕事タイトル／会社 </strong><strong>／期間　（年月日から年月日まで）</strong>
-</h3>
-<h4>
-  <strong>仕事の内容／成果</strong>
-</h4>
-<h3>
-  <strong>仕事タイトル／会社 </strong><strong>／期間　（年月日から年月日まで）</strong>
-</h3>
-<h4>
-  <strong>仕事の内容／成果</strong>
-</h4>
-<h3>
-  <strong>Skills スキル </strong>
-</h3>
-<h3>
-  <strong>Education 教育</strong>
-</h3>
-<h3>
-  <strong>Hobbies 趣味</strong>
-</h3>
-<p>&nbsp;</p>
-<p>
-  <span class="wysiwyg-font-size-small wysiwyg-color-red">article ID:3-2-1&nbsp;</span>
-</p>
+|Email| | メール |
+|Phone| | 電話 |
+|Objective| |目標|
+|Work Experience|　|職務経歴|
+|Job Title||仕事タイトル|
+|Company||会社|
+|Period of Employment||期間|
+|Responsibilities||仕事の内容|
+|Achievements||成果|
+|Current projects||プロジェクト|
+|Skills ||スキル|
+|Education|| 教育|
+|Hobbies|| 趣味|
