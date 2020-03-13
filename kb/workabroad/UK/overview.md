@@ -60,132 +60,92 @@ Best occupations for finding a job in the United Kingdom
 | 12 | Belfast | 600,000 |
 | 13 | Leicester | 534,000 |
 
-Understanding the possibility of getting a job in London
-https://www.betterteam.com/job-posting-sites-uk
-Example of putting Tier 2 Visa in the search terms
-https://www.indeed.co.uk/jobs?q=Tier+2+visa&l=London
-On Social Media
+Understanding the possibility of [getting a job in London](https://www.betterteam.com/job-posting-sites-uk)
 
-https://www.reddit.com/search?q=UK%20Tier%202%20visa
+Example of putting Tier 2 Visa in [the search terms](https://www.indeed.co.uk/jobs?q=Tier+2+visa&l=London)
 
+**On Social Media**
 
-https://www.youtube.com/watch?v=fRVxeYI5KhI
+[Reddit](https://www.reddit.com/search?q=UK%20Tier%202%20visa)
 
-https://twitter.com/search?q=uk%20tier%202%20visa&src=typd
+[YouTube](https://www.youtube.com/watch?v=fRVxeYI5KhI)
 
-https://www.facebook.com/search/top/?q=UK%20Tier%202%20visa
+[Twitter](https://twitter.com/search?q=uk%20tier%202%20visa&src=typd)
 
+[Facebook](https://www.facebook.com/search/top/?q=UK%20Tier%202%20visa)
 
+Checking out the Metro/Subway to figure out where to live and where to work
 
+[UK Gov Tier 2 Visa](https://www.gov.uk/tier-2-general)
 
-Checking out the Metro to figure out where to live and where to work
-UK Gov Tier 2 Visa
-https://www.gov.uk/tier-2-general
+**Shortage Occupations**
 
-Shortage Occupations
-https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-k-shortage-occupation-list
-UK visas
-All things being equal, you have to be a better candidate than a local candidate due to the requirement for a visa. The biggest barrier is the visa, which for example, is laid out in Government websites such as the United Kingdom.  
+[UK visas](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-k-shortage-occupation-list)
 
+All things being equal, you have to be a better candidate than a local candidate due to the requirement for a visa. The biggest barrier is the visa, which for example, is laid out in [Government websites](https://www.gov.uk/browse/visas-immigration/work-visas) such as the United Kingdom.  
 
-https://www.gov.uk/browse/visas-immigration/work-visas
-Living and Working in London
-Understanding the different regions and areas to live
+* [Living and Working in London](https://techmeabroad.com/)
+* Understanding the different regions and areas to live
 
-https://techmeabroad.com/
-Recruiting from Abroad
+**Recruiting from Abroad**
 
-UK Tier 2 Skilled Worker Visa
-https://www.theguardian.com/uk-news/2018/feb/18/uk-hits-skilled-worker-visa-cap-third-month-home-office-refuses-applications
+[UK Tier 2 Skilled Worker Visa](https://www.theguardian.com/uk-news/2018/feb/18/uk-hits-skilled-worker-visa-cap-third-month-home-office-refuses-applications)
 
-Exemption for Medical Workers
-https://www.personneltoday.com/hr/227655/
+[Exemption for Medical Workers](https://www.personneltoday.com/hr/227655/)
 
-Tier 2 Work Visa
-http://workpermit.com/immigration/united-kingdom/tier-2-general-visa
+[Tier 2 Work Visa](http://workpermit.com/immigration/united-kingdom/tier-2-general-visa)
 
-The list of Tier 2 Sponsors https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/711117/2018-05-25_Tier_2_5_Register_of_Sponsors.pdf
+[The list of Tier 2 Sponsors](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/711117/2018-05-25_Tier_2_5_Register_of_Sponsors.pdf)
 
-British Chamber of Commerce in Japan
-https://www.bccjapan.com/
+[British Chamber of Commerce in Japan](https://www.bccjapan.com/)
 
-Member Directory
-https://www.bccjapan.com/directory/corporate/
+[Member Directory](https://www.bccjapan.com/directory/corporate/)
 
-Example of an Immigration Lawyer
-https://iasservices.org.uk/moving-from-japan-to-uk/
+[Example of an Immigration Lawyer](https://iasservices.org.uk/moving-from-japan-to-uk/)
 
-Other Links
-China - Britain Business Council
-http://www.cbbc.org/
+**Other Links**
+* [China - Britain Business Council](http://www.cbbc.org/)
 
+[Example of looking at cost of living in London](https://www.studying-in-uk.org/costs-of-living-in-uk/)
 
-Example of looking at cost of living in London
-https://www.studying-in-uk.org/costs-of-living-in-uk/
+[Expat apartment rentals](https://www.spotahome.com/london/for-rent:apartments)
 
-Expat apartment rentals
-https://www.spotahome.com/london/for-rent:apartments
-Study in the UK
-https://study-uk.britishcouncil.org/
-https://studylink.com/countries/uk/
-https://www.ucas.com/undergraduate/applying-university/international-and-eu-students/studying-uk
-Immigrate to the UK
+**Study in the UK**
+* [British Council](https://study-uk.britishcouncil.org/)
+* [Studylink](https://studylink.com/countries/uk/)
+* [UCAS](https://www.ucas.com/undergraduate/applying-university/international-and-eu-students/studying-uk)
+
+**Immigrate to the UK**
 https://www.gov.uk/browse/visas-immigration
-Student Training Visa
-https://www.gov.uk/study-visit-visa
-Links to Resources in Japan
-Embassy of UK in Japan
-https://www.gov.uk/world/organisations/british-embassy-tokyo
 
-The UK Chamber of Commerce in Japan  
-https://www.bccjapan.com/directory/
+**Student Training Visa**
+[UK Study Visa](https://www.gov.uk/study-visit-visa)
 
-Sister Cities Relationships
-http://www.clair.or.jp/e/exchange/shimai/countries/
+**Links to Resources in Japan**
 
-Japan - UK Relationship (MOFA Japan)
-https://www.mofa.go.jp/region/europe/uk/index.html
+[Embassy of UK in Japan](https://www.gov.uk/world/organisations/british-embassy-tokyo)
 
-UK National Holidays
+[The UK Chamber of Commerce in Japan](https://www.bccjapan.com/directory/)
 
-19 April
-Friday
-Good Friday
-22 April
-Monday
-Easter Monday
-6 May
-Monday
-Early May bank holiday
-27 May
-Monday
-Spring bank holiday
-26 August
-Monday
-Summer bank holiday
-25 December
-Wednesday
-Christmas Day
-26 December
-Thursday
-Boxing Day
+[Sister Cities Relationships](http://www.clair.or.jp/e/exchange/shimai/countries/)
 
+[Japan - UK Relationship (MOFA Japan)](https://www.mofa.go.jp/region/europe/uk/index.html)
 
-Books, Magazines and Media
-Aggregator of Media Links
-http://www.news-digest.co.uk/news/index.php
+**Books, Magazines and Media**
+[Aggregator of Media Links](http://www.news-digest.co.uk/news/index.php)
 
-https://jp.newsconc.com/world/europe/uk.html
+[News UK](https://jp.newsconc.com/world/europe/uk.html)
 
-https://www.bbc.com/japanese
-Startups
-http://tech.london/
-https://angel.co/london
-https://www.eu-startups.com/2018/11/londons-startup-ecosystem-at-a-glance/
+[BBC Japanese](https://www.bbc.com/japanese)
 
-Lists of Recruiters (Japanese) in the UK
-http://www.jac-recruitment.co.uk/
-http://www.people-first.co.uk/
-https://www.centrepeople.com/
-https://www.ablrecruitment.com/language-jobs/japanese/
-http://www.tokyoconnections.com/Recruitment_Companies/Overseas/
+**Startups**
+* [Tech London](http://tech.london/)
+* [Angelist](https://angel.co/london)
+* [EU Startups](https://www.eu-startups.com/2018/11/londons-startup-ecosystem-at-a-glance/)
+
+**Lists of Recruiters (Japanese) in the UK**
+* [JAC Recruitment](http://www.jac-recruitment.co.uk/)
+* [People FIrst](http://www.people-first.co.uk/)
+* [Centrepeople](https://www.centrepeople.com/)
+* [Able Recruitment](https://www.ablrecruitment.com/language-jobs/japanese/)
+* [Tokyo Connections](http://www.tokyoconnections.com/Recruitment_Companies/Overseas/)
