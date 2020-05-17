@@ -42,7 +42,7 @@ ver 6.2.5
   <a href="http://lp.jobsugoi.com/">Job Sugoi</a>
 </p>
 <p>
-<a href="https://music.amazon.com/albums/B084RPKGCY"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/banner-sonowabisabi.png"></a>
+<a href="https://music.amazon.com/albums/B084RPKGCY"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/banner-bandcamp.png"></a>
   
 <span class="wysiwyg-underline"><strong>2. Hong Kong</strong></span>
 <a href="http://www.doingbusiness.org/data/exploreeconomies/hong-kong-china">Doing Business</a>
