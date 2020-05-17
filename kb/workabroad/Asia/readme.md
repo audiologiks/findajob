@@ -1,17 +1,21 @@
 ## Asian Job Boards and Economies
+ver 6.2.5
+
 <p>
   <strong><span class="wysiwyg-font-size-large">14 Countries, 102 Asia Job Boards and Links to Jobs in English and Japanese</span></strong><br>
-  <strong>1. Cambodia</strong><br>
-  Following more than two decades of strong economic growth, Cambodia has attained<br>
+ <a href="https://open.spotify.com/album/57oaLRJpfhxYULSDAhto14"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/spotify_banner_al.svg"></a>
+  <strong>1. Cambodia</strong>
+
+  <p>Following more than two decades of strong economic growth, Cambodia has attained
   the lower-middle-income status as of 2015, with gross national income (GNI) per
-  capita<br>
-  reaching US$1,070. The garment sector, construction, and services have been the
-  main<br>
-  drivers of the economy. Growth is expected to remain strong in 2016, as recovering<br>
-  internal demand and dynamic garment exports slow growth in agriculture and easing<br>
-  construction and tourism activity.<br>
-  <a href="http://www.worldbank.org/en/country/cambodia/overview">http://www.worldbank.org/en/country/cambodia/overview</a>
-</p>
+  capita reaching US$1,070. The garment sector, construction, and services have been the
+  main drivers of the economy. Growth is expected to remain strong in 2016, as recovering
+  internal demand and dynamic garment exports slow growth in agriculture and easing
+  construction and tourism activity.</p>
+
+<a href="http://www.worldbank.org/en/country/cambodia/overview">http://www.worldbank.org/en/country/cambodia/overview</a>
+
+<a href="https://www.audiologiks.com/InterJobs/Asia/cambodia.php">Link to Audiologiks</a>
 <p>
   カンボジアに働くを考えたことありますか？<br>
   英語の仕事へリンク
@@ -38,6 +42,7 @@
   <a href="http://lp.jobsugoi.com/">http://lp.jobsugoi.com/</a>
 </p>
 <p>
+<a href="https://music.amazon.com/albums/B084RPKGCY"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/banner-sonowabisabi.svg"></a>
   <br>
   <span class="wysiwyg-underline"><strong>2. Hong Kong</strong></span><br>
   http://www.doingbusiness.org/data/exploreeconomies/hong-kong-china
@@ -61,19 +66,19 @@
 <p>
   <br>
   ●
-  <a href="https://www.asiahospitalitycareers.com/" target="_blank" rel="noopener">https://www.asiahospitalitycareers.com/</a><br>
+  <a href="https://www.asiahospitalitycareers.com/" target="_blank" rel="noopener">Asia Hospitality Careers</a><br>
   ●
-  <a href="http://hk.jobsdb.com/hk" target="_blank" rel="noopener">http://hk.jobsdb.com/hk</a><br>
+  <a href="http://hk.jobsdb.com/hk" target="_blank" rel="noopener">Jobs DB</a><br>
   ●
-  <a href="http://www.monster.com.hk/" target="_blank" rel="noopener">http://www.monster.com.hk/</a><br>
+  <a href="http://www.monster.com.hk/" target="_blank" rel="noopener">Monster</a><br>
   ●
-  <a href="http://www.gov.hk/en/residents/employment/jobsearch/" target="_blank" rel="noopener">http://www.gov.hk/en/residents/employment/jobsearch/</a><br>
+  <a href="http://www.gov.hk/en/residents/employment/jobsearch/" target="_blank" rel="noopener">Government HK</a><br>
   ●
-  <a href="http://www.indeed.hk/" target="_blank" rel="noopener">http://www.indeed.hk/</a><br>
+  <a href="http://www.indeed.hk/" target="_blank" rel="noopener">Indeed</a><br>
   ●
-  <a href="http://www.jobsearch.hk/" target="_blank" rel="noopener">http://www.jobsearch.hk/</a><br>
+  <a href="http://www.jobsearch.hk/" target="_blank" rel="noopener">Job Search</a><br>
   ●
-  <a href="http://hongkong.recruit.net/" target="_blank" rel="noopener">http://hongkong.recruit.net/</a>
+  <a href="http://hongkong.recruit.net/" target="_blank" rel="noopener">Recruit.net</a>
 </p>
 <p>
   <br>
