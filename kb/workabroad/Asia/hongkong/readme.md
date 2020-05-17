@@ -38,23 +38,7 @@
 <p>RGF HR Agent</p>
 <p>Job List</p>
 <p>
-  <span class="wysiwyg-font-size-large">From the CIA Factbook </span>
-</p>
-<p>
-  Hong Kong has a free market economy, highly dependent on international trade
-  and finance - the value of goods and services trade, including the sizable share
-  of reexports, is about four times GDP. Hong Kong has no tariffs on imported goods,
-  and it levies excise duties on only four commodities, whether imported or produced
-  locally: hard alcohol, tobacco, hydrocarbon oil, and methyl alcohol. There are
-  no quotas or dumping laws.
-</p>
-<p>
-  Hong Kong continues to link its currency closely to the US dollar, maintaining
-  an arrangement established in 1983. Excess liquidity, low interest rates and
-  a tight housing supply have caused Hong Kong property prices to rise rapidly.
-  The lower and middle-income segments of the population increasingly find housing
-  unaffordable.
-</p>
+
 <p>
   <span class="wysiwyg-font-size-large">Links to Media </span>
 </p>
