@@ -1,3 +1,5 @@
+<a href="https://open.spotify.com/album/57oaLRJpfhxYULSDAhto14"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/spotify_banner_al.svg"></a>
+
 <div class="tab-pane fade show active" id="onlineresources">
 <p class="card-text"><h3>Check Out Social Media for Job and Visa Information</h3></p>
 <a href="https://www.youtube.com"><img height="50" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/youtube-2.jpeg"></a><a href="https://www.pinterest.com"><img height="50" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/pinterest.png"></a><a href="https://www.linkedin.com"><img height="50" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/linkedin2.png"></a><a href="https://www.facebook.com"><img height="50" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/cos/facebook.png"></a><a href="https://www.twitter.com"><img height="50" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/twitter.png"></a><a href="https://www.soundcloud.com"><img height="50" src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/soundcloud.jpg"></a></a>
