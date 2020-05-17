@@ -34,7 +34,6 @@ gaming
 
 
 
-__
-ver 6.2.5
+ <a href="https://open.spotify.com/album/57oaLRJpfhxYULSDAhto14"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/spotify_banner_al.svg"></a>
 
 
