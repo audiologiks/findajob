@@ -13,7 +13,7 @@ ver 6.2.5
   internal demand and dynamic garment exports slow growth in agriculture and easing
   construction and tourism activity.</p>
 
-<a href="http://www.worldbank.org/en/country/cambodia/overview">http://www.worldbank.org/en/country/cambodia/overview</a>
+<a href="http://www.worldbank.org/en/country/cambodia/overview">World Bank and Cambodia</a>
 
 <a href="https://www.audiologiks.com/InterJobs/Asia/cambodia.php">Link to Audiologiks</a>
 <p>
@@ -23,29 +23,29 @@ ver 6.2.5
 <p>
   <br>
   ●
-  <a href="https://www.khmeronlinejobs.com/">https://www.khmeronlinejobs.com/</a><br>
-  ● <a href="http://www.ejobpage.com/">http://www.ejobpage.com/</a><br>
-  ● <a href="http://www.cambodia-jobs.com/">http://www.cambodia-jobs.com/</a><br>
-  ● <a href="http://www.camhr.com/">http://www.camhr.com/</a><br>
-  ● <a href="http://www.bongthom.com/jobs/">http://www.bongthom.com/jobs/</a><br>
+  <a href="https://www.khmeronlinejobs.com/">Khmer Online Jobs</a><br>
+  ● <a href="http://www.ejobpage.com/">e Job Page</a><br>
+  ● <a href="http://www.cambodia-jobs.com/">Cambodia Jobs</a><br>
+  ● <a href="http://www.camhr.com/">CAM HR</a><br>
+  ● <a href="http://www.bongthom.com/jobs/">Bongthom</a><br>
   ●
-  <a href="https://www.khmer24.com/c-jobs.html">https://www.khmer24.com/c-jobs.html</a><br>
-  ● <a href="http://www.topjobcambodia.com/">http://www.topjobcambodia.com/</a><br>
+  <a href="https://www.khmer24.com/c-jobs.html">Khmer24</a><br>
+  ● <a href="http://www.topjobcambodia.com/">Top Job Cambodia</a><br>
   ●
-  <a href="https://www.everjobs.com.kh/en/job-posting.html">https://www.everjobs.com.kh/en/job-posting.html</a>
+  <a href="https://www.everjobs.com.kh/en/job-posting.html">Everjobs</a>
 </p>
 <p>
   <br>
   日本語<br>
-  <a href="https://japanese.adecco.co.th/">https://japanese.adecco.co.th/</a><br>
-  <a href="http://www.thaideshigoto.com/home.php">http://www.thaideshigoto.com/home.php</a><br>
-  <a href="http://lp.jobsugoi.com/">http://lp.jobsugoi.com/</a>
+  <a href="https://japanese.adecco.co.th/">Adecco Thai</a><br>
+  <a href="http://www.thaideshigoto.com/home.php">Thai De Shigoto</a><br>
+  <a href="http://lp.jobsugoi.com/">Job Sugoi</a>
 </p>
 <p>
 <a href="https://music.amazon.com/albums/B084RPKGCY"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/banner-sonowabisabi.svg"></a>
-  <br>
-  <span class="wysiwyg-underline"><strong>2. Hong Kong</strong></span><br>
-  http://www.doingbusiness.org/data/exploreeconomies/hong-kong-china
+  
+<span class="wysiwyg-underline"><strong>2. Hong Kong</strong></span>
+<a href="http://www.doingbusiness.org/data/exploreeconomies/hong-kong-china">Doing Business</a>
 </p>
 <p>
   <br>
