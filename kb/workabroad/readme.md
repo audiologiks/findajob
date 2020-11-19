@@ -1,8 +1,10 @@
-There are articles organized by Country where a person wants to work, and topics on working overseas. These are being migrated from audiologiks.com using Zendesk. Migration to be done by 3/10/2020.
+There are articles organized by Country where a person wants to work, and topics on working overseas. 
 
-#	Index of Articles on Working Abroad (last updated on 2/23)
+There are more articles updated during the year at [Audiologiks.com](https://audiologiks.zendesk.com/hc)
 
-1.  [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md) Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work.
+#	Index of Articles on Working Abroad (last updated on 11/20/2020)
+
+1.  [26 Careercross Job Categories, 218 Sub-categories (English)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md) Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work. If you don't have much experience, try to see where your skills will fit and your experience gives you some insight into the role. Careercross is one of the first bilingual internet job boards in Japan and is run by a large recruitment company.
 
 2.  [72 Life Sciences Companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md) Just as an example, looking at industries including the Life Sciences or Healthcare industry, you will find clusters of companies in different fields that you can apply to. Recruiters will specialize or have teams of consultants that specialize in hiring for roles in that industry.
 
@@ -22,6 +24,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 10.	[Example of a Recruitment Position](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/recruiterexample.md) Recruitment is a good industry to learn skills in working in Japan, and is an important focus for foreign companies to get the best talent for their operations. There are a variety of roles in recruitment, as in-house positions working for companies directly or working for recruitment companies.
 
+## 11 - 20 (Below articles haven't been updated yet)
 11.	[Example of a Resume and Key Points](https://github.com/audiologiks/webclient/tree/master/kb/workabroad/Japan/applicants) Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
 
 12.	[Examples of Reference Questions](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md) References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
@@ -42,6 +45,7 @@ There are articles organized by Country where a person wants to work, and topics
 
 20.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx) A presentation on hiring examples for large companies for applicants to better understand the different phases of the hiring process.
 
+## 21 - 30 
 21.	[International and Japanese Job Boards](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/global.md) Bilingual job boards have jobs available at foreign companies and global Japanese companies, with Japanese-language jobs the majority of jobs available.
 
 22.	[Internships and Visas](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md) Can a student or graduate get an internship in Japan? What visas are available or what is accepted among companies in Japan?
@@ -60,98 +64,108 @@ There are articles organized by Country where a person wants to work, and topics
 
 29.	[Job Boards : Bilingual](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/bilingual_boards.md) The main bilingual job boards in Japan, with the largest concentration of jobs using English.
 
-37.	[Job Categories on Careercross.com](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
+## 30 - 39
 
-38.	[Job Categories/Roles in English and Japanese](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
+30.	[Job Categories on Careercross.com](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
-39.	[Job Search Diary](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/job_search.md)
+31.	[Job Categories/Roles in English and Japanese](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jobboards/careercross.md)
 
-41.	[Job Search 仕事探し](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/shigoto.md)
+32.	[Job Search Diary](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/job_search.md)
 
-42.	[Jobs in Eastern Europe](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/EU/easterneurope.md)
+33.	[Job Search 仕事探し](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/shigoto.md)
 
-43.	[Joining Meetup Events - Just look for the Event Announcements for various groups](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/meetups.md)
+34.	[Jobs in Eastern Europe](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/EU/easterneurope.md)
 
-45.	[Linkedin Profiles and Using your Languages](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/linkedin_profiles.md)
+35.	[Joining Meetup Events - Just look for the Event Announcements for various groups](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/meetups.md)
 
-46.	[Links on English resume preparation](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/readme.md)
+36.	[Linkedin Profiles and Using your Languages](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/linkedin_profiles.md)
 
-47.	[Links to English Articles on Labor Regulations](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/labor_regulations.md)
+37.	[Links on English resume preparation](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/readme.md)
 
-48.	[Links to IT Support Jobs in Tokyo](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/IT_Support/finding_jobs.md)
+38.	[Links to English Articles on Labor Regulations](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/labor_regulations.md)
 
-50.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_5_2016.md)
+39.	[Links to IT Support Jobs in Tokyo](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/IT_Support/finding_jobs.md)
 
-51.	[Meetup Notes April 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/april_6_2016.md)
+## 40 - 49
 
-52.	[Meetup Notes August 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/aug_18_2018.md)
+40.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_5_2016.md)
 
-53.	[Meetup Notes December 2018 - Global Careers Information](https://github.com/audiologiks/webclient/edit/master/kb/workabroad/applicants/meetupnotes/dec_8_2018.md)
+41.	[Meetup Notes April 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/april_6_2016.md)
 
-54.	[Meetup Notes February 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/2017_intro.md)
+42.	[Meetup Notes August 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/aug_18_2018.md)
 
-55.	[Meetup Notes November 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/nov_18_2017.md)
+43.	[Meetup Notes December 2018 - Global Careers Information](https://github.com/audiologiks/webclient/edit/master/kb/workabroad/applicants/meetupnotes/dec_8_2018.md)
 
-56.	[Meetup Notes June 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/jun_2_2017.md)
+44.	[Meetup Notes February 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/2017_intro.md)
 
-57.	[Meetup Notes Sept 2017 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_2017.md)
+45.	[Meetup Notes November 2018 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/nov_18_2017.md)
 
-58.	[Meetup Notes July 2018 - Global Career Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/jul_22_2018.md)
+46.	[Meetup Notes June 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/jun_2_2017.md)
 
-59.	[Meetup Notes May 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_6_2017.md)
+47.	[Meetup Notes Sept 2017 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_2017.md)
 
-60.	[Meetup Notes May 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_7_2017.md)
+48.	[Meetup Notes July 2018 - Global Career Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/jul_22_2018.md)
 
-61.	[Meetup Notes May 2017 - IT Support Jobs](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/it_support.md)
+49.	[Meetup Notes May 2016 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_6_2017.md)
 
-62.	[Meetup Notes May 2017 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/resume.md)
+## 50 - 59
 
-63.	[Meetup Notes November 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/recruiter_asia.md)
+50.	[Meetup Notes May 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/may_7_2017.md)
 
-64.	[Meetup Notes September 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_16_2017.md)
+51.	[Meetup Notes May 2017 - IT Support Jobs](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/it_support.md)
 
-65.	[Mock Interviews and Practice](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/practice_interviews.md)
+52.	[Meetup Notes May 2017 - Nihon no Job Market](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/resume.md)
 
-66.	[Points to Consider When Looking for a Job](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/points_looking_job.md)
+53.	[Meetup Notes November 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/recruiter_asia.md)
 
-67.	[Practice Job Interviews](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_system.md)
+54.	[Meetup Notes September 2017 - Global Careers Information](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/meetupnotes/sept_16_2017.md)
 
-68.	[Practice Questions for an Interview](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_questions.md)
+55.	[Mock Interviews and Practice](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/practice_interviews.md)
 
-69.	[Preparing a Resume](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/latestcv.md)
+56.	[Points to Consider When Looking for a Job](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/points_looking_job.md)
 
-71.	[Presentation on "Invisible Jobs"](https://www.slideshare.net/thjonz/job-boards-and-visible-jobs-in-japan)
+57.	[Practice Job Interviews](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_system.md)
 
-72.	[Presentation on Staffing Market in Japan](https://www.slideshare.net/thjonz/staffing-amp-recruitment-market-10-in-japan)
+58.	[Practice Questions for an Interview](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/applicants/interview_questions.md)
 
-73.	[Recruiters with Life Sciences Teams in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
+59.	[Preparing a Resume](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/latestcv.md)
 
-74.	[Reference Questions as part of Interview Process](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md)
+## 60 - 69
 
-75.	[Salary Determination and Research](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/salary_check.md)
+61.	[Presentation on "Invisible Jobs"](https://www.slideshare.net/thjonz/job-boards-and-visible-jobs-in-japan)
 
-76.	[Shared Documents : 90 Recruiting Companies](https://docs.google.com/spreadsheets/d/144eZKMgR9tL1xLIikd1z3kDEpJH07zczpeoQX9_r_ok/edit?usp=sharing)
+62.	[Presentation on Staffing Market in Japan](https://www.slideshare.net/thjonz/staffing-amp-recruitment-market-10-in-japan)
 
-77.	[Staffing in Japan: Spotlight on Adecco](https://www.slideshare.net/thjonz/al-presentation-adecco-showing-some-slides-from-adecco-and-other-sources)
+63.	[Recruiters with Life Sciences Teams in Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Life_Sciences.md)
 
-79.	[What Recruiters are Looking for](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/what_looking_for.md)
+64.	[Reference Questions as part of Interview Process](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/reference.md)
 
-80.	[Working in Asia - Links for Finding a Job (English & Japanese)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/readme.md)
+65.	[Salary Determination and Research](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/salary_check.md)
 
-81.	[Working in the US - Links](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/readme.md)
+66.	[Shared Documents : 90 Recruiting Companies](https://docs.google.com/spreadsheets/d/144eZKMgR9tL1xLIikd1z3kDEpJH07zczpeoQX9_r_ok/edit?usp=sharing)
 
-83.	[Working Outside of Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/working_outside.md)
+67.	[Staffing in Japan: Spotlight on Adecco](https://www.slideshare.net/thjonz/al-presentation-adecco-showing-some-slides-from-adecco-and-other-sources)
 
-84.	[Youtube: Job Search in Japan Presentation](https://youtu.be/krdu9js7sas)
+68.	[What Recruiters are Looking for](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/what_looking_for.md)
 
-85.	[人材紹介コンサルタントのインタービユー](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/jp_recruiter_interview.md)
+69.	[Working in Asia - Links for Finding a Job (English & Japanese)](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Asia/readme.md)
 
-86.	[学生のビサーとインターンシップ Study in Japan and Internships](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md)
+## 70 - 79
 
-87.	[List of 1,000 + Public Japanese companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jp_companies.md)
+71.	[Working in the US - Links](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/USA/readme.md)
 
-88.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/hays_japan.md)
+72.	[Working Outside of Japan](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/working_outside.md)
 
-89.	[Looking for Startups: Companies from Angel List](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/startups.md)
+73.	[Youtube: Job Search in Japan Presentation](https://youtu.be/krdu9js7sas)
 
-90. [Retail Payments in Japan for Gaming](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/retailpayments.md)
+74.	[人材紹介コンサルタントのインタービユー](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/jp_recruiter_interview.md)
+
+75.	[学生のビサーとインターンシップ Study in Japan and Internships](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/applicants/internships_visa.md)
+
+76.	[List of 1,000 + Public Japanese companies](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/jp_companies.md)
+
+77.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/hays_japan.md)
+
+78.	[Looking for Startups: Companies from Angel List](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/startups.md)
+
+79. [Retail Payments in Japan for Gaming](/retailpayments.md) Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
