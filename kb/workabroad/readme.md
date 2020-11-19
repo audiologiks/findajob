@@ -166,6 +166,6 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 77.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/recruiters/hays_japan.md)
 
-78.	[Looking for Startups: Companies from Angel List](https://github.com/audiologiks/webclient/blob/master/kb/workabroad/Japan/startups.md)
+78.	[Looking for Startups: Companies from Angel List](Japan/startups.md)
 
 79. [Retail Payments in Japan for Gaming](retailpayments.md) Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
