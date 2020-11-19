@@ -168,8 +168,6 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 78.	[Looking for Startups: Companies from Angel List](Japan/startups.md) Finding a Startup to Join
 
-If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express.
-
-Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
+	> If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
 
 79. [Retail Payments in Japan for Gaming](retailpayments.md) Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
