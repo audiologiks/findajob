@@ -177,3 +177,13 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 81. [Thinking about Changing Roles](Japan/jobboards/roles_ja.md) Roles within different Industries
 
     エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
+
+82. [14 Asia Job Boards](Asia)
+
+83. [A Tale of 4 Cities in the USA and EU](USA/EUandUSA.md)
+
+84. [Working in the EU and Working in Mexico](applicants/meetupnotes/nov_18_2017.md)
+
+85. [Working in the EU and Japan - Sweden and France](EU/EUJapan.md)
+
+86. [Working in Singapore : Useful Links](Asia/singapore)
