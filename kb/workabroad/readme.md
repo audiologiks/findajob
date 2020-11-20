@@ -156,7 +156,7 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 72.	[Working Outside of Japan](Japan/applicants/working_outside.md)
 
-73.	[Youtube: Job Search in Japan Presentation](https://youtu.be/krdu9js7sas)
+73.	##Youtube: Job Search in Japan Presentation - In production##
 
 74.	[人材紹介コンサルタントのインタービユー](Japan/recruiters/jp_recruiter_interview.md)
 
