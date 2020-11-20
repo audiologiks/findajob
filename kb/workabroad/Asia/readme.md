@@ -3,7 +3,7 @@ ver 6.2.5
 
 <p>
   <strong><span class="wysiwyg-font-size-large">14 Countries, 102 Asia Job Boards and Links to Jobs in English and Japanese</span></strong><br>
- <a href="https://open.spotify.com/album/57oaLRJpfhxYULSDAhto14"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/spotify_banner_al.svg"></a>
+ 
   <strong>1. Cambodia</strong>
 
   <p>Following more than two decades of strong economic growth, Cambodia has attained
@@ -42,7 +42,6 @@ ver 6.2.5
   <a href="http://lp.jobsugoi.com/">Job Sugoi</a>
 </p>
 <p>
-<a href="https://music.amazon.com/albums/B084RPKGCY"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/banner_bandcamp.png"></a>
   
 <span class="wysiwyg-underline"><strong>2. Hong Kong</strong></span>
 <a href="http://www.doingbusiness.org/data/exploreeconomies/hong-kong-china">Doing Business</a>
