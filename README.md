@@ -11,8 +11,6 @@ Moving Country and job seach information over to this repo under the /kb/workabr
 
 Repository for code for links, content, and text used in the support section for international job seekers at audiologiks.com
 
- <a href="https://open.spotify.com/album/57oaLRJpfhxYULSDAhto14"><img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/ads_home/spotify_banner_al.svg"></a>
-
 **Text** is in html and markdown. The MIT license covers the text, unless there are parts quoted from other sites.
 
 Folders

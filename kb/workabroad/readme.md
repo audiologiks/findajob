@@ -41,7 +41,7 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 18.	[H2-B Program (United States)](USA/h2bvisa.md) Information on a visa for spouses of highly-skilled visa program participants in the USA.
 
-19.	[Hiring in Tokyo for Bilingual Roles](https://www.slideshare.net/thjonz/hiring-in-tokyo-for-bilingual-roles-60048969) A presentation on bilingual jobs in Tokyo.
+19.	[Hiring in Tokyo for Bilingual Roles](qrcodes.md) A presentation on bilingual jobs in Tokyo, and the steps in a Job Search including some options　仕事検索／キャリア探しの選択のプレゼン
 
 20.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx) A presentation on hiring examples for large companies for applicants to better understand the different phases of the hiring process.
 
@@ -171,3 +171,9 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 	> If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
 
 79. [Retail Payments in Japan for Gaming](retailpayments.md) Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
+
+80. [Audio files on Invisible Jobs](Japan/applicants/invisiblejobs.md)
+
+81. [Thinking about Changing Roles](Japan/jobboards/roles_ja.md) Roles within different Industries
+
+    エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
