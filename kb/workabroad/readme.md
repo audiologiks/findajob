@@ -157,12 +157,28 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> I would like more information on :
 
 47.	[Meetup Notes Sept 2017 - Nihon no Job Market](applicants/meetupnotes/sept_2017.md)
-		> 
-
+		> Potential Interviewees are:
+		> Questions for a Recruiter can be:
+		> How is the job market in Tokyo and Asia?
+		> What fields or areas of the job market does your company specialize in?
+		> What is the background and strengths of your company?
+		> What kind of candidates are foreign companies in Tokyo looking for?
+		> Is a high-level of English required for jobs at foreign companies?
+		> If I am interested in working outside of Japan, can a recruiter help me to find a suitable position?
+		> How many interviews can there be, in a typical application process?
+		> If an applicant has had a lot of jobs over their career, will that hurt their chances or will companies not select them for interviews due to that?
 
 48.	[Meetup Notes July 2018 - Global Career Information](applicants/meetupnotes/jul_22_2018.md)
+		> Tasks for the Job Search
+		> Using Google CSE (Custom Search Engine to Search 5 Job sites)
+		> Check out our Examples on Asia
+		> English - Language Sources
+		> Goals of Working Abroad or in Japan
+		> Is Money the first priority or just getting a visa?
+		> What Job Roles are you Experienced in and Where can you apply to?
 
 49.	[Meetup Notes May 2016 - Nihon no Job Market](applicants/meetupnotes/may_6_2017.md)
+		> 
 
 ## 50 - 59
 
