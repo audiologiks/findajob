@@ -98,9 +98,14 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> Visas
 		> Self-education, Training resources
 
-41.	[Meetup Notes April 2016 - Nihon no Job Market](meetupnotes/april_6_2016.md)
+41.	[Meetup Notes April 2016 - Nihon no Job Market](applicants/meetupnotes/april_6_2016.md)
+		> Background of Participants
+		> How Long Looking for a Job?
+		> Topics Talked About
+		> Resources
 
 42.	[Meetup Notes August 2018 - Global Careers Information](applicants/meetupnotes/aug_18_2018.md)
+		> 
 
 43.	[Meetup Notes December 2018 - Global Careers Information](applicants/meetupnotes/dec_8_2018.md)
 
