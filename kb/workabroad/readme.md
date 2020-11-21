@@ -198,7 +198,10 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> Recruiters
 
 51.	[Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
-		
+		> IT Support Jobs in Tokyo
+		> IT Support Companies
+		> Types of Support
+		> Service Management
 
 52.	[Meetup Notes May 2017 - Nihon no Job Market](Japan/applicants/resume.md)
 
