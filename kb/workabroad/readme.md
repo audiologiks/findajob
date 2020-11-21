@@ -25,6 +25,7 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 10.	[Example of a Recruitment Position](Japan/recruiters/recruiterexample.md) Recruitment is a good industry to learn skills in working in Japan, and is an important focus for foreign companies to get the best talent for their operations. There are a variety of roles in recruitment, as in-house positions working for companies directly or working for recruitment companies.
 
 ## 11 - 20 (Below articles haven't been updated yet)
+
 11.	[Example of a Resume and Key Points](Japan/applicants) Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
 
 12.	[Examples of Reference Questions](Japan/applicants/reference.md) References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
@@ -46,6 +47,7 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 20.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx) A presentation on hiring examples for large companies for applicants to better understand the different phases of the hiring process.
 
 ## 21 - 30 
+
 21.	[International and Japanese Job Boards](Japan/jobboards/global.md) Bilingual job boards have jobs available at foreign companies and global Japanese companies, with Japanese-language jobs the majority of jobs available.
 
 22.	[Internships and Visas](Japan/applicants/internships_visa.md) Can a student or graduate get an internship in Japan? What visas are available or what is accepted among companies in Japan?
@@ -143,9 +145,20 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> Check out Chambers of Commerce to find companies where you might see jobs posted
 
 46.	[Meetup Notes June 2017 - Global Careers Information](applicants/meetupnotes/jun_2_2017.md)
-		> 
+		> Backgrounds of Attendees
+		> What country do you want to work in?
+		> Have you ever worked overseas?
+		> Where are you from?
+		> What makes you interested to come tonight?
+		> What is your background?
+		> What makes working overseas interesting?
+		> What is most scary about changing jobs or working overseas?
+		> Only available if under 31 (more info here)
+		> I would like more information on :
 
 47.	[Meetup Notes Sept 2017 - Nihon no Job Market](applicants/meetupnotes/sept_2017.md)
+		> 
+
 
 48.	[Meetup Notes July 2018 - Global Career Information](applicants/meetupnotes/jul_22_2018.md)
 
