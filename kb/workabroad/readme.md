@@ -121,12 +121,24 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 43.	[Meetup Notes December 2018 - Global Careers Information](applicants/meetupnotes/dec_8_2018.md)
 		> Topics Discussed (En/Ja)
-		> Europe Links to Information
-		> Americas
+		> Europe Links to Information on audiologiks.com
+		> Americas Links to Information on audiologiks.com
+		> Asia Links to Information on audiologiks.com
+		> Oceania Links to Information on audiologiks.com
+		> One Member's Background
+		> Topics of Conversation
 
 44.	[Meetup Notes February 2017 - Global Careers Information](applicants/meetupnotes/2017_intro.md)
+		> Intro to the Global Career Meetup in Tokyo
+		> Questions for Attendees
+		> Topics - Looking for a Job
+		> Visas
+		> Relying on recruiters and trying other ways of finding a job
+		> Things to think about for the Job
+		> Country - What Country are you looking for a Job in?
 
-45.	[Meetup Notes November 2018 - Global Careers Information](applicants/meetupnotes/nov_18_2017.md)
+45.	[Meetup Notes November 2017 - Global Careers Information](applicants/meetupnotes/nov_18_2017.md)
+
 
 46.	[Meetup Notes June 2017 - Global Careers Information](applicants/meetupnotes/jun_2_2017.md)
 
