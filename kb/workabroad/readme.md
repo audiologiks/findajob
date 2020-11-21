@@ -138,9 +138,12 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> Country - What Country are you looking for a Job in?
 
 45.	[Meetup Notes November 2017 - Global Careers Information](applicants/meetupnotes/nov_18_2017.md)
-
+		> Overview of working in France and Mexico
+		> Links to Job Boards in France (in French and English)
+		> Check out Chambers of Commerce to find companies where you might see jobs posted
 
 46.	[Meetup Notes June 2017 - Global Careers Information](applicants/meetupnotes/jun_2_2017.md)
+		> 
 
 47.	[Meetup Notes Sept 2017 - Nihon no Job Market](applicants/meetupnotes/sept_2017.md)
 
