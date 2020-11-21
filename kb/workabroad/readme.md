@@ -178,11 +178,19 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> What Job Roles are you Experienced in and Where can you apply to?
 
 49.	[Meetup Notes May 2016 - Nihon no Job Market](applicants/meetupnotes/may_6_2017.md)
-		> 
+		> Summary of Conversation Topics
+		> Topics
+		> Chambers of Commerce: The Swiss Chamber of Commerce (SCCJ)
+		> Interview preparation
+		> Determining Salary
+		> Resume/CV Style
+		> Visas
+		> Self-education, Training resources
 
 ## 50 - 59
 
 50.	[Meetup Notes May 2017 - Global Careers Information](applicants/meetupnotes/may_7_2017.md)
+		> 
 
 51.	[Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
 
