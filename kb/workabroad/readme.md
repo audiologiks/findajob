@@ -89,6 +89,14 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 ## 40 - 49
 
 40.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](applicants/meetupnotes/may_5_2016.md)
+		> Getting a Job in Japan
+		> Meetup link
+		> Link to notes on the Meetup
+		> Interviews
+		> Determining Salary
+		> Resume/CV Style
+		> Visas
+		> Self-education, Training resources
 
 41.	[Meetup Notes April 2016 - Nihon no Job Market](meetupnotes/april_6_2016.md)
 
