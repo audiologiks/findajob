@@ -190,9 +190,15 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 ## 50 - 59
 
 50.	[Meetup Notes May 2017 - Global Careers Information](applicants/meetupnotes/may_7_2017.md)
-		> 
+		> Discussion on the Life Sciences Industry in Japan
+		> Organizations in Japan
+		> Events in Japan 
+		> Media & Information Sites
+		> Resources on Issues in Healthcare and Lifesciences
+		> Recruiters
 
 51.	[Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
+		
 
 52.	[Meetup Notes May 2017 - Nihon no Job Market](Japan/applicants/resume.md)
 
