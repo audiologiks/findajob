@@ -4,67 +4,96 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 #	Index of Articles on Working Abroad (last updated on 11/20/2020)
 
-1.  [26 Careercross Job Categories, 218 Sub-categories (English)](Japan/jobboards/careercross.md) Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work. If you don't have much experience, try to see where your skills will fit and your experience gives you some insight into the role. Careercross is one of the first bilingual internet job boards in Japan and is run by a large recruitment company.
+1.  [26 Careercross Job Categories, 218 Sub-categories (English)](Japan/jobboards/careercross.md) 
+> Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work. If you don't have much experience, try to see where your skills will fit and your experience gives you some insight into the role. Careercross is one of the first bilingual internet job boards in Japan and is run by a large recruitment company.
 
-2.  [72 Life Sciences Companies](Life_Sciences.md) Just as an example, looking at industries including the Life Sciences or Healthcare industry, you will find clusters of companies in different fields that you can apply to. Recruiters will specialize or have teams of consultants that specialize in hiring for roles in that industry.
+2.  [72 Life Sciences Companies](Life_Sciences.md) 
+> Just as an example, looking at industries including the Life Sciences or Healthcare industry, you will find clusters of companies in different fields that you can apply to. Recruiters will specialize or have teams of consultants that specialize in hiring for roles in that industry.
 
-3.  [Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan](Japan/chambersofcommerce.md) One intern with the Swiss chamber came to a Meetup and talked about his experience working in Japan. All the major economic powers will have a business association, called a Chamber of Commerce, to which most of their major companies will belong. These associations can be a great place to meet people and ask questions about jobs and employers that are hiring.
+3.  [Applying for a Job - Sources of Information - The Swiss Chamber of Commerce in Japan](Japan/chambersofcommerce.md) 
+> One intern with the Swiss chamber came to a Meetup and talked about his experience working in Japan. All the major economic powers will have a business association, called a Chamber of Commerce, to which most of their major companies will belong. These associations can be a great place to meet people and ask questions about jobs and employers that are hiring.
 
-4.	[Audio on SoundCloud: Hiring Bilingual Candidates](https://soundcloud.com/tom-jones-110) Posting audio files on Soundcloud should be an easy way to share content on jobs, finding them and learning about new topics.
+4.	[Audio on SoundCloud: Hiring Bilingual Candidates](https://soundcloud.com/tom-jones-110) 
+> Posting audio files on Soundcloud should be an easy way to share content on jobs, finding them and learning about new topics.
 
-5.	[Audio on Soundcloud: Researching Where You Might Want to Work](audio/soundcloud.md) I'll post links to audio files in the content that I post here on jobs and working overseas.
+5.	[Audio on Soundcloud: Researching Where You Might Want to Work](audio/soundcloud.md) 
+> I'll post links to audio files in the content that I post here on jobs and working overseas.
 
-6.	[Background of Meetup Attendees](Japan/attendees_background.md) Meetup attendees for the events in Tokyo were evenly divided between Japanese and foreigners, with almost 50-50 balance between men and women. The makeup of of attendees sometimes depended on when the event was held, either weekday night or weekend daytime, and if there was a fee for the meetup and where it was held.
+6.	[Background of Meetup Attendees](Japan/attendees_background.md) 
+> Meetup attendees for the events in Tokyo were evenly divided between Japanese and foreigners, with almost 50-50 balance between men and women. The makeup of of attendees sometimes depended on when the event was held, either weekday night or weekend daytime, and if there was a fee for the meetup and where it was held.
 
-7.	[Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](Japan/recruiters/36recruiters.md) There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
+7.	[Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](Japan/recruiters/36recruiters.md) 
+> There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
 
-8.	[CareerCross Function / Job Categories](Japan/jobboards/careercross.md) All or most job sites will categorize the types of jobs by industry and function, and this shows how one bilingual job board does that. In general, the categories are the same as any global job board, but you will see where foreign companies focus their hiring by the number of jobs posted.
+8.	[CareerCross Function / Job Categories](Japan/jobboards/careercross.md) 
+> All or most job sites will categorize the types of jobs by industry and function, and this shows how one bilingual job board does that. In general, the categories are the same as any global job board, but you will see where foreign companies focus their hiring by the number of jobs posted.
 
-9.	[Daijob Job Portal in Japan](Japan/jobboards/daijobroles.md) Historically, the no.1 or no.2 bilingual job board in Japan for jobs posted by foreign companies, this shows the categories of jobs posted and the numbers of jobs available per job category.
+9.	[Daijob Job Portal in Japan](Japan/jobboards/daijobroles.md) 
+> Historically, the no.1 or no.2 bilingual job board in Japan for jobs posted by foreign companies, this shows the categories of jobs posted and the numbers of jobs available per job category.
 
-10.	[Example of a Recruitment Position](Japan/recruiters/recruiterexample.md) Recruitment is a good industry to learn skills in working in Japan, and is an important focus for foreign companies to get the best talent for their operations. There are a variety of roles in recruitment, as in-house positions working for companies directly or working for recruitment companies.
+10.	[Example of a Recruitment Position](Japan/recruiters/recruiterexample.md) 
+> Recruitment is a good industry to learn skills in working in Japan, and is an important focus for foreign companies to get the best talent for their operations. There are a variety of roles in recruitment, as in-house positions working for companies directly or working for recruitment companies.
 
 ## 11 - 20 (Below articles haven't been updated yet)
 
-11.	[Example of a Resume and Key Points](Japan/applicants) Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
+11.	[Example of a Resume and Key Points](Japan/applicants) 
+> Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
 
-12.	[Examples of Reference Questions](Japan/applicants/reference.md) References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
+12.	[Examples of Reference Questions](Japan/applicants/reference.md) 
+> References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
 
-13.	[Fashion](fashion) Do you work in fashion or want to work in fashion? Look for recruiters who specialize in the fashion industry, and company websites to see some of the job roles they offer. Even if you don't have the experience now, you can aim at getting experience to grow and apply for your career path in the future.
+13.	[Fashion](fashion) 
+> Do you work in fashion or want to work in fashion? Look for recruiters who specialize in the fashion industry, and company websites to see some of the job roles they offer. Even if you don't have the experience now, you can aim at getting experience to grow and apply for your career path in the future.
 
-14.	[Finding a Job Internationally](workabroad) Finding a job internationally isn't the same as getting a job at home, with questions about how to interview, and if an applicant's experience is easily understood by hiring managers in other countries.
+14.	[Finding a Job Internationally](workabroad) 
+> Finding a job internationally isn't the same as getting a job at home, with questions about how to interview, and if an applicant's experience is easily understood by hiring managers in other countries.
 
-15.	[Finding a Job in Japan](Japan/applicants/thingstothinkabout.md) Links and information on resources on visas, language requirements and ways to find a job in Japan.
+15.	[Finding a Job in Japan](Japan/applicants/thingstothinkabout.md) 
+> Links and information on resources on visas, language requirements and ways to find a job in Japan.
 
-16.	[Getting a Job in Australia](Australia/gettingajob.md) Links and information on working in Australia.
+16.	[Getting a Job in Australia](Australia/gettingajob.md) 
+> Links and information on working in Australia.
 
-17.	[Getting a Job in Canada](Canada/readme.md) Links and information on working in Canada.
+17.	[Getting a Job in Canada](Canada/readme.md) 
+> Links and information on working in Canada.
 
-18.	[H2-B Program (United States)](USA/h2bvisa.md) Information on a visa for spouses of highly-skilled visa program participants in the USA.
+18.	[H2-B Program (United States)](USA/h2bvisa.md) 
+> Information on a visa for spouses of highly-skilled visa program participants in the USA.
 
-19.	[Hiring in Tokyo for Bilingual Roles](qrcodes.md) A presentation on bilingual jobs in Tokyo, and the steps in a Job Search including some options　仕事検索／キャリア探しの選択のプレゼン
+19.	[Hiring in Tokyo for Bilingual Roles](qrcodes.md) 
+> A presentation on bilingual jobs in Tokyo, and the steps in a Job Search including some options　仕事検索／キャリア探しの選択のプレゼン
 
-20.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx) A presentation on hiring examples for large companies for applicants to better understand the different phases of the hiring process.
+20.	[Hiring Lifecycle Presentation](https://www.slideshare.net/thjonz/recruiting-l-ifecyclepptx) 
+> A presentation on hiring examples for large companies for applicants to better understand the different phases of the hiring process.
 
 ## 21 - 30 
 
-21.	[International and Japanese Job Boards](Japan/jobboards/global.md) Bilingual job boards have jobs available at foreign companies and global Japanese companies, with Japanese-language jobs the majority of jobs available.
+21.	[International and Japanese Job Boards](Japan/jobboards/global.md) 
+> Bilingual job boards have jobs available at foreign companies and global Japanese companies, with Japanese-language jobs the majority of jobs available.
 
-22.	[Internships and Visas](Japan/applicants/internships_visa.md) Can a student or graduate get an internship in Japan? What visas are available or what is accepted among companies in Japan?
+22.	[Internships and Visas](Japan/applicants/internships_visa.md) 
+> Can a student or graduate get an internship in Japan? What visas are available or what is accepted among companies in Japan?
 
-23.	[Interview with a Hiring Manager (Rob Pauling)](Japan/applicants/interview_hiring_mgr.md) An interview with a hiring manager at an IT Company in Japan discussing their approach to hiring and onboarding new employees.
+23.	[Interview with a Hiring Manager (Rob Pauling)](Japan/applicants/interview_hiring_mgr.md) 
+> An interview with a hiring manager at an IT Company in Japan discussing their approach to hiring and onboarding new employees.
 
-24.	[Interview with a Recruiter](Japan/recruiters/interview_recruiter.md) An interview with an experienced recruiter for foreign companies in Japan gives his impressions on the job market.
+24.	[Interview with a Recruiter](Japan/recruiters/interview_recruiter.md) 
+> An interview with an experienced recruiter for foreign companies in Japan gives his impressions on the job market.
 
-25.	[Interview with a Recruiter - Arnaldo (Hong Kong)](Asia/interview_recruiter.md) An interview with a recruiter based in Hong Kong that handles jobs across Asia, with a focus on sales and IT roles.
+25.	[Interview with a Recruiter - Arnaldo (Hong Kong)](Asia/interview_recruiter.md) 
+> An interview with a recruiter based in Hong Kong that handles jobs across Asia, with a focus on sales and IT roles.
 
-26.	[Interview with Verena Hopp. Founder of Internship Japan](Japan/applicants/interview_founder.md) A founder of an internship company that arranges internships at companies for foreign and Japanese applicants.
+26.	[Interview with Verena Hopp. Founder of Internship Japan](Japan/applicants/interview_founder.md) 
+> A founder of an internship company that arranges internships at companies for foreign and Japanese applicants.
 
-27.	[Introduction to a Fashion Industry Recruiter](Japan/recruiters/fashion_recruiter.md) A fashion industry recruiter in Japan with experience in both Japan and the USA.
+27.	[Introduction to a Fashion Industry Recruiter](Japan/recruiters/fashion_recruiter.md) 
+> A fashion industry recruiter in Japan with experience in both Japan and the USA.
 
-28.	[J-1 Visa in the United States](USA/j1visa.md) Another category of visa for temporary workers in the USA, with a term of 1-3 years available for qualifying positions.
+28.	[J-1 Visa in the United States](USA/j1visa.md) 
+> Another category of visa for temporary workers in the USA, with a term of 1-3 years available for qualifying positions.
 
-29.	[Job Boards : Bilingual](Japan/jobboards/bilingual_boards.md) The main bilingual job boards in Japan, with the largest concentration of jobs using English.
+29.	[Job Boards : Bilingual](Japan/jobboards/bilingual_boards.md) 
+> The main bilingual job boards in Japan, with the largest concentration of jobs using English.
 
 ## 30 - 39
 
