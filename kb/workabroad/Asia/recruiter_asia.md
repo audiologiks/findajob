@@ -1,22 +1,17 @@
-## Recruiters in Malaysia and Singapore
-（マレーシアとシンガポールの人材紹介会社）
+## Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）
 
-[JAC Malaysia](https://www.jac-recruitment.my/)
-JACマレーシア
-[JAC Singapore](http://www.jac-recruitment.sg/index-jp.html)
-JACシンガポール		
-[Recruit Asia](https://www.rgf-hragent.asia/)
-リクールトアジア
+[JAC Malaysia](https://www.jac-recruitment.my/) JACマレーシア
 
-## Japan Job Board
-オンラインのジャパン仕事サイト
+[JAC Singapore](http://www.jac-recruitment.sg/index-jp.html) JACシンガポール		
+
+[Recruit Asia](https://www.rgf-hragent.asia/) リクールトアジア
+
+## Japan Job Board オンラインのジャパン仕事サイト
 [Careercross Jobs in Asia](https://www.careercross.com/en/job-search/specialty-20)
 
-[Audiologiks.com](https://www.audiologiks.com/InterJobs/Asia/)
-オーデイオロジックス
+[Audiologiks.com](https://www.audiologiks.com/InterJobs/Asia/) オーデイオロジックス
 
-## Knowledge Bank: Articles	
-英語の記事
+## Knowledge Bank: Articles	英語の記事
 
 Meetup Member worked for 5 years in Malaysia for construction vehicle rentals. 
 ミートアップメンバーがマレーシアに5年間務めた経歴があり、建設機械のレンタル業務経験
@@ -30,8 +25,7 @@ Got her BA recently, and looking to work in Singapore.
 Examples of Companies in Construction Vehicles Rental
 建設機械レンタル販売の会社
 
-Media
-メイデイア
+Media メイデイア
 
 [Link 1](https://www.logi-today.com/10663)
 
@@ -40,8 +34,7 @@ Media
 Companies
 [会社](http://www.nishio-rent.co.jp/corporate/ourbusiness/foreign/)
 
-### Q&A
-質問と答え
+### Q&A 質問と答え
 
 - Introduction of Members　メンバーのご紹介
 - Introduction of Meetup　ミートアップのご紹介

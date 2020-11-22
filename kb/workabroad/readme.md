@@ -91,14 +91,14 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 ## 40 - 49
 
 40.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](applicants/meetupnotes/may_5_2016.md)
-		> Getting a Job in Japan
-		> Meetup link
-		> Link to notes on the Meetup
-		> Interviews
-		> Determining Salary
-		> Resume/CV Style
-		> Visas
-		> Self-education, Training resources
+> Getting a Job in Japan
+> Meetup link
+> Link to notes on the Meetup
+> Interviews
+> Determining Salary
+> Resume/CV Style
+> Visas
+> Self-education, Training resources
 
 41.	[Meetup Notes April 2016 - Nihon no Job Market](applicants/meetupnotes/april_6_2016.md)
 		> Background of Participants
@@ -204,8 +204,13 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 		> Service Management
 
 52.	[Meetup Notes May 2017 - Nihon no Job Market](Japan/applicants/resume.md)
+		> Resume/CV Styles
+		> Key Data Points in a Resume
+		> Good Examples online
 
 53.	[Meetup Notes November 2017 - Global Careers Information](Asia/recruiter_asia.md)
+		> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）
+		> 
 
 54.	[Meetup Notes September 2017 - Global Careers Information](applicants/meetupnotes/sept_16_2017.md)
 
