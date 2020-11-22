@@ -94,34 +94,13 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 > Getting a Job in Japan | Meetup link | Link to notes on the Meetup | Interviews | Determining Salary | Resume/CV Style | Visas | Self-education, Training resources
 
 41.	[Meetup Notes April 2016 - Nihon no Job Market](applicants/meetupnotes/april_6_2016.md)
-		> Background of Participants
-		> How Long Looking for a Job?
-		> Topics Talked About
-		> Resources
+> Background of Participants | How Long Looking for a Job? | Topics Talked About | Resources
 
 42.	[Meetup Notes August 2018 - Global Careers Information](applicants/meetupnotes/aug_18_2018.md)
-		> Themes: tales about 4 cities > Topics 
-		> Resume styles in different countries 
-		> Investing in Education in Japan or Overseas? 
-		> What training and school makes the most impact on employers
-		> Backgrounds and Experience
-		> Ways to Network
-		> Transferring internally
-		> Using Linkedin
-		> Showcasing specialized knowledge of your industry
-		> Gaming and Graphic Designs
-		> Indeed
-		> Tasks for Networking and finding jobs
-		> Game-related websites
+> Themes: tales about 4 cities > Topics | Resume styles in different countries | Investing in Education in Japan or Overseas? | What training and school makes the most impact on employers | Backgrounds and Experience | Ways to Network | Transferring internally | Using Linkedin | Showcasing specialized knowledge of your industry | Gaming and Graphic Designs | Indeed | Tasks for Networking and finding jobs | Game-related websites
 
 43.	[Meetup Notes December 2018 - Global Careers Information](applicants/meetupnotes/dec_8_2018.md)
-		> Topics Discussed (En/Ja)
-		> Europe Links to Information on audiologiks.com
-		> Americas Links to Information on audiologiks.com
-		> Asia Links to Information on audiologiks.com
-		> Oceania Links to Information on audiologiks.com
-		> One Member's Background
-		> Topics of Conversation
+> Topics Discussed (En/Ja) | Europe Links to Information on audiologiks.com | Americas Links to Information on audiologiks.com | Asia Links to Information on audiologiks.com | Oceania Links to Information on audiologiks.com | One Member's Background | Topics of Conversation
 
 44.	[Meetup Notes February 2017 - Global Careers Information](applicants/meetupnotes/2017_intro.md)
 		> Intro to the Global Career Meetup in Tokyo
