@@ -161,10 +161,10 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 > Resume/CV Styles | Key Data Points in a Resume | Good Examples online
 
 53.	[Meetup Notes November 2017 - Global Careers Information](Asia/recruiter_asia.md)
-> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）
-		
+> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）| Japan Job Board オンラインのジャパン仕事サイト | Knowledge Bank: Articles	英語の記事 | Q&A 質問と答え
 
 54.	[Meetup Notes September 2017 - Global Careers Information](applicants/meetupnotes/sept_16_2017.md)
+> Where do you want to work? | Who wants to work in? | Japanese working practices | Benefits of working and understanding Japanese customer’s expectations | Having a Linkedin profile | Working in Canada | Understanding the visa system of the country you want to work in | Working in New York or the West Coast, Mid-west, Southeast or Southwest | Studying abroad as a first job to finding a job | Getting a work-pass in Singapore, easier than other countries? | Looking for jobs on Online job boards | Using Foreign Chambers of Commerce to identify companies | Active vs Passive Looking for a job
 
 55.	[Mock Interviews and Practice](applicants/practice_interviews.md)
 
