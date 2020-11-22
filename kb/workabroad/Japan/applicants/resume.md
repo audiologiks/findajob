@@ -4,13 +4,10 @@
   tries to convey more through the choice of wording and description while in Japanese
   it would just relay information.
 
-
 ## key Data Points in a Resume
   A company looking at a resume is looking for key data points in work history,
   skills and background though so in that sense they are both means to select the
   best candidates for the interview.
-
-
 
 **Look for good youtube videos on filling out a Japanese resume**
 
