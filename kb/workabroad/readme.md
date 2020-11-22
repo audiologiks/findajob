@@ -132,86 +132,37 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 > Topics Discussed (En/Ja) | Europe Links to Information on audiologiks.com | Americas Links to Information on audiologiks.com | Asia Links to Information on audiologiks.com | Oceania Links to Information on audiologiks.com | One Member's Background | Topics of Conversation
 
 44.	[Meetup Notes February 2017 - Global Careers Information](applicants/meetupnotes/2017_intro.md)
-		> Intro to the Global Career Meetup in Tokyo
-		> Questions for Attendees
-		> Topics - Looking for a Job
-		> Visas
-		> Relying on recruiters and trying other ways of finding a job
-		> Things to think about for the Job
-		> Country - What Country are you looking for a Job in?
+> Intro to the Global Career Meetup in Tokyo | Questions for Attendees | Topics - Looking for a Job | Visas | Relying on recruiters and trying other ways of finding a job | Things to think about for the Job | Country - What Country are you looking for a Job in?
 
 45.	[Meetup Notes November 2017 - Global Careers Information](applicants/meetupnotes/nov_18_2017.md)
-		> Overview of working in France and Mexico
-		> Links to Job Boards in France (in French and English)
-		> Check out Chambers of Commerce to find companies where you might see jobs posted
+> Overview of working in France and Mexico | Links to Job Boards in France (in French and English) | Check out Chambers of Commerce to find companies where you might see jobs posted
 
 46.	[Meetup Notes June 2017 - Global Careers Information](applicants/meetupnotes/jun_2_2017.md)
-		> Backgrounds of Attendees
-		> What country do you want to work in?
-		> Have you ever worked overseas?
-		> Where are you from?
-		> What makes you interested to come tonight?
-		> What is your background?
-		> What makes working overseas interesting?
-		> What is most scary about changing jobs or working overseas?
-		> Only available if under 31 (more info here)
-		> I would like more information on :
+> Backgrounds of Attendees | What country do you want to work in? | Have you ever worked overseas? | Where are you from? | What makes you interested to come tonight? | What is your background? | What makes working overseas interesting? | What is most scary about changing jobs or working overseas? | Only available if under 31 (more info here) | I would like more information on :
 
 47.	[Meetup Notes Sept 2017 - Nihon no Job Market](applicants/meetupnotes/sept_2017.md)
-		> Potential Interviewees are:
-		> Questions for a Recruiter can be:
-		> How is the job market in Tokyo and Asia?
-		> What fields or areas of the job market does your company specialize in?
-		> What is the background and strengths of your company?
-		> What kind of candidates are foreign companies in Tokyo looking for?
-		> Is a high-level of English required for jobs at foreign companies?
-		> If I am interested in working outside of Japan, can a recruiter help me to find a suitable position?
-		> How many interviews can there be, in a typical application process?
-		> If an applicant has had a lot of jobs over their career, will that hurt their chances or will companies not select them for interviews due to that?
+> Potential Interviewees are: | Questions for a Recruiter can be: | How is the job market in Tokyo and Asia? | What fields or areas of the job market does your company specialize in? | What is the background and strengths of your company? | What kind of candidates are foreign companies in Tokyo looking for? | Is a high-level of English required for jobs at foreign companies? | If I am interested in working outside of Japan, can a recruiter help me to find a suitable position? | How many interviews can there be, in a typical application process? | If an applicant has had a lot of jobs over their career, will that hurt their chances or will companies not select them for interviews due to that?
 
 48.	[Meetup Notes July 2018 - Global Career Information](applicants/meetupnotes/jul_22_2018.md)
-		> Tasks for the Job Search
-		> Using Google CSE (Custom Search Engine to Search 5 Job sites)
-		> Check out our Examples on Asia
-		> English - Language Sources
-		> Goals of Working Abroad or in Japan
-		> Is Money the first priority or just getting a visa?
-		> What Job Roles are you Experienced in and Where can you apply to?
+> Tasks for the Job Search | Using Google CSE (Custom Search Engine to Search 5 Job sites) | Check out our Examples on Asia | English - Language Sources | Goals of Working Abroad or in Japan | Is Money the first priority or just getting a visa? | What Job Roles are you Experienced in and Where can you apply to?
 
 49.	[Meetup Notes May 2016 - Nihon no Job Market](applicants/meetupnotes/may_6_2017.md)
-		> Summary of Conversation Topics
-		> Topics
-		> Chambers of Commerce: The Swiss Chamber of Commerce (SCCJ)
-		> Interview preparation
-		> Determining Salary
-		> Resume/CV Style
-		> Visas
-		> Self-education, Training resources
+> Summary of Conversation Topics | Topics | Chambers of Commerce: The Swiss Chamber of Commerce (SCCJ) | Interview preparation | Determining Salary | Resume/CV Style | Visas | Self-education, Training resources
 
 ## 50 - 59
 
 50.	[Meetup Notes May 2017 - Global Careers Information](applicants/meetupnotes/may_7_2017.md)
-		> Discussion on the Life Sciences Industry in Japan
-		> Organizations in Japan
-		> Events in Japan 
-		> Media & Information Sites
-		> Resources on Issues in Healthcare and Lifesciences
-		> Recruiters
+> Discussion on the Life Sciences Industry in Japan | Organizations in Japan | Events in Japan | Media & Information Sites | Resources on Issues in Healthcare and Lifesciences | Recruiters
 
 51.	[Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
-		> IT Support Jobs in Tokyo
-		> IT Support Companies
-		> Types of Support
-		> Service Management
+> IT Support Jobs in Tokyo | IT Support Companies | Types of Support | Service Management
 
 52.	[Meetup Notes May 2017 - Nihon no Job Market](Japan/applicants/resume.md)
-		> Resume/CV Styles
-		> Key Data Points in a Resume
-		> Good Examples online
+> Resume/CV Styles | Key Data Points in a Resume | Good Examples online
 
 53.	[Meetup Notes November 2017 - Global Careers Information](Asia/recruiter_asia.md)
-		> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）
-		> 
+> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）
+		
 
 54.	[Meetup Notes September 2017 - Global Careers Information](applicants/meetupnotes/sept_16_2017.md)
 
@@ -262,16 +213,15 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 77.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](Japan/recruiters/hays_japan.md)
 
 78.	[Looking for Startups: Companies from Angel List](Japan/startups.md) Finding a Startup to Join
+> If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
 
-	> If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
-
-79. [Retail Payments in Japan for Gaming](retailpayments.md) Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
+79. [Retail Payments in Japan for Gaming](retailpayments.md) 
+> Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
 
 80. [Audio files on Invisible Jobs](Japan/applicants/invisiblejobs.md)
 
 81. [Thinking about Changing Roles](Japan/jobboards/roles_ja.md) Roles within different Industries
-
-    エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
+ > エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
 
 82. [14 Asia Job Boards](Asia)
 
