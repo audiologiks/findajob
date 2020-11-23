@@ -167,6 +167,7 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 > Where do you want to work? | Who wants to work in? | Japanese working practices | Benefits of working and understanding Japanese customer’s expectations | Having a Linkedin profile | Working in Canada | Understanding the visa system of the country you want to work in | Working in New York or the West Coast, Mid-west, Southeast or Southwest | Studying abroad as a first job to finding a job | Getting a work-pass in Singapore, easier than other countries? | Looking for jobs on Online job boards | Using Foreign Chambers of Commerce to identify companies | Active vs Passive Looking for a job
 
 55.	[Mock Interviews and Practice](applicants/practice_interviews.md)
+> 
 
 56.	[Points to Consider When Looking for a Job](applicants/points_looking_job.md)
 
