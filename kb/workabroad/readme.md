@@ -99,7 +99,7 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 
 30.	[Job Categories on Careercross.com](Japan/jobboards/careercross.md)
 
-31.	[Job Categories/Roles in English and Japanese](Japan/jobboards/careercross.md)
+31.	[Job Categories/Roles in English and Japanese](Japan/jobboards/daijobroles.md)
 
 32.	[Job Search Diary](applicants/job_search.md)
 
