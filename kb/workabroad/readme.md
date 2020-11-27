@@ -98,8 +98,10 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 ## 30 - 39
 
 30.	[Job Categories on Careercross.com](Japan/jobboards/careercross.md)
+> One of the first bilingual online job boards for professionals in Japan, looking at the job categories, you can see career progression through different levels in job roles. Also if you are interested in switching to a different industry, you can see roles that are similar to work, experience and skills that you have.
 
 31.	[Job Categories/Roles in English and Japanese](Japan/jobboards/daijobroles.md)
+> These are roles from another bilingual job site in Japan, and also one of the first. If you are learning Japanese, you can see the Japanese words for the roles and practice describing your experience through the roles you see broken down by industry.
 
 32.	[Job Search Diary](applicants/job_search.md)
 
