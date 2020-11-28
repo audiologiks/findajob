@@ -6,6 +6,7 @@
 
 |       |      |      |
 | ----  | ---- | ---- |
+
 [![Robert Half](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/robert_half_logo_svg.svg)](https://www.roberthalf.jp/en) [![Robert Walters](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/robert_walters_logo_svg.svg)](https://www.robertwalters.co.jp/en/) [![Michael Page](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/michael_page_logo_svg.svg)](http://www.michaelpage.co.jp/en)
 
 [![Heidrick Struggles](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/heidrick_struggles_logo_svg.svg)](http://www.heidrickstruggles.com) [![Korn Ferry](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/korn_ferry_logo_svg.svg)](http://www.kornferry.com) [![Computer Futures](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/computer_futures_logo_svg.svg)](http://www.computerfutures.com)
