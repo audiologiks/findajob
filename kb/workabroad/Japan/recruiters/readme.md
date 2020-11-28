@@ -25,7 +25,7 @@
 [![JAC](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/jac_logo_svg.svg)](http://www.jac-recruitment.jp/)
 
 ### List of Recruiters
-[![BRS/Persol]()](https://brs-p.jp/)
+[![BRS/Persol](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/brs_persol_logo_svg.svg)](https://brs-p.jp/)
 
 [![Manpower](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/manpower_logo_svg.svg)](http://www.manpowergroup.jp/english/)
 
