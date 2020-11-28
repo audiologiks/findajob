@@ -1,10 +1,11 @@
 
- ## Global Headhunters
+## Global Headhunters
 
-<p>
-  <a href="https://www.roberthalf.jp/en" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/rh_logo.gif"></a>
-</p>
-<p>
+7.  [Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](Japan/recruiters/36recruiters.md) 
+> There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
+
+[![Robert Half](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/rh_logo.gif)](https://www.roberthalf.jp/en)
+
   <a href="https://www.robertwalters.co.jp/en/" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/robert-walters-logo.png"></a>
 </p>
 <p>
