@@ -1,8 +1,9 @@
-
-## Global Headhunters
+# Article Index
 
 7.  [Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](Japan/recruiters/36recruiters.md) 
 > There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
+
+## Global Headhunters
 
 |       |      |      |
 | ----  | ---- | ---- |

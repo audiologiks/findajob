@@ -1,6 +1,46 @@
-<p>
-  <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/office/icons8-submit-resume-filled-50.png">
-</p>
+![Submit a Resume](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/office/icons8-submit-resume-filled-50.png)
+
+# Article Index
+
+11. [Example of a Resume and Key Points](Japan/applicants) 
+> Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
+
+12. [Examples of Reference Questions](Japan/applicants/reference.md) 
+> References are typically asked for at the end of the interview process, after you have proceeded through the rest of the process. The questions your referees will be asked about you are generally sent directly to them, or asked in a phone call.
+
+15. [Finding a Job in Japan](Japan/applicants/thingstothinkabout.md) 
+> Links and information on resources on visas, language requirements and ways to find a job in Japan.
+
+22. [Internships and Visas](Japan/applicants/internships_visa.md) 
+> Can a student or graduate get an internship in Japan? What visas are available or what is accepted among companies in Japan?
+
+23. [Interview with a Hiring Manager (Rob Pauling)](Japan/applicants/interview_hiring_mgr.md) 
+> An interview with a hiring manager at an IT Company in Japan discussing their approach to hiring and onboarding new employees.
+
+26. [Interview with Verena Hopp. Founder of Internship Japan](Japan/applicants/interview_founder.md) 
+> A founder of an internship company that arranges internships at companies for foreign and Japanese applicants.
+
+36. [Linkedin Profiles and Using your Languages](Japan/applicants/linkedin_profiles.md)
+
+37. [Links on English resume preparation](Japan/applicants/readme.md)
+
+51. [Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
+> IT Support Jobs in Tokyo | IT Support Companies | Types of Support | Service Management
+
+52. [Meetup Notes May 2017 - Nihon no Job Market](Japan/applicants/resume.md)
+> Resume/CV Styles | Key Data Points in a Resume | Good Examples online
+
+59. [Preparing a Resume](Japan/applicants/latestcv.md)
+
+64. [Reference Questions as part of Interview Process](Japan/applicants/reference.md)
+
+65. [Salary Determination and Research](Japan/applicants/salary_check.md)
+
+72. [Working Outside of Japan](Japan/applicants/working_outside.md)
+
+75. [学生のビサーとインターンシップ Study in Japan and Internships](Japan/applicants/internships_visa.md)
+
+80. [Audio files on Invisible Jobs](Japan/applicants/invisiblejobs.md)
 
 ## Resume/CV Style
 Check your resume or ask someone you trust to review your English resume. It should be in active voice, tying your actions to the results of your employer to show your value to the company.
