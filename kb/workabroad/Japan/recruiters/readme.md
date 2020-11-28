@@ -4,36 +4,36 @@
 7.  [Bilingual Recruiters - List of 36 Companies from Outsourcing to Recruitment](Japan/recruiters/36recruiters.md) 
 > There are up to 90 companies, ranging from small one man companies to larger companies that specialize in bilingual recruitment, with thousands more that only focus on the Japanese-speaking market in a variety of sectors.
 
-[![Robert Half](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/rh_logo.gif)](https://www.roberthalf.jp/en)
+[![Robert Half](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/robert_half_logo_svg.svg)](https://www.roberthalf.jp/en)
 
-[![Robert Walters](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/robert-walters-logo.png)](https://www.robertwalters.co.jp/en/)
+[![Robert Walters](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/robert_walters_logo_svg.svg)](https://www.robertwalters.co.jp/en/)
 
-[![Michael Page](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-mp.png)](http://www.michaelpage.co.jp/en)
+[![Michael Page](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/michael_page_logo_svg.svg)](http://www.michaelpage.co.jp/en)
 
-[![Heidrick Struggles](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/H%26S.jpg)](http://www.heidrickstruggles.com)
+[![Heidrick Struggles](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/heidrick_struggles_logo_svg.svg)](http://www.heidrickstruggles.com)
 
-[![Korn Ferry](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-kf.png)](http://www.kornferry.com)
+[![Korn Ferry](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/korn_ferry_logo_svg.svg)](http://www.kornferry.com)
 
-[![Computer Futures](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo.png)](http://www.computerfutures.com)
+[![Computer Futures](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/computer_futures_logo_svg.svg)](http://www.computerfutures.com)
 
-[![SThree](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/sthreeLogo.png)](http://www.sthree.com/)
+[![SThree](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/s_three_logo_svg.svg)](http://www.sthree.com/)
 
-[![Hays](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/img_logo_hays.gif)](http://www.hays.co.jp/en/)
+[![Hays](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/hays_logo_svg.svg)](http://www.hays.co.jp/en/)
 
-[![Randstad](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo-randstad-holding.png)](http://www.randstad.co.jp/)
+[![Randstad](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/randstad_logo_svg.svg)](http://www.randstad.co.jp/)
 
-[![JAC](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo_01_JAC.png)](http://www.jac-recruitment.jp/)
+[![JAC](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/jac_logo_svg.svg)](http://www.jac-recruitment.jp/)
 
 ### List of Recruiters
 [![BRS/Persol]()](https://brs-p.jp/)
 
-[![Manpower](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo_manpower.png)](http://www.manpowergroup.jp/english/)
+[![Manpower](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/manpower_logo_svg.svg)](http://www.manpowergroup.jp/english/)
 
-[![Pasona](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/logo_pasona.gif)](http://www.pasonagroup.co.jp/english/)
+[![Pasona](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/pasona_logo_svg.svg)](http://www.pasonagroup.co.jp/english/)
 
-[![Recruit RGF]()](http://www.recruit-rgf.com/company/group/japan)
+[![Recruit RGF](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/recruit_rgf_logo_svg.svg)](http://www.recruit-rgf.com/company/group/japan)
 
-[![Adecco](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/Recruiters/share_corplogo_01_addeco.gif)](http://www.adecco.co.jp/english/)
+[![Adecco](https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/logos/recruitment/adecco_logo_svg.svg)](http://www.adecco.co.jp/english/)
 
 ### Smaller Recruiters
 [![BMES]()](http://www.bmes.com)
