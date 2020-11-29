@@ -104,8 +104,10 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 > These are roles from another bilingual job site in Japan, and also one of the first. If you are learning Japanese, you can see the Japanese words for the roles and practice describing your experience through the roles you see broken down by industry. #6522
 
 32.	[Job Search Diary](Japan/applicants/job_search.md)
+> Example of a Job Diary - Pick a typical Day - Looking at [Glassdoor](https://www.glassdoor.com) for jobs in technology with the title Client Service Partner.  This is an IT role similar to an Account Manager in the field of Enterprise IT or IT Managed Services.
 
 33.	[Job Search 仕事探し](Japan/applicants/shigoto.md)
+> 
 
 34.	[Jobs in Eastern Europe](EU/easterneurope.md)
 
