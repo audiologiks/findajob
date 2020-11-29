@@ -4,8 +4,7 @@
 |    |      |      |
 | ---- | ---- | ---- |
 | July Job search | About the Meetup | Meetup Members |
-<img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx.jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(1).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(2).jpg" width="300">
-
+| <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx.jpg" width="300"> | <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(1).jpg" width="300"> | <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(2).jpg" width="300"> | 
 <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(3).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(4).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(5).jpg" width="300">
 
 <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(6).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(7).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(8).jpg" width="300">
