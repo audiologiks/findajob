@@ -115,9 +115,10 @@ July job search in Japan from [Audiologiks](https://www.slideshare.net/thjonz) #
 Eastern Europe, as defined by the United Nations Statistics Division, includes the countries of Bulgaria, Czech Republic, Hungary, Poland, Romania, Russian Federation, and Slovakia, as well as the republics of Belarus, Moldova, and Ukraine. #6527
 
 35.	[Joining Meetup Events - Just look for the Event Announcements for various groups](Japan/applicants/meetups.md)
->  
+>  Meetups in Tokyo, Japan We run a Meetup in Tokyo focused on jobs in Japan and overseas, for anyone interested in finding a bilingual job or interested in learning about building a bilingual career. #6530
 
 36.	[Linkedin Profiles and Using your Languages](Japan/applicants/linkedin_profiles.md)
+> Having a linkedin profile serves as a beacon for companies and recruiters to find you, and check whether your experience and background are a fit for any particular role. I believe it is good to include Japanese in the interview, even if you are N3 or N4 (JLPT levels). #6546
 
 37.	[Links on English resume preparation](Japan/applicants/readme.md)
 
