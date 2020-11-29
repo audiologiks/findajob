@@ -104,14 +104,18 @@ There are more articles updated during the year at [Audiologiks.com](https://aud
 > These are roles from another bilingual job site in Japan, and also one of the first. If you are learning Japanese, you can see the Japanese words for the roles and practice describing your experience through the roles you see broken down by industry. #6522
 
 32.	[Job Search Diary](Japan/applicants/job_search.md)
-> Example of a Job Diary - Pick a typical Day - Looking at [Glassdoor](https://www.glassdoor.com) for jobs in technology with the title Client Service Partner.  This is an IT role similar to an Account Manager in the field of Enterprise IT or IT Managed Services.
+> Example of a Job Diary - Pick a typical Day - Looking at [Glassdoor](https://www.glassdoor.com) for jobs in technology with the title Client Service Partner.  This is an IT role similar to an Account Manager in the field of Enterprise IT or IT Managed Services. #6523
 
 33.	[Job Search 仕事探し](Japan/applicants/shigoto.md)
-> 
+> A presentation on the steps in a Job Search and some options　仕事検索／キャリア探しの選択のプレゼン [July job search in Japan](https://www.slideshare.net/thjonz/july-job-search-in-japan) | July Job search | About the Meetup | Meetup Members |
+July job search in Japan from [Audiologiks](https://www.slideshare.net/thjonz) #6526
 
 34.	[Jobs in Eastern Europe](EU/easterneurope.md)
+> [Eastern Europe](https://www.newworldencyclopedia.org/entry/Eastern_Europe)
+Eastern Europe, as defined by the United Nations Statistics Division, includes the countries of Bulgaria, Czech Republic, Hungary, Poland, Romania, Russian Federation, and Slovakia, as well as the republics of Belarus, Moldova, and Ukraine. #6527
 
 35.	[Joining Meetup Events - Just look for the Event Announcements for various groups](Japan/applicants/meetups.md)
+>  
 
 36.	[Linkedin Profiles and Using your Languages](Japan/applicants/linkedin_profiles.md)
 
