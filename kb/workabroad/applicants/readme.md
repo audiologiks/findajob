@@ -1,8 +1,4 @@
 # Article Index
-
-11. [Example of a Resume and Key Points](Japan/applicants) 
-> Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
-
 32. [Job Search Diary](applicants/job_search.md)
 
 33. [Job Search 仕事探し](applicants/shigoto.md)

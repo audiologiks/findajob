@@ -1,11 +1,7 @@
 <p>
   <a href="https://d3loylgx84jw3f.cloudfront.net/audio/8611/kb-article/rc_kb_article_visa_labor_law_1016.mp3" target="”_blank”"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/all/banner/menu_info_banner.png"></a>
 </p>
-<p>
-  <a href="https://github.com/audiologiks/kb-Articles/blob/master/JapanJob/LeavingJobs/LaborLawJp.md" target="_blank" rel="noopener"><img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/logos/cos/Octocat.jpg" width="100" height="100"></a>Click
-  on the picture to go to Gihub
-</p>
-<h1 id="articleTitle">Employment &amp; labour law in Japan</h1>
+<h1 id="articleTitle">Employment labour law in Japan</h1>
 <p>Sample</p>
 <p>
   <strong>Is a distinction drawn between local and foreign workers?</strong>

@@ -1,7 +1,6 @@
 ![Submit a Resume](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/icons/office/icons8-submit-resume-filled-50.png)
 
 # Article Index
-
 11. [Example of a Resume and Key Points](Japan/applicants) 
 > Your Resume or CV is the very basic way to communicate what you can do, and whether you are a match for an open role at a company. While global companies would use a standard format for English resumes, there is a traditional format for Japanese-language resumes when applying to a Japanese company.
 

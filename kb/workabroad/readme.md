@@ -121,10 +121,13 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 > Having a linkedin profile serves as a beacon for companies and recruiters to find you, and check whether your experience and background are a fit for any particular role. I believe it is good to include Japanese in the interview, even if you are N3 or N4 (JLPT levels). #6546
 
 37.	[Links on English resume preparation](Japan/applicants/readme.md)
+> Check your resume or ask someone you trust to review your English resume. It should be in active voice, tying your actions to the results of your employer to show your value to the company. Japanese and English versions of a resume are good to submit, hiring managers might prefer to use the Japanese version during the interview. It can be in the same format as your English resume, unless specifically requested to submit in “rirekisho” format. #6549
 
 38.	[Links to English Articles on Labor Regulations](Japan/labor_regulations.md)
+> Is a distinction drawn between local and foreign workers? Foreign workers must satisfy immigration requirements in order to work in Japan. Visa requirements do not apply to nationals of countries with which Japan has reciprocal exemption arrangements. #6552
 
 39.	[Links to IT Support Jobs in Tokyo](Japan/IT_Support/finding_jobs.md)
+> Found 17 jobs listed on Glassdoor with IT Support in them www.glassdoor.com Looked at the results from keywords like IT Service Support (520 Jobs), Helpdesk, SLA (46 jobs). and Customer Success (824 jobs). #6555
 
 ## 40 - 49
 
