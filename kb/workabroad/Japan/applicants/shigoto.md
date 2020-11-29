@@ -2,7 +2,7 @@
 
 ### 仕事検索／キャリア探しの選択のプレゼン
 
-  <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx.jpg" width="703" height="527">
+![Presentation Cover Page - July Job Search](https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx.jpg =100x50)
   <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(1).jpg" width="703" height="527">
   <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(2).jpg" width="703" height="527">
   <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(3).jpg" width="703" height="527">
