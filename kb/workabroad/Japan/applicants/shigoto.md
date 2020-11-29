@@ -3,6 +3,7 @@
 ### 仕事検索／キャリア探しの選択のプレゼン
 |    |      |      |
 | ---- | ---- | ---- |
+| July Job search | About the Meetup | Meetup Members |
 <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx.jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(1).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(2).jpg" width="300">
 
 <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(3).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(4).jpg" width="300"> <img src="https://s3-ap-northeast-1.amazonaws.com/all-jp-1/img/meetup/July+Job+Search/July+Job+Search.pptx+(5).jpg" width="300">
