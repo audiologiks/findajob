@@ -131,29 +131,29 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 
 ## 40 - 49
 
-40.	[Meetup Notes 5/6/2018 - Nihon no Job Market Meetup](applicants/meetupnotes/may_5_2016.md)
-> Getting a Job in Japan | Meetup link | Link to notes on the Meetup | Interviews | Determining Salary | Resume/CV Style | Visas | Self-education, Training resources
+40.	[Meetup Notes 5/6/2016 - Nihon no Job Market Meetup](applicants/meetupnotes/may_5_2016.md)
+> Getting a Job in Japan | Meetup link | Link to notes on the Meetup | Interviews | Determining Salary | Resume/CV Style | Visas | Self-education, Training resources #6572
 
 41.	[Meetup Notes April 2016 - Nihon no Job Market](applicants/meetupnotes/april_6_2016.md)
-> Background of Participants | How Long Looking for a Job? | Topics Talked About | Resources
+> Background of Participants | How Long Looking for a Job? | Topics Talked About | Resources #6564
 
 42.	[Meetup Notes August 2018 - Global Careers Information](applicants/meetupnotes/aug_18_2018.md)
-> Themes: tales about 4 cities > Topics | Resume styles in different countries | Investing in Education in Japan or Overseas? | What training and school makes the most impact on employers | Backgrounds and Experience | Ways to Network | Transferring internally | Using Linkedin | Showcasing specialized knowledge of your industry | Gaming and Graphic Designs | Indeed | Tasks for Networking and finding jobs | Game-related websites
+> Themes: tales about 4 cities > Topics | Resume styles in different countries | Investing in Education in Japan or Overseas? | What training and school makes the most impact on employers | Backgrounds and Experience | Ways to Network | Transferring internally | Using Linkedin | Showcasing specialized knowledge of your industry | Gaming and Graphic Designs | Indeed | Tasks for Networking and finding jobs | Game-related websites #6565
 
 43.	[Meetup Notes December 2018 - Global Careers Information](applicants/meetupnotes/dec_8_2018.md)
-> Topics Discussed (En/Ja) | Europe Links to Information on audiologiks.com | Americas Links to Information on audiologiks.com | Asia Links to Information on audiologiks.com | Oceania Links to Information on audiologiks.com | One Member's Background | Topics of Conversation
+> Topics Discussed (En/Ja) | Europe Links to Information on audiologiks.com | Americas Links to Information on audiologiks.com | Asia Links to Information on audiologiks.com | Oceania Links to Information on audiologiks.com | One Member's Background | Topics of Conversation #6566
 
 44.	[Meetup Notes February 2017 - Global Careers Information](applicants/meetupnotes/2017_intro.md)
-> Intro to the Global Career Meetup in Tokyo | Questions for Attendees | Topics - Looking for a Job | Visas | Relying on recruiters and trying other ways of finding a job | Things to think about for the Job | Country - What Country are you looking for a Job in?
+> Intro to the Global Career Meetup in Tokyo | Questions for Attendees | Topics - Looking for a Job | Visas | Relying on recruiters and trying other ways of finding a job | Things to think about for the Job | Country - What Country are you looking for a Job in? #6567
 
 45.	[Meetup Notes November 2017 - Global Careers Information](applicants/meetupnotes/nov_18_2017.md)
-> Overview of working in France and Mexico | Links to Job Boards in France (in French and English) | Check out Chambers of Commerce to find companies where you might see jobs posted
+> Overview of working in France and Mexico | Links to Job Boards in France (in French and English) | Check out Chambers of Commerce to find companies where you might see jobs posted #6576
 
 46.	[Meetup Notes June 2017 - Global Careers Information](applicants/meetupnotes/jun_2_2017.md)
-> Backgrounds of Attendees | What country do you want to work in? | Have you ever worked overseas? | Where are you from? | What makes you interested to come tonight? | What is your background? | What makes working overseas interesting? | What is most scary about changing jobs or working overseas? | Only available if under 31 (more info here) | I would like more information on :
+> Backgrounds of Attendees | What country do you want to work in? | Have you ever worked overseas? | Where are you from? | What makes you interested to come tonight? | What is your background? | What makes working overseas interesting? | What is most scary about changing jobs or working overseas? | Only available if under 31 (more info here) | I would like more information on : #6569
 
 47.	[Meetup Notes Sept 2017 - Nihon no Job Market](applicants/meetupnotes/sept_2017.md)
-> Potential Interviewees are: | Questions for a Recruiter can be: | How is the job market in Tokyo and Asia? | What fields or areas of the job market does your company specialize in? | What is the background and strengths of your company? | What kind of candidates are foreign companies in Tokyo looking for? | Is a high-level of English required for jobs at foreign companies? | If I am interested in working outside of Japan, can a recruiter help me to find a suitable position? | How many interviews can there be, in a typical application process? | If an applicant has had a lot of jobs over their career, will that hurt their chances or will companies not select them for interviews due to that?
+> Potential Interviewees are: | Questions for a Recruiter can be: | How is the job market in Tokyo and Asia? | What fields or areas of the job market does your company specialize in? | What is the background and strengths of your company? | What kind of candidates are foreign companies in Tokyo looking for? | Is a high-level of English required for jobs at foreign companies? | If I am interested in working outside of Japan, can a recruiter help me to find a suitable position? | How many interviews can there be, in a typical application process? | If an applicant has had a lot of jobs over their career, will that hurt their chances or will companies not select them for interviews due to that? #6577
 
 48.	[Meetup Notes July 2018 - Global Career Information](applicants/meetupnotes/jul_22_2018.md)
 > Tasks for the Job Search | Using Google CSE (Custom Search Engine to Search 5 Job sites) | Check out our Examples on Asia | English - Language Sources | Goals of Working Abroad or in Japan | Is Money the first priority or just getting a visa? | What Job Roles are you Experienced in and Where can you apply to?
