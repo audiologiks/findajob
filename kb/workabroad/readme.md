@@ -164,22 +164,22 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 ## 50 - 59
 
 50.	[Meetup Notes May 2017 - Global Careers Information](applicants/meetupnotes/may_7_2017.md)
-> Discussion on the Life Sciences Industry in Japan | Organizations in Japan | Events in Japan | Media & Information Sites | Resources on Issues in Healthcare and Lifesciences | Recruiters 
+> Discussion on the Life Sciences Industry in Japan | Organizations in Japan | Events in Japan | Media & Information Sites | Resources on Issues in Healthcare and Lifesciences | Recruiters #6544
 
 51.	[Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
 > IT Support Jobs in Tokyo | IT Support Companies | Types of Support | Service Management #6574
 
 52.	[Resume/CV Styles](Japan/applicants/resume.md)
-> Resume/CV Styles | Key Data Points in a Resume | Good Examples online #
+> Resume/CV Styles | Key Data Points in a Resume | Good Examples online #6575
 
 53.	[Asia Recruiters and Job Boards](Asia/recruiter_asia.md)
-> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）| Japan Job Board オンラインのジャパン仕事サイト | Knowledge Bank: Articles	英語の記事 | Q&A 質問と答え #
+> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）| Japan Job Board オンラインのジャパン仕事サイト | Knowledge Bank: Articles	英語の記事 | Q&A 質問と答え #6648
 
 54.	[Having a Linkedin profile and where do you want to work](applicants/meetupnotes/sept_16_2017.md)
-> Where do you want to work? | Who wants to work in? | Japanese working practices | Benefits of working and understanding Japanese customer’s expectations | Having a Linkedin profile | Working in Canada | Understanding the visa system of the country you want to work in | Working in New York or the West Coast, Mid-west, Southeast or Southwest | Studying abroad as a first job to finding a job | Getting a work-pass in Singapore, easier than other countries? | Looking for jobs on Online job boards | Using Foreign Chambers of Commerce to identify companies | Active vs Passive Looking for a job
+> Where do you want to work? | Who wants to work in? | Japanese working practices | Benefits of working and understanding Japanese customer’s expectations | Having a Linkedin profile | Working in Canada | Understanding the visa system of the country you want to work in | Working in New York or the West Coast, Mid-west, Southeast or Southwest | Studying abroad as a first job to finding a job | Getting a work-pass in Singapore, easier than other countries? | Looking for jobs on Online job boards | Using Foreign Chambers of Commerce to identify companies | Active vs Passive Looking for a job #6577
 
 55.	[Mock Interviews and Practice](applicants/practice_interviews.md)
-> Practice Mock Interviews in English – In-person or over Skype or another voice chat service (Google Hangups, Apple Facetime, etc.) If a service is created via Twilio, then set up recording and review the recorded interviews together with Students
+> Practice Mock Interviews in English – In-person or over Skype or another voice chat service (Google Hangups, Apple Facetime, etc.) If a service is created via Twilio, then set up recording and review the recorded interviews together with Students #6578
 - 30 min recording and 30 min review
 
 56.	[Points to Consider When Looking for a Job](applicants/points_looking_job.md)
@@ -224,10 +224,12 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 67.	[Staffing in Japan: Spotlight on Adecco](https://www.slideshare.net/thjonz/al-presentation-adecco-showing-some-slides-from-adecco-and-other-sources)
 
 68.	[What Recruiters are Looking for](Japan/recruiters/what_looking_for.md)
->
+> - are looking for candidates whose background and skills match the ones they think a client will want.
+
+- they are looking to understand if you fit that profile. Depending on what area they specialize in (industry like IT, Finance, or Life Sciences) and the level of the candidate they handle (Junior, Mid-level, and Senior), you can try to tell if you are in their target area. #6634
 
 69.	[Working in Asia - Links for Finding a Job (English & Japanese)](Asia/readme.md)
->
+> 14 Countries, 102 Asia Job Boards and Links to Jobs in English and Japanese #6645
 
 ## 70 - 79
 
