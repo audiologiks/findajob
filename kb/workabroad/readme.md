@@ -234,18 +234,28 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 ## 70 - 79
 
 71.	[Working in the US - Links](USA/readme.md)
+> Links on Working in the United States, in Japanese and English
+  Different types of available visas and job sites to look at #6652
+
+- Working in the US, being able to be hired and fired more easily
+- Different culture than Europe and Japan, with more short-term focus on jobs rather than long-term stability or regulation.
 
 72.	[Working Outside of Japan](Japan/applicants/working_outside.md)
+> Registered in JAC for Malaysia, Singapore, and India #6561
 
 73.	##Youtube: Job Search in Japan Presentation - In production##
 
 74.	[人材紹介コンサルタントのインタービユー](Japan/recruiters/jp_recruiter_interview.md)
+> マークストーンマンにインタービユー (リンクをクリックしてください) #6664
 
 75.	[学生のビサーとインターンシップ Study in Japan and Internships](Japan/applicants/internships_visa.md)
+> Searching for a Study Abroad program in Japan or Language Program #6667
 
 76.	[List of 1,000 + Public Japanese companies](Japan/jp_companies.md)
+> List of 1,000 + Public Japanese companies #6603
 
 77.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](Japan/recruiters/hays_japan.md)
+> 
 
 78.	[Looking for Startups: Companies from Angel List](Japan/startups.md) Finding a Startup to Join
 > If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
@@ -254,6 +264,7 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 > Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
 
 80. [Audio files on Invisible Jobs](Japan/applicants/invisiblejobs.md)
+> 
 
 81. [Thinking about Changing Roles](Japan/jobboards/roles_ja.md) Roles within different Industries
  > エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
