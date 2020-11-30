@@ -1,6 +1,6 @@
-<p>
-  I looked up 60 questions on recruitment websites, and it can help to practice
-  answers to the ones you believe will come up<br>
+# 60 Questions for Interviews
+
+I looked up 60 questions on recruitment websites, and it can help to practice answers to the ones you believe will come up
   <br>
   <strong>QT 1</strong><br>
   ■ Why did you choose your particular career path/field?<br>
@@ -105,4 +105,4 @@
   ■ Are you a self-starter? Please give an example from a previous job<br>
   ■ What questions do you have about the position or the company?<br>
   ■ What did you learn most in your last job
-</p>
+

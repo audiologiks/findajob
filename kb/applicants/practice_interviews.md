@@ -1,9 +1,7 @@
 ## Offer a Practice Phone Interview Service for Students
 
 Practice Mock Interviews in English – In-person or over Skype or another voice chat service (Google Hangups, Apple Facetime, etc.)
-
 If a service is created via Twilio, then set up recording and review the recorded interviews together with Students
-
 - 30 min recording and 30 min review
 
 ### Interview Preparation

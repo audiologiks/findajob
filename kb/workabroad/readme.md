@@ -156,38 +156,48 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 > Potential Interviewees are: | Questions for a Recruiter can be: | How is the job market in Tokyo and Asia? | What fields or areas of the job market does your company specialize in? | What is the background and strengths of your company? | What kind of candidates are foreign companies in Tokyo looking for? | Is a high-level of English required for jobs at foreign companies? | If I am interested in working outside of Japan, can a recruiter help me to find a suitable position? | How many interviews can there be, in a typical application process? | If an applicant has had a lot of jobs over their career, will that hurt their chances or will companies not select them for interviews due to that? #6577
 
 48.	[Meetup Notes July 2018 - Global Career Information](applicants/meetupnotes/jul_22_2018.md)
-> Tasks for the Job Search | Using Google CSE (Custom Search Engine to Search 5 Job sites) | Check out our Examples on Asia | English - Language Sources | Goals of Working Abroad or in Japan | Is Money the first priority or just getting a visa? | What Job Roles are you Experienced in and Where can you apply to?
+> Tasks for the Job Search | Using Google CSE (Custom Search Engine to Search 5 Job sites) | Check out our Examples on Asia | English - Language Sources | Goals of Working Abroad or in Japan | Is Money the first priority or just getting a visa? | What Job Roles are you Experienced in and Where can you apply to? #6674
 
-49.	[Meetup Notes May 2016 - Nihon no Job Market](applicants/meetupnotes/may_6_2017.md)
-> Summary of Conversation Topics | Topics | Chambers of Commerce: The Swiss Chamber of Commerce (SCCJ) | Interview preparation | Determining Salary | Resume/CV Style | Visas | Self-education, Training resources
+49.	[Meetup Notes May 2017 - Nihon no Job Market](applicants/meetupnotes/may_6_2017.md)
+> Summary of Conversation Topics | Topics | Chambers of Commerce: The Swiss Chamber of Commerce (SCCJ) | Interview preparation | Determining Salary | Resume/CV Style | Visas | Self-education, Training resources #6573
 
 ## 50 - 59
 
 50.	[Meetup Notes May 2017 - Global Careers Information](applicants/meetupnotes/may_7_2017.md)
-> Discussion on the Life Sciences Industry in Japan | Organizations in Japan | Events in Japan | Media & Information Sites | Resources on Issues in Healthcare and Lifesciences | Recruiters
+> Discussion on the Life Sciences Industry in Japan | Organizations in Japan | Events in Japan | Media & Information Sites | Resources on Issues in Healthcare and Lifesciences | Recruiters 
 
 51.	[Meetup Notes May 2017 - IT Support Jobs](Japan/applicants/it_support.md)
-> IT Support Jobs in Tokyo | IT Support Companies | Types of Support | Service Management
+> IT Support Jobs in Tokyo | IT Support Companies | Types of Support | Service Management #6574
 
-52.	[Meetup Notes May 2017 - Nihon no Job Market](Japan/applicants/resume.md)
-> Resume/CV Styles | Key Data Points in a Resume | Good Examples online
+52.	[Resume/CV Styles](Japan/applicants/resume.md)
+> Resume/CV Styles | Key Data Points in a Resume | Good Examples online #
 
-53.	[Meetup Notes November 2017 - Global Careers Information](Asia/recruiter_asia.md)
-> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）| Japan Job Board オンラインのジャパン仕事サイト | Knowledge Bank: Articles	英語の記事 | Q&A 質問と答え
+53.	[Asia Recruiters and Job Boards](Asia/recruiter_asia.md)
+> Recruiters in Malaysia and Singapore（マレーシアとシンガポールの人材紹介会社）| Japan Job Board オンラインのジャパン仕事サイト | Knowledge Bank: Articles	英語の記事 | Q&A 質問と答え #
 
-54.	[Meetup Notes September 2017 - Global Careers Information](applicants/meetupnotes/sept_16_2017.md)
+54.	[Having a Linkedin profile and where do you want to work](applicants/meetupnotes/sept_16_2017.md)
 > Where do you want to work? | Who wants to work in? | Japanese working practices | Benefits of working and understanding Japanese customer’s expectations | Having a Linkedin profile | Working in Canada | Understanding the visa system of the country you want to work in | Working in New York or the West Coast, Mid-west, Southeast or Southwest | Studying abroad as a first job to finding a job | Getting a work-pass in Singapore, easier than other countries? | Looking for jobs on Online job boards | Using Foreign Chambers of Commerce to identify companies | Active vs Passive Looking for a job
 
 55.	[Mock Interviews and Practice](applicants/practice_interviews.md)
-> 
+> Practice Mock Interviews in English – In-person or over Skype or another voice chat service (Google Hangups, Apple Facetime, etc.) If a service is created via Twilio, then set up recording and review the recorded interviews together with Students
+- 30 min recording and 30 min review
 
 56.	[Points to Consider When Looking for a Job](applicants/points_looking_job.md)
+> Looking for a new job
+* I'll post information on looking for jobs as I get it or find anything on the web. 
+* One key for many jobs is to improve your ability in Japanese and English as it can always distinguish you from others in your field. 
+* No matter how tough it can be, small improvements can lead to results in interviews and in the job so coming up with ways to learn and practice is always a good thing. #6582
 
 57.	[Practice Job Interviews](applicants/interview_system.md)
+> Three ways interns can benefit from an Interactive Interview system
+- Practice interviews online
+- Practice language learning (Japanese) #6585
 
 58.	[Practice Questions for an Interview](applicants/interview_questions.md)
+> I looked up 60 questions on recruitment websites, and it can help to practice answers to the ones you believe will come up #6588
 
 59.	[Preparing a Resume](Japan/applicants/latestcv.md)
+> Resume/CV Tips - Make sure you have your latest copy handy when you see a job you want to apply for, and that you have checked it out to ensure it says what you want and relates to the job you are applying for. #6589
 
 ## 60 - 69
 
@@ -196,18 +206,28 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 62.	[Presentation on Staffing Market in Japan](https://www.slideshare.net/thjonz/staffing-amp-recruitment-market-10-in-japan)
 
 63.	[Recruiters with Life Sciences Teams in Japan](Life_Sciences.md)
+> Global Headhunters グローバル人材紹介会社 #6595
 
 64.	[Reference Questions as part of Interview Process](Japan/applicants/reference.md)
+> Reference questions are done at the end of the interview process where companies would like to hear from a former manager or co-worker at to the applicant's qualities, experience and skills. #6600
+
+* Management 
+* Coworkers
+* Clients/Customers
 
 65.	[Salary Determination and Research](Japan/applicants/salary_check.md)
+> Recruiters can be a big help in determining salaries, range for the position and whether your desired salary is reachable. Job portals and online websites also have good benchmarks. #6608
 
 66.	[Shared Documents : 90 Recruiting Companies](https://docs.google.com/spreadsheets/d/144eZKMgR9tL1xLIikd1z3kDEpJH07zczpeoQX9_r_ok/edit?usp=sharing)
+>
 
 67.	[Staffing in Japan: Spotlight on Adecco](https://www.slideshare.net/thjonz/al-presentation-adecco-showing-some-slides-from-adecco-and-other-sources)
 
 68.	[What Recruiters are Looking for](Japan/recruiters/what_looking_for.md)
+>
 
 69.	[Working in Asia - Links for Finding a Job (English & Japanese)](Asia/readme.md)
+>
 
 ## 70 - 79
 

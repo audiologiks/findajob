@@ -1,9 +1,9 @@
 ## Three ways interns can benefit from an Interactive Interview system
-
 - Practice interviews online
 - Practice language learning (Japanese)
 
 Talk about your work experience in English and share with employer
+
 - Useful for self-introductions
 - Speech practice
 - Presentation practice
