@@ -255,19 +255,19 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 > List of 1,000 + Public Japanese companies #6603
 
 77.	[ヘーズジャパン HAYS Japan : Industry and Recruiting Team](Japan/recruiters/hays_japan.md)
-> 
+>  Industries and Where Hays has Jobs in Japan 1,152 Jobs in various industries #6487
 
 78.	[Looking for Startups: Companies from Angel List](Japan/startups.md) Finding a Startup to Join
-> If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. 
+> If you are interested in Startups, you can check out job boards like Justa.io, or an e-Commerce startup like White Rabbit Express. Some overseas sites that have companies listed are angel.co and crunchbase. Just input the keywords, Japan or Tokyo. #6643
 
 79. [Retail Payments in Japan for Gaming](retailpayments.md) 
-> Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. 
+> Japan is a great market for trends in retail I think because it is a market facing several challenges that spurs innovation and problem-solving for companies.&nbsp; Check out some industry research on the global industry. #6477
 
 80. [Audio files on Invisible Jobs](Japan/applicants/invisiblejobs.md)
-> 
+> A presentation on Jobs present on various bilingual jobs boards and jobs that are in Japanese, and maybe not "visible" to non-bilingual foreign jobs seekers. The full presentation is posted on slideshare.net #6445
 
 81. [Thinking about Changing Roles](Japan/jobboards/roles_ja.md) Roles within different Industries
- > エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc.
+ > エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc. 
 
 82. [14 Asia Job Boards](Asia)
 
