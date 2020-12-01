@@ -1,8 +1,6 @@
-There are articles organized by Country where a person wants to work, and topics on working overseas. 
+There are articles organized by Country where a person wants to work, and topics on working overseas, and more articles updated during the year at [Audiologiks.com](https://audiologiks.zendesk.com/hc)
 
-There are more articles updated during the year at [Audiologiks.com](https://audiologiks.zendesk.com/hc)
-
-#	Index of Articles on Working Abroad (last updated on 11/20/2020)
+#	Index of Articles on Working Abroad (last updated on 12/1/2020)
 
 1.  [26 Careercross Job Categories, 218 Sub-categories (English)](Japan/jobboards/careercross.md) 
 > Just showing the number of jobs, job roles, industries and categories of work there are. Just an amazing amount of specialization in work. If you don't have much experience, try to see where your skills will fit and your experience gives you some insight into the role. Careercross is one of the first bilingual internet job boards in Japan and is run by a large recruitment company. #6431 #Japan #jobroles
@@ -267,14 +265,18 @@ Eastern Europe, as defined by the United Nations Statistics Division, includes t
 > A presentation on Jobs present on various bilingual jobs boards and jobs that are in Japanese, and maybe not "visible" to non-bilingual foreign jobs seekers. The full presentation is posted on slideshare.net #6445
 
 81. [Thinking about Changing Roles](Japan/jobboards/roles_ja.md) Roles within different Industries
- > エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc. 
+ > エグゼクティブ/経営 Executive Management roles within companies, so these can be senior roles within each functional silo, like Sales, Engineering, Marketing, Human Resources, etc. #6472
 
 82. [14 Asia Job Boards](Asia)
+> Asian Job Boards and Economies ver 6.2.5 14 Countries, 102 Asia Job Boards and Links to Jobs in English and Japanese #6475
 
-83. [A Tale of 4 Cities in the USA and EU](USA/EUandUSA.md)
+83. [A Tale of 4 Cities in the USA and EU](USA/EUandUSA.md)  
+>  Themes Talked about at the Meetup
+Visiting Paris and London - https://www.audiologiks.com/InterJobs/Europe/
+Working in Los Angeles - https://www.audiologiks.com/InterJobs/Americas/NorthAmerica/united_states.php #6650
 
 84. [Working in the EU and Working in Mexico](applicants/meetupnotes/nov_18_2017.md)
+> From a blog on working overseas with information on various countries [Link to Working in Mexico](https://www.justlanded.com/english/Mexico/Mexico-Guide/Visas-Permits/Work-permits) From audiologiks.com, where I posted links on information to working in Mexico [Link to Page on Mexico Jobs](https://www.audiologiks.com/InterJobs/Americas/NorthAmerica/mexico.php) #6676
 
 85. [Working in the EU and Japan - Sweden and France](EU/EUJapan.md)
-
-86. [Working in Singapore : Useful Links](Asia/singapore)
+> Name, Background, What country you are interested in working in? Registered in JAC for Malaysia, Singapore, and India. Other attendees want to work in Europe, Canada, Australia and Singapore. #6654
